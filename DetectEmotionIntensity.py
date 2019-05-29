@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 30 00:22:46 2017
 
-@author: vishw
-"""
 
 from FeatureExtractionForTest import extracting as extractingtest
 from FeatureExtraction import extracting as extractingtrain

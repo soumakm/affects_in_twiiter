@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  8 09:36:54 2017
 
-@author: vishw
-"""
 import numpy as np
 import pandas as pd
 from sklearn import svm

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 20 18:05:01 2017
 
-@author: vishw
-"""
 from __future__ import print_function
 from time import time
 import numpy as np

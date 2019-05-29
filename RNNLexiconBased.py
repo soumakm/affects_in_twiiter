@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 17 12:52:32 2017
-
-@author: vishw
-"""
 
 from keras.models import Sequential
 from keras.layers import Dense

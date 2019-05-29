@@ -1,0 +1,1733 @@
+40000	['depression', 'sucks', '#depression']	3
+40001	['feeling', 'worthless', 'always', '#depression']	3
+40002	['feeling', 'worthless', 'always', '']	3
+40003	['#fibromyalgia', 'really', 'bad', 'lately', 'good', 'mental', 'state', 'feel', 'overwhelmed', '#anxiety', '#bipolar', '#depression']	3
+40004	['think', 'ima', 'lay', 'bed', 'day', 'sulk', 'life', 'hitting', 'hard', 'rn']	3
+40005	['try', 'fail', 'try', 'still', 'fail', '#confused', '#lost']	3
+40006	['extreme', 'sadness']	3
+40007	['life', 'one', 'word', 'depressing']	3
+40008	['panic', 'attacks', 'worst', 'feeling', 'really', 'sick', 'still', 'shaking', 'sleep', '#anxiety', '#depression']	3
+40009	['feel', 'grim', '', 'ugly', 'atm']	3
+40010	['honestly', 'depression', 'kicking', 'ass', 'lately', '']	3
+40011	['age', 'see', 'gray', 'gray', 'bad', 'eyes', 'perspective', '#depression', '', '#healingjustice']	3
+40012	['3', 'idk', 'start', 'feeling', 'depress', 'sad', 'lonely']	3
+40013	['sulk', 'much', 'good']	3
+40014	['night', 'depression', 'winning', '#depression', '#fml', '#help']	3
+40015	['going', 'home', 'depressing']	3
+40016	['even', 'grieve', 'one', 'black', 'body', 'another', 'one', 'pops', 'due', 'pig', 'brutality']	3
+40017	['gloomy', 'ass', 'day']	3
+40018	['fra93bruno', 'wow', 'just', 'really', 'sadden', 'terrible']	3
+40019	['heads', 'still', 'ibiza', 'body', 'sat', 'desk', 'work', '#depressing']	3
+40020	['ashleyavitia', 'leave', '#sad']	3
+40021	['depression', 'sucks', '']	3
+40022	['week', 'awful', 'connectivity', 'tmobile', 'service', '4g', 'paying', '#unhappy', '#poorservice']	3
+40023	['depressing', 'shit', 'ever']	3
+40024	['sometimes', 'worst', 'place', 'can', 'headnn#quotes', '#worstenemy', '#depression', '#thinktoomuch']	3
+40025	['tmobilehelp', 'service', 'cleveland', 'oh', 'going', '#unhappy']	3
+40026	['sad', 'evening', '', 'clearing', 'harveys', 'cage', 'belongings', 'now', 'final', 'goodbye', 'little', 'man', '#depressing']	3
+40027	['15', 'doe', 'run', 'opposite', 'side', '', '#depression']	3
+40028	['moment', 'day', 'start', 'plaster', 'smile', 'face', '#depression']	3
+40029	['hate', 'gloomy', 'outside', 'always', 'gets', 'depressing', 'mood']	3
+40030	['people', 'stealing', 'things', 'work', 'quite', 'damper', 'day', 'now', 'going', 'wear', 'pajamas', 'day']	3
+40031	['flakejay', 'ring', 'ring', '#depression']	3
+40032	['now', 'september', 'still', 'battling', 'situation', 'said', 'handled', 'march', 'year', 'att', 'unacceptable', '#unhappy']	3
+40033	['xbfdr', 'yeah', 'sure', 'will', 'just', 'depressing', 'talk', 'parents', 'phone', 'instead', 'talking', 'downstairs']	3
+40034	['', 'home', 'sick', 'blues', 'cure', 'need', 'ideas', '', '', '#sorethroat', '#sick', '#blues', '#music', '#fallweather', '#carletonuniversity', '#ottawa']	3
+40035	['wish', 'anxiety', 'depression', 'even', 'worst', 'people', 'fun', '#anxiety', '#depression']	3
+40036	['sorry', 'main', 'twitter', 'depress']	3
+40037	['markgatiss', 'surrounded', 'trump', 'voters', 'right', 'fucking', 'terrifying', '#redstate', '#despair']	3
+40038	['come', 'funeral', 'tomorrow', '12', 'mourn', 'death', 'gpa']	3
+40039	['tnfryed', 'jesus', 'just', 'made', 'think', 'vols', 'v', 'fl', 'games', 'seen', 'never', 'seen', 'win', '#depression']	3
+40040	['spending', '£450', 'debenhams', 'offered', '£5', 'voucher', 'asked', 'spend', 'weekend', 'told', 'valid', 'today', '#unhappy']	3
+40041	['thought', 'pretty', 'solid', 'gpa', 'kin', 'major', 'now', 'look', 'average', 'dpt', 'programs', 'feel', 'even', 'discouraged', '']	3
+40042	['depress', '']	3
+40043	['lament', 'nsaddened', 'heartnso', 'far', 'amp', 'nyet', 'nearnthe', 'years', 'sontough', 'amp', 'scarrednthis', 'lonesomenroadnstill', 'feared', '#depression', 'nn#poetry', '#poem']	3
+40044	['summer', 'officially', 'ends', 'today', '#sadness']	3
+40045	['evaluation', 'came', 'back', 'minimally', 'effective', 'student', 'test', 'scores', 'parcc', 'sunk', 'eval', 'time', 'quit', 'teaching']	3
+40046	['bad', 'news', 'fam', 'life', 'still', 'hard', 'awful', '#depression', '#anxiety', '#atleastihavebuffy']	3
+40047	['oh', 'just', 'get', '#depression', 'happy', 'think', 'tried', 'thousands', 'times', 'already', 'helping']	3
+40048	['really', 'constipated', 'depressing']	3
+40049	['health', 'insurance', 'cover', 'tms', 'let', 'know', 'cover', 'ect', '#mentalhealth', '#psychology', '#depression', '#tms', '#ect']	3
+40050	['somewhere', '', '#hope', '#despair', 'day', '#meetingmyabuserincourt', 'n#dvsurvivor']	3
+40051	['christyrtr', 'dogeefresh', 'despondent']	3
+40052	['2', 'applications', 'dbs', 'still', 'waiting', 'year', 'now', 'going', 'loose', 'job', '', 'govuk', '', '#thanks', '#unhappy', '#crb']	3
+40053	['miss', 'social', 'media', 'place', 'get', 'laughs', 'jump', 'dms', 'lol', 'shit', 'depressing', 'now', '']	3
+40054	['hayles101', 'three', 'rs', 'depress']	3
+40055	['many', 'gloomy', 'days']	3
+40056	['weather', 'sure', 'matches', 'mood', 'state', 'today', '#gloomy']	3
+40057	['dirty', '', 'self', 'loathing', 'attitude', '', 'mope', 'talking']	3
+40058	['wearing', 'black', 'tomorrow', 'continue', 'mourn', 'lives', 'recent', 'victims', 'police', 'brutality', '#blackout', '#wu']	3
+40059	['person', 'dislikes', 'fall', '#firstdayoffall', '#leaves', '#thingsdie', '#depressing', '#cold', '#noflipflops', '']	3
+40060	['soul', 'weary', 'fighting', 'battles', 'world', '#blackinamerica', '#wearenotsafe']	3
+40061	['prayers', 'family', 'friends', 'amp', 'members', 'vcfd', '', 'mourn', 'loss', 'engineer', 'ryan', 'osler', '#lodd', '#rip']	3
+40062	['just', 'wish', 'appreciated', 'turn', 'taken', 'care', 'want', 'break', '#tired', '']	3
+40063	['pureleine', 'though', 'lately', 'bad', 'depression', 'feel', 'like', 'body', 'like', 'just', 'taking', 'little', 'can', 'get']	3
+40064	['left', '#maine', '#sadness']	3
+40065	['fucking', 'sad', 'person', 'love', 'try', 'fighting', 'happiness', 'anything']	3
+40066	['jccrocker', '#charlotteprotest', 'u', '#wait', '4', 'facts', '#video', 'u', '#hate', 'now', 'ask', 'questions', 'later', '#sad', '#protest', '#policeshootings', '#suggestions']	3
+40067	['interesting', 'photo', 'mono', 'lisa', 'crying', 'whole', 'scene', 'depressing', '#ele6200']	3
+40068	['news', 'disheartening', 'everything', 'going', 'result', 'lack', 'understanding', 'misinformation', 'media', '#sadness']	3
+40069	['never', 'ever', 'unhappy', 'life', 'lmao']	3
+40070	['lebara', '', 'worst', 'possible', 'decision', 'made', 'arriving', 'uk', 'shocking', 'service', 'poor', 'coverage', '#unhappy']	3
+40071	['condolences', '', 'jc', 'georges', 'family', '#sad']	3
+40072	['one', 'wants', 'win', 'wild', 'card', 'play', 'cubs', 'road', '', '#sadness']	3
+40073	['groom', 'gloom']	3
+40074	['think', 'can', 'go', 'work', 'tomorrow', 'since', 'val', 'left', '#gbbo', 'need', 'day', 'mourn']	3
+40075	['good', 'morning', 'lovely', 'people', 'gonna', 'lie', 'woken', 'feeling', 'pretty', 'glum']	3
+40076	['6itmap', 'help', 'feel', 'melancholic']	3
+40077	['ctvpowerplay', 'lraitt', 'horrid', 'disease', 'maternal', 'grandmother', 'sisters', 'suffered', 'affliction', 'hard']	3
+40078	['anybody', 'needs', 'drowning', 'blues', 'sea', 'whiskey', '']	3
+40079	['jeremycorbyn', 'magstogether', 'god', 'jeremycorbyn', 'full', 'shilling', 'seriously', 'need', 'major', 'rethink', 'lab', 'gove', 'lifetime', '#sad']	3
+40080	['health', 'think', 'depression', 'now', 'feel', 'like']	3
+40081	['gaychel22', 'kelleeii', 'seattlepi', 'even', 'hard', 'facts', 'seem', 'sinking', 'despair', '']	3
+40082	['depressing', 'darker', 'much', 'earlier', 'now']	3
+40083	['kingjames', 'chrisboshn', 'good', 'hearts', 'lost', 'job', 'responsible', '2', 'families', 'information', 'profile', 'even', 'dollar', 'can’t', 'just', 'retweet']	3
+40084	['currently', 'unfollowing', 'anything', 'relating', 'disneyworld', 'florida', '#holidayblues', '#depressing', '#wantogoback', '']	3
+40085	['just', 'begun', 'ladies', 'gents', 'war', 'racism', 'begun', '#sadness', '#segregation', 'continues', 'smh', '']	3
+40086	['just', 'wish', 'appreciated', 'turn', 'taken', 'care', 'want', 'break', '#tired', '#lost']	3
+40087	['mary', 'berry', 'mel', 'sue', 'gone', 'principles', 'paulhollywood', '', 'gone', 'fame', 'fortune', '#gbbo', '', '#depressing']	3
+40088	['crimsonwulfe', 'super', 'sad', 'especially', 'talking', 'real', 'person', 'bot', 'makes', 'feel', 'real', '']	3
+40089	['ilygeuly', 'call', 'now', 'laying', 'bed', 'moping', 'like', 'intend', 'next', '2', 'months']	3
+40090	['baaarissshhhhh', '', 'sad', 'song', '', '', 'prefect', 'night', '—', 'feeling', 'alone']	3
+40091	['gloomy', 'today']	3
+40092	['honestly', 'come', 'place', 'keep', 'getting', 'discouraged', 'just', 'gotta', 'tell', 'keep', 'pushing']	3
+40093	['', 'kotakbankltd', 'udaykotak', 'official', 'got', 'touch', 'issue', 'addressed', '#unhappy', '#patheticservices']	3
+40094	['back', 'cardiff', 'amazing', '10', 'days', 'away', '', '#depressing']	3
+40095	['lost', 'faded']	3
+40096	['sometimes', 'worst', 'place', 'can', 'headnn', '#quotes', '#worstenemy', '', '#thinktoomuch']	3
+40097	['britishairways', 'just', 'came', 'ba6426', 'ortamboint', 'least', '6', 'passengers', 'broken', 'bags', 'new', 'suitcase', '#unhappy', 'customer']	3
+40098	['tell', 'supposed', 'feel', '#broken', '#hateful', '#guilty', '#love', '#sadness']	3
+40099	['tomorrow', 'will', 'last', 'episode', 'despair', 'arc', 'much', 'shit', 'gonna', 'happen', 'emotionally', 'prepared']	3
+40100	['thezantarin', 'maybe', 'keep', 'white', 'mouths', 'shut', 'let', 'people', 'targeted', 'speak', 'mourn']	3
+40101	['rockcock64', 'cum', 'despair']	3
+40102	['say', 'black', 'man', 'afraid', 'leave', 'house', 'moving', 'violationnn#terrancecrutcher', '#truth', '#sad']	3
+40103	['sad']	3
+40104	['wanna', 'pop', 'pills', 'sedate', 'wake', 'tomorrow']	3
+40105	['patti', 'seems', 'sad', 'stamped', 'ran', 'behind', 'sofa', 'will', 'give', 'plenty', 'love', 'affectionmore', 'usual', '#sad']	3
+40106	['feels', 'like', 'houses', 'us', 'basic', 'requirements', 'literally', 'options', '#discouraged']	3
+40107	['wanna', 'go', 'work', 'want', 'money', '#sad']	3
+40108	['wow', '#denver', 'housing', 'market', '#depressing', 'places', 'buy', 'range', '', '#fml']	3
+40109	['one', 'ep', 'despair', 'arc', 'made', 'happy', 'going', 'back', 'future', 'arc', 'upset']	3
+40110	['nap', '3', 'days', 'row', 'unhappy', 'rn']	3
+40111	['megalvz', 'literally', 'gloomy', 'hour']	3
+40112	['mendiphillsaonb', 'think', 'swallows', 'swifts', 'gone', 'photod', '3', 'nights', 'ago', 'seen', 'since', '#sad', '#autumn']	3
+40113	['fucking', 'gutted', 'disheartened', 'amp', 'pissed', 'offgone', '1', 'toughest', 'resolute', 'defences', 'worst', 'amp', 'shambolic', '#scfc', '#stohul']	3
+40114	['tootingcommon', 'stop', 'make', 'laugh', 'sad']	3
+40115	['condolences', '', 'jc', 'georges', 'family', '']	3
+40116	['gopro', 'ux', 'online', 'appalling', 'clear', 'save', 'button', 'able', 'use', 'generic', 'tlds', '#unhappy']	3
+40117	['literally', 'makes', 'depress', 'tbh']	3
+40118	['wabermes', 'ravallirepublic', 'good', 'one', 'reporter', 'quit', '#sad']	3
+40119	['room', 'rather', 'dreary', 'endure', 'must']	3
+40120	['broken', 'hearted', 'lovers', 'cry', 'away', 'gloom']	3
+40121	['another', 'grim', 'amp', 'compelling', 'news', 'report', 'nawalf', 'blockade', 'aid', 'starving', '#yemen', '#bbc', '#dosomethingpoliticans']	3
+40122	['gccdiscgolf', 'lost', 'xt', 'nova', 'around', 'hole', '8', '9', '#sadness']	3
+40123	['uberrsa', 'click', 'cupcake', 'vehicles', 'available', '#sadness']	3
+40124	['nasty', 'nasty', 'chilly', 'rain', 'put', 'damper', 'afternoon', 'cigar', '', 'good', 'thing', 'cspanwj', 'four', '#congresscritters', 'tomorrow']	3
+40125	['got', 'diagnosed', 'severeextreme', 'depression', 'know', 'difference', 'two', 'lol']	3
+40126	['#haikuchallenge', '#haikunnthe', 'crisp', 'autumn', 'airnmy', 'freedom', 'purchased', 'deathnno', 'one', 'will', 'mourn']	3
+40127	['smokeys', 'dad', 'sad', '']	3
+40128	['americans', 'whole', 'part', 'feeling', 'borderline', 'despair', 'least', 'looking', 'situation', 'control']	3
+40129	['ryyyshh', 'story', 'life', '#lost']	3
+40130	['will', 'weeks', 'full', 'mondays', 'end', '#disheartened']	3
+40131	['hannahfjames', 'distraught', '', 'candice', 'pout', 'can', 'piss']	3
+40132	['hutchinsondave', 'know', 'whether', 'despair', 'agitate', 'cull']	3
+40133	['can', 'just', 'sulk', 'peace', '']	3
+40134	['sad', 'man', 'leaves', 'work', 'little', 'bit', 'late', 'worst', 'fear', 'oh', 'get', 'stopped', 'police', '', '#sad', '#ourworld']	3
+40135	['car', 'dented', 'hail', 'sad']	3
+40136	['head', 'think', 'better', 'obviously', '#relapse', '#sadness', '#sickness', '#madness', '#misunderstanding']	3
+40137	['wilsonsworld', 'high', 'school', 'remember', 'helping', 'neighbors', 'clean', 'back', 'home', 'greenville', '', 'pretty', 'sobering', 'stuff', '', '#sadness']	3
+40138	['sleep', 'cootiesni', 'close', 'eyes', 'dream', 'awake', '#weary', '#sleepissues', '#narcolepsy']	3
+40139	['wow', 'almost', 'tmobile', 'stores', 'san', 'diego', 'note7', 'replacements', '#sadness', 'need', 'get', 'mine', 'replaced']	3
+40140	['forgot', 'hair', 'straightner', 'home', 'feeling', 'lost', 'without', '#lost', '#lostwithoutmyhairstraightener']	3
+40141	['even', 'get', 'started', 'hillary', 'fancy', 'fundraisers', '#depressing']	3
+40142	['underground', 'waterloo', 'nice', 'place', '830am', 'thursday', '#somanypeople', '#grim']	3
+40143	['will', 'weeks', 'full', 'mondays', 'end', '']	3
+40144	['samkingftw', 'ew', 'omg', 'grim']	3
+40145	['thatsabingo', 'grim', 'really']	3
+40146	['loyal', 'heart', 'concerned', '#somber']	3
+40147	['knology', 'providing', 'customers', 'wequipment', 'deliver', 'speeds', 'internet', 'services', 'charging', '#unhappy', '#scam']	3
+40148	['cnn', 'yes', 'many', 'cops', 'many', 'ppl', 'lost', 'lives', 'r', 'still', 'alive']	3
+40149	['find', 'lost', 'will', 'stay', 'passerby', 'will', 'get', 'lost', '#musings', '#melancholy']	2
+40150	['getting', 'use', 'phone', 'sad', '']	2
+40151	['slugging', 'vitamin', 'd', 'pills', 'handful', 'like', 'mampms', 'will', 'eternal', 'winter', 'end', '#melbourne', '#grim', '#overit']	2
+40152	['sometimes', 'support', 'network', 'causing', 'damage', 'nn', '#support', '#damaged', '#alone', '#tired', '', '#hurt', '#nojustice', '', '#surivivor', '#nomore']	2
+40153	['justiceslut420', 'sadly', 'sort', 'poster', 'died', '90s', 'afaik']	2
+40154	['lucyhyner', 'soulboy2266', 'sadly', '', 'one', 'less', 'hour', 'drinking', 'time', '']	2
+40155	['dark', 'room', '58', 'minutes', 'failed', 'every', 'time', 'tried', 'developing', 'photo', 'frustrated', '']	2
+40156	['mixed', 'emotions', '#sadness', '#anxietymaybe', '#missingfriends', '#growingupsucks', '#lostfriends', '#wheresthetruefriends', '#complications']	2
+40157	['jay2752', 'thank', 'shall', 'mourn']	2
+40158	['making', 'yearly', 'transition', 'excited', 'hopeful', 'college', 'returner', 'sick', 'exhausted', 'pessimist', '#college']	2
+40159	['gervaisoholic', 'easy', 'ride', 'child', 'cries', 'noh', 'find', 'mefind', 'nothing', 'nwe', 'sullen', 'misty', 'moor']	2
+40160	['give', '11yo', 'afam', 'son', 'advice', 'today', 'polite', 'sudden', 'movements', 'keep', 'hands', 'can', 'see', '#sadness']	2
+40161	['man', 'southampton', 'will', 'wipe', 'floor', '', 'west', 'ham', 'sunday', 'disheartened']	2
+40162	['flynorwegian', 'quite', 'simply', '#worst', '#airline', '#worstairline', 'ever', 'used', '#shocking', '#appauling', '#dire', '#dismal', '#beyondajoke', '#useless']	2
+40163	['hate', 'knowing', 'get', 'half', '5', 'gym', 'morning', 'depressing']	2
+40164	['deltaassist', 'tried', '2', 'get', 'earlier', 'flt', '2day', '', 'bwi', 'turnd', 'away', 'bcuz', '2', 'late', 'agent', 'let', 'pas', '#silvereliteleftbehind', '#unhappy']	2
+40165	['love', 'ex', 'united', 'managers', 'twitter', 'form', 'fanbase', 'honestly', 'despair', 'times', 'just', 'back', 'fucking', 'team', 'eh', '#mufc']	2
+40166	['can', 'go', 'back', '2', 'weeks', 'start', '', 'seriously', 'dreadful']	2
+40167	['honestly', 'upset', 'rewarded', 'nicole', '500k', '#depressing', '#paulwasrobbed', '#rewardhardwork', '#bitterjury', '#bb18']	2
+40168	['watched', 'favorite', 'youtubers', 'months', 'honestly', 'made', 'depression', 'much', 'worse']	2
+40169	['midnight', '#endtrumpweek', 'please', '#depressing']	2
+40170	['mhchat', 'think', 'sadness', 'felt', 'strongly', 'physically', 'mentally', '', 'feels', 'like', 'takes', 'hard', 'focus', 'work', '#mhchat']	2
+40171	['gagasklaine', 'old', 'sadly']	2
+40172	['tdyln', 'sadly', '']	2
+40173	['#terencecutcher', '#tulsa', 'man', 'onthe', 'helicopter', 'said', 'looks', 'like', 'bad', 'dude', 'problem', 'see', 'black', 'see', 'bad', '#sad']	2
+40174	['katheartwell', 'see', 'difference', 'courting', 'appealing', 'women', 'vs', 'deception', 'amp', 'pressure', 'depressing']	2
+40175	['way', 'hard', 'get', 'discouraged']	2
+40176	['depressed', 'suicidal', 'person', 'seeing', 'someone', 'sing', 'depressing', 'life', 'yet', 'fun', 'relatable', 'encouraging']	2
+40177	['returned', 'dead', 'desire', 'clean', 'apartment', 'eat', 'something', 'garbage', '#managing', '#depression']	2
+40178	['westhamutd', 'poor', 'service', 'tonight', 'find', 'season', 'ticket', 'holders', 'seats', 'purchased', 'online', 'forced', 'move', 'away', '#unhappy']	2
+40179	['even', 'pencil', 'never', '#stayed', '', '#end', '', '']	2
+40180	['gutted', 'dropped', 'one', 'earrings', 'sink', 'school']	2
+40181	['holiday', 'blues', '#wanttogobacktominehead']	2
+40182	['rather', 'die', 'alone', 'end', 'somebody', 'sober']	2
+40183	['think', 'fully', 'sunk', 'val', 'gone', 'yet']	2
+40184	['hate', 'sober', 'popped', 'two']	2
+40185	['pretty', 'clear', 'stand', 'hillaryclinton', 'tolerance', 'habitual', 'liars', 'trump', 'fan', 'either', 'citizen', '#despair']	2
+40186	['moneyjay901', 'hard', 'tell', 'pic', 'mistake', 'either', 'way', 'nothing', 'said', 'initially', 'race', 'u', 'took', '#sad', '#ignorant']	2
+40187	['xkimtaehyungx', 'n—', 'momentarily', 'disappeared', 'solemnity', 'anxiety', 'lacing', 'features', 'nni', 'ran', 'get', '—']	2
+40188	['juniors', 'now', 'wearing', 'purple', 'ollafest', 'fighting', 'alarm', 'need', 'wake', 'german', '#sadness']	2
+40189	['fact', 'wear', 'bra', 'week', 'knowing', 'start', 'wearing', 'one', 'tomorrow', 'depressing', '']	2
+40190	['liam', 'distant', 'makes', 'mourn', '']	2
+40191	['now', 'september', 'still', 'battling', 'situation', 'said', 'handled', 'march', 'year', 'att', 'unacceptable', '']	2
+40192	['weather', 'got', 'fucked', 'like', 'either', 'sunny', 'hot', 'gloomy', 'cold']	2
+40193	['attcares', '2', 'wait', '48', 'hours', 'call', 'back', 'cancel', 'order', 'just', 'placed', 'already', 'spending', '2', 'hours', 'phone', '#sad']	2
+40194	['life', 'short', 'shoot', 'worries', 'sadness', 'grief']	2
+40195	['brb', 'going', 'sulk', 'bed', 'friday']	2
+40196	['lvlmleah', 'nooooooooooooooooooooo', 'stupid', 'dismal', 'lame', 'winters', 'maybe', 'get', 'dangerous', 'ice']	2
+40197	['#ripkara', 'seen', 'local', 'mall', 'school', 'football', 'games', 'disheartened']	2
+40198	['rosskemp', 'great', 'programme', 'tonight', '#sad', '#upsetting', '#extremeworld']	2
+40199	['friends', 'tell', 'pretty', 'trigger', 'tells', 'ugly', 'first', 'confused', 'realised', 'pretty', 'ugly', '#tru', '#sad', '#tumblr']	2
+40200	['mom', 'told', 'yesterday', 'looking', 'grim', 'started', 'driving', 'told', 'turn', 'around', 'bc', 'sick']	2
+40201	['whole', 'hijacked', 'argument', 'argument', 'used', 'ban', 'discourage', 'display', 'st', 'georges', 'cross', 'shame', 'lbc']	2
+40202	['want', 'pity', 'instructors', 'like', 'understanding', 'truly', 'trying', 'despite', 'circumstances', 'make', 'discouraged']	2
+40203	['mhchat', '#mhchat', 'childhood', 'experiences', 'inform', 'adult', 'relationships', 'associative', 'memories', 'question', 'ability', 'process', '#sadness']	2
+40204	['payet', 'goes', 'either', 'jan', '', 'seasons', 'end', 'say', 'blame', 'boy', 'must', 'b', 'disheartened', 'seeing', 'mo']	2
+40205	['laureeenwillam', 'cope', 'wi', 'sour', 'face', 'tiny', 'pout', '']	2
+40206	['many', 'things', 'care', 'many', 'things', 'speak', 'heaviness', 'even', 'released']	2
+40207	['knology', 'providing', 'customers', 'wequipment', 'deliver', 'speeds', 'internet', 'services', 'charging', '', '#scam']	2
+40208	['happyandbashful', 'flirt', 'simper', 'pout', 'repeat', 'yuck']	2
+40209	['eltityboi', 'bc', 'gloomy', 'day', 'tony']	2
+40210	['rupindxr', 'heart', 'actually', 'sunk', 'looooool', 'confused']	2
+40211	['jackhauglifty', 'eable', 'ms', 'btw', 'lied', 'remain', 'dry', 'remainer', 'tears', 'just', 'accept', '#lost']	2
+40212	['stop', 'finished', '', 'dejected', 'luckily', 'one', 'bathroom', 'go', 'stall', 'wait', 'pants', 'dry']	2
+40213	['wonder', 'happen', 'father', '#weary']	2
+40214	['amymek', 'absurd', 'laugh', 'right', 'now', 'also', 'feel', 'like', 'crying', 'future', 'country', '#despair', '#wakeupcall']	2
+40215	['mxjackmonroe', 'get', 'either', 'bits', 'started', 'drooping', 'droop', 'gp', 'said', 'mooncup', 'alone', 'blame']	2
+40216	['taylastjames', 'happens', 'vegas', 'origin', 'prevelant', '#sadly']	2
+40217	['just', '#eat', 'way', '#sobriety', 'thisll', 'journey', 'back', '#sober']	2
+40218	['15', 'doe', 'run', 'opposite', 'side', '', '']	2
+40219	['theshadeshit91', 'noh', 'sorry', 'sad', 'nothing', 'important', 'world', 'grieve']	2
+40220	['failure', 'delivery', 'time', 'customer', 'pay', '16k', 'rupees', '', 'good', 'tiagotatamotors', 'tatamotors', '#unhappy']	2
+40221	['evertondeleon', 'sterushton', 'genuinely', 'grim', 'stuff', 'century', 'history', 'sold', 'porn', 'baron', 'twats', 'minty', 'new', 'stadium', 'urgh']	2
+40222	['sad', 'man', 'leaves', 'work', 'little', 'bit', 'late', 'worst', 'fear', 'oh', 'get', 'stopped', 'police', '', '', '#ourworld']	2
+40223	['cctakato', 'least', 'crystal', 'every', 'part', 'portrayed', 'wrong', 'dark', 'atmosphere', 'fact', 'mamoru', 'brainwashed']	2
+40224	['way', 'cool', 'die', 'young', 'way', 'young', 'die', 'sober', '#tunechi']	2
+40225	['revtrevk', 'wolfman93011', 'daraidernation', 'erockhd', 'take', '2k', 'numbers', 'madden', 'low', 'dropped', 'people', 'unhappy']	2
+40226	['clue', 'charger', '#lost']	2
+40227	['johnrmoffitt', 'grim', 'piece', 'laughter', 'stricken', 'day']	2
+40228	['moving', 'clips', 'youtube', 'tonight', 'vigil', 'held', 'tulsa', 'metropolitan', 'baptist', 'church', '#terencecruther', '#justice', '#anger', '#sadness']	2
+40229	['nail', 'half', 'hanging', 'absolutely', 'fucking', 'grim', 'even', 'acrylic', 'holding', '']	2
+40230	['lost', 'geelong', 'football', 'team', 'nlast', 'seen', 'entering', 'banner', 'sure', 'since', '#unhappy', '#playwithsomeheart']	2
+40231	['deshbhakthoon', 'always', 'unhappy', 'easily', 'offended']	2
+40232	['sad', 'day1st', 'day', 'falli', 'dislike', 'falli', 'just', 'love', 'summer', '#firstdayoffall', '#goodbyesummer', '#sadness', '#bathingsuitsforever']	2
+40233	['tgshepherdvan', 'yet', 'sunk', 'yet', 'rest']	2
+40234	['awareness', 'time', 'awareness', 'time', 'lost', '#awareness', '#time', '#lost']	2
+40235	['impugnvalkyrie', 'frown', 'cup', 'cheeks', 'hands', 'step', 'aside', 'angela', 'care', 'know', 'else', 'can', '']	2
+40236	['gonna', 'loooooong', 'year', 'browns', 'fan', 'longer', 'normal', '#sad']	2
+40237	['talesofanalfa', 'davidmilloy', 'ni', 'like', 'thinkingbut', 'sadly', '', '']	2
+40238	['sadness', 'leaves', 'broken', 'bed', 'will', 'hold', 'depths', 'despair', 'name', 'love', '']	2
+40239	['substituted', 'hood', 'badge', 'gun', 'public', 'opinion', 'indictment', 'charlotte', 'police', '#dark', '#sadtimes', '#america', '#race']	2
+40240	['mcfcdenver', 'exact', 'minus', 'beer', 'sadly']	2
+40241	['miss', 'guy', 'always', 'make', 'sulk']	2
+40242	['let', 'us', 'burden', 'remembrances', 'heaviness', 'gonen', 'william', 'shakespeare', '15641616n#forge', 'ahead']	2
+40243	['cause', 'fail', 'pass', 'refuse', 'sober']	2
+40244	['eehbahmum', 'want', 'make', 'plummet', 'depths', 'despair']	2
+40245	['newyorker', 'donlemon', 'trump', 'presidencya', 'dark', 'age', 'usa', 'world', 'definitely', 'take', 'us', 'war', 'short', 'amp', 'long', 'term', 'pain']	2
+40246	['unbelievably', 'discouraged', 'music', 'late', 'incredibly', 'behind', 'completing', 'album', 'digging']	2
+40247	['hennessey', '', 'dreadful', 'mutch', '', 'even', 'pitch', 'fryers', '', 'depth', 'unfortunately', '#cpfc']	2
+40248	['unhappy', 'someone', 'just', 'fucking', 'tell', 'unhappy', 'leave', 'go', 'fuckin', 'around', 'people', 'side']	2
+40249	['conflicting', 'reports', 'mama', '#ritamarley', 'healthmannn', 'woke', 'today', 'feeling', 'like', 'mi', 'ole', 'selfrejoicenow', 'dis', '#sadness']	2
+40250	['can', 'blame', 'manager', 'watching', 'players', 'play', 'abysmal', 'team', 'dreadful', 'jose', 'save', 'us', 'noone', 'can', '', '#mufc']	2
+40251	['sorrow', 'grim', 'reminder', 'bad', 'can', 'video', 'games', 'get', 'bit', 'trigger', 'happy', 'times', 'rip', '#mgs3']	2
+40252	['kind', 'confused', '', 'one', 'thing', 'right', 'now', 'great', 'future', 'hand', 'new', 'thing', '', '#lost', '#needhelp']	2
+40253	['vofeurope', 'ckolacia', 'msm', 'relentlessly', 'saying', 'dt', 'win', 'depress', 'gop', 'turnout', 'amp', 'provide', 'cover', '4', 'stolen', 'election']	2
+40254	['voice', 'miley', 'alicia', 'year', 'longer', 'contestants', '#sad', 'thevoice']	2
+40255	['chocorobos', 'one', 'sad', 'wtf']	2
+40256	['right', 'may', '#sufc', 'fan', 'football', 'maybe', 'shit', 'marcos', 'rojo', '#mufc', 'shocking', 'start', 'just', 'dreadful']	2
+40257	['get', 'discouraged', 'try', '5', 'fucking', 'years', 'contact', 'lady', 'gaga', 'thousands', 'tweets', 'see', 'tweet', '']	2
+40258	['bigsl8', 'show', 'respect', '', 'u', 'go', 'war', 'u', 'say', 'anything', 'u', 'lost', 'friends', 'mates', 'war', 'ahut']	2
+40259	['give', 'blue', 'guitar', 'stand', 'main', 'character', 'sort', 'skimread', 'end', 'got', 'grim', 'unsettling', '', '', '', '12']	2
+40260	['first', 'coat', 'now', 'pair', 'sunglasses', 'next', 'itll', 'limb', '#lost']	2
+40261	['people', 'protest', 'just', 'adrenaline', 'rush', '#depressing']	2
+40262	['whenever', 'pout', 'just', 'want', 'adrian', 'appear', 'tell', 'stop', 'pouting', 'else']	2
+40263	['despair', 'underneath', 'every', 'action', 'neach', 'every', 'attempt', 'pierce', 'armour', 'numbness', '', 'mgla']	2
+40264	['please', 'bear', 'twitter', 'savvy', 'real', 'life', 'facebook', 'person', 'help', 'gain', 'followers', '#blog', '#selfhelp', '#depression']	2
+40265	['always', 'insensitive', 'whenever', 'grieve', 'idgi']	2
+40266	['stevesingiser', 'politicosteve', 'put', 'damper', 'mood']	2
+40267	['lost']	2
+40268	['fantasygurusite', 'knew', 'going', 'definitely', 'buy', 'live', 'texas', 'play', 'dfs', '', 'depress']	2
+40269	['romero', 'fucking', 'dreadful', 'like', 'seriously', '11', 'month', 'old', 'better']	2
+40270	['one', 'step', 'forward', 'two', 'steps', 'backward', 'link', 'rogerfederershop', 'doesn´t', 'work', 'losing', 'hope', 'roger', 'federer', 'new', 'website', '#sadness']	2
+40271	['friends', 'tell', 'pretty', 'trigger', 'tells', 'ugly', 'first', 'confused', 'realised', 'pretty', 'ugly', '#tru', '', '#tumblr']	2
+40272	['know', 'man', 'assume', 'realdonaldtrump', 'heated', 'argument', 'penis', '#sad']	2
+40273	['doubleeph', 'sadly', 'best', 'days', 'behind']	2
+40274	['groovydadad', 'mhchat', 'ty', 'often', 'conflate', 'two', 'depression', '', 'sadness', 'different', 'q', 'reminded', '#mhchat']	2
+40275	['let', 'behavior', 'others', 'destroy', 'ur', 'inner', 'peace', 'dalai', 'lama', 'owntv', '#healing', '#depression', '#anxiety', '#intuition', '#meditation', '#book']	2
+40276	['aerlingus', '#business', 'class', '#los', 'angeles', 'dublin', '#destroyed', 'luggage', '#60', 'day', 'customer', 'response', 'time', '#unhappy', 'customer']	2
+40277	['jlkelly1', 'fjberry', 'got', '#teampaella', 'presents', 'way', 'fi', 'think', 'arrive', 'saturday', 'sadly', '']	2
+40278	['stg', 'pine', 'bluff', 'morning', 'piss', 'even', 'damn', 'shoes', 'came', 'size', '4', 'know', 'said', '6', 'fml']	2
+40279	['ashleyavitia', 'leave', '']	2
+40280	['pauljonmilne', 'grim', 'insanely', 'determined', 'hurt']	2
+40281	['comicfire', 'thing', 'either', 'unproductive', 'unhappy', 'deal', 'videos', 'badly']	2
+40282	['keyshamackie', 'fucking', 'dreadful', 'live', 'footy', 'matches']	2
+40283	['eating', 'egg', 'grim', 'eating', 'material', 'embodiment', 'fart', 'unborn', 'chick']	2
+40284	['never', 'call', 'sober']	2
+40285	['come', 'make', 'em', 'hate', 'make', 'em', 'pout', 'face', '']	2
+40286	['jacqueline69', 'haha', 'today', 'get', 'beyond', 'pout', 'annoying', 'afraid']	2
+40287	['hope', 'instinct', 'reasoning', 'human', 'mind', 'kill', 'animal', 'never', 'knew', 'despair']	2
+40288	['patti', 'seems', 'sad', 'stamped', 'ran', 'behind', 'sofa', 'will', 'give', 'plenty', 'love', 'affectionmore', 'usual', '']	2
+40289	['dylon', 'felt', 'dejected', 'dejected', 'aunt']	2
+40290	['two', 'blankets', 'hoody', 'still', 'eternal', 'sunshine', 'mope']	2
+40291	['sent', 'pitch', 'brand', 'close', 'tabs', 'relevant', 'instantly', 'kind', 'detachment', 'create', '#serious']	2
+40292	['nature', 'looks', 'lot', 'greener', 'gloomy', 'dayz']	2
+40293	['jameswickham', 'congratulations', '', 'top', 'homeowning', 'tip', 'try', 'look', 'mortgage', 'balance', 'often', '', 'slowness', 'will', 'depress']	2
+40294	['new', 'lock', 'sound', 'grim']	2
+40295	['nothings', '#workingyoure', 'feeling', 'lifes', 'edgecould', 'go', 'either', 'way', '#lost', 'reason', '#livingjesuschristhealssavesask', '#fatloss']	2
+40296	['khloespeaks', 'sad', 'music']	2
+40297	['think', 'val', 'might', 'going', 'week', 'take', 'rest', 'week', 'work', 'mourn', 'sure', 'understand', '#gbbo']	2
+40298	['3', 'weeks', 'course', 'kitchen', 'sink', 'thrown', 'm', 'still', 'pulling', 'knives', 'forks', 'ears']	2
+40299	['gaaaaaaaad', 'stayed', 'london']	2
+40300	['marksandspencer', '50', 'grapefruit', 'squash', 'gonenot', 'able', 'get', 'weeks', '#unhappy']	2
+40301	['mourn', 'creativity', 'lost']	2
+40302	['jinathhyder', 'alcohol', 'sadly', 'flares', 'specific', 'circumstances', 'just', 'need', 'careful']	2
+40303	['add', 'donte', 'moncrief', 'dismal', 'situation', '#blessed']	2
+40304	['shoutout', 'drunk', 'man', 'bus', 'pissed', 'bottle', 'seats', '#grim']	2
+40305	['u', 'know', 'u', 'much', 'ur', 'mind', 'u', 'find', 'cleaning', 'stove', 'kitchen', '', 'almost', '3am', '', '#pensive']	2
+40306	['txdmv', 'arkansasbbb', 'filled', 'report', '#baitswitch', 'carvana', 'go', 'get', 'fines', 'levied', '#badbusiness', '#honoryourdeal', '#unhappy']	2
+40307	['itching', 'something', '#serious', 'rn', 'slept', 'considering', 'taking', 'like', '6', 'benadryl', '20', 'min', 'nap', 'itching', 'badly', 'wow']	2
+40308	['tvscarlkinsella', 'garbage', 'obviously', 'like', 'suck', 'still', 'grim', 'watch']	2
+40309	['team', 'big', 'bayern', 'like', 'play', 'football', 'pitch', 'fucking', 'dreadful', 'certainly', 'emirates', 'pitch', 'anyway']	2
+40310	['angry', 'shouting', 'match', '#pessimist', 'amp', '#optimistnyoure', 'half', 'emptyheaded', '', 'nyoure', 'half', 'full', '']	2
+40311	['still', 'waits', 'yang', 'guess', 'really', 'needs', 'sleep', 'something', 'kittens', 'feeling', 'kinda', 'dejected', 'right', 'now', '#offline']	2
+40312	['onesowngrief', 'just', 'shame', 'world', 'gloom', 'day', 'one', 'almostthough', 'makes', 'sense', 'whole', 'part', 'hydrapart', 'shieldc']	2
+40313	['u', 'grieve', 'someone', 'legally', 'person', 'yet']	2
+40314	['gloomy', 'outside', 'wish', 'cold', 'looked']	2
+40315	['britishairways', '#lost', '#bag', '#stillwaiting', 'go', 'home', 'in2days', 'dmd', 'info', 'rung', '9times', 'day', 'can', '#wheresmybag']	2
+40316	['saw', 'tshirt', 'phrase', 'mind', 'dangerous', 'place', 'like', 'buy', 'italy', 'sell', '#sadness']	2
+40317	['nephew', 'sees', 'frown', 'face', 'tells', '', 'beautiful', '']	2
+40318	['trying', 'take', 'lost', 'broken', 'make', 'right']	2
+40319	['londonmidland', '#dobetter', 'two', 'carriages', '1449', 'birmingham', 'hereford', 'room', 'stand', 'anymore', 'friday', 'commute', '#unhappy']	2
+40320	['become', 'verb', 'gonna', 'villaseñor', 'old', 'contacts', 'need', 'anymore', '#sadness', 'melissavcomedy', '#waitingforexplanation']	2
+40321	['hillaryclinton', 'thedemocrats', 'ok', '2', 'disgusted', 'dishearten', 'presidential', 'race', 'let', 'stop', 'u', 'voting', 'matters']	2
+40322	['5am', 'blues', 'riding', 'cab', 'homen', 'belly', 'much', 'bigger', 'rest', 'bodyn', 'preggyn', 'lose', 'day']	2
+40323	['say', 'black', 'man', 'afraid', 'leave', 'house', 'moving', 'violationnn', '#terrancecrutcher', '#truth', '']	2
+40324	['narcissusheiyan', '', 'maybe', 'itd', 'different', 'stayed', 'sixth', 'form', 'still', 'oppressive', 'architecture', 'uninteresting', 'people']	2
+40325	['wysdaily', 'confident', 'will', 'never', 'experience', 'successes', 'last', '50yrs', 'best', 'can', 'hope', 'another', 'bournemouth', '#sad']	2
+40326	['good', 'already', 'hit', 'rock', 'bottom', 'even', 'though', 'two', 'seasons', 'away', 'new', 'depths', 'despair', '#playoffs', '#njdevils']	2
+40327	['absolutely', 'can', 'believe', 'generosity', 'pouring', 'us', 'give', 'everything', 'nick', 'healthy', 'happy', '#lost']	2
+40328	['got', 'bitch', 'depress']	2
+40329	['grouponuk', 'contact', 'shocking', 'experience', 'clear', 'sky', 'holidays', 'booked', 'guys', '#customerservicefail', '#dreadful']	2
+40330	['cotsonika', 'nhl', 'unhappy', 'way', 'played', '', 'right', 'fmjacob', '']	2
+40331	['simslover163', 'guess', 'must', 'really', 'expensive', 'whole', 'family', 'stayed', 'poland', 'really', 'miss']	2
+40332	['regret', 'things', 'can', 'tempered', 'time', 'regret', 'things', 'inconsolable', '', 'sydney', 'j', 'harris']	2
+40333	['untypical', 'kinda', 'friday', '#dull']	2
+40334	['oldest', 'cat', 'pisses', 'always', 'weary', 'kennen', 'senile', 'kinda', 'recently', 'sweet', 'attacked', 'bit']	2
+40335	['westermannnina', 'xdd', 'song', 'can', 'weary', '']	2
+40336	['feels', 'grim', 'nails', 'done']	2
+40337	['crookedstuck', 'updelusionaldimamp', '#dark', 'hearted', 'dud', 'surprised', 'losingampprob', 'also', 'ppl', 'let', 'crimes', 'drop', '#nwo', 'imo']	2
+40338	['ak47', 'leave', 'spine', 'frown']	1
+40339	['good', 'shorty', 'much', 'offer', 'amp', 'sad', 'niggas', 'even', 'see', 'right', 'front', 'face', 'late']	1
+40340	['thejeremyvine', 'noel', 'edmonds', 'reckons', 'cat', 'talking', 'stressed', 'uncertainty', '#gbbo', 'future', '#plot', '#lost']	1
+40341	['one', 'way', 'ticket', 'blues']	1
+40342	['swproads', '', '', 'dull']	1
+40343	['thehill', 'george', 'h', 'establishment', 'unhappy', 'trumps', 'campaign', 'branded', 'son', 'lowenergy', 'beaten', 'others', 'either']	1
+40344	['marcus', 'roho', 'dreadful']	1
+40345	['kind', 'confused', '', 'one', 'thing', 'right', 'now', 'great', 'future', 'hand', 'new', 'thing', '', '', '#needhelp']	1
+40346	['finished', 'writing', 'second', 'book', 'tonight', '#somber', '#sad', '#youpromised', '#havemercy', '#author', '#writer', '#needpublisher', '#beingedited', '#workingonsidebook']	1
+40347	['arcadianluthier', '', 'taking', 'feelings', 'kei', 'unfairly', 'lips', 'form', 'frown', 'tries', 'walk', 'away']	1
+40348	['deltaassist', 'tried', '2', 'get', 'earlier', 'flt', '2day', '', 'bwi', 'turnd', 'away', 'bcuz', '2', 'late', 'agent', 'let', 'pas', '#silvereliteleftbehind', '']	1
+40349	['thank', 'god', 'warned', 'walked', 'sink', 'cause', 'lord', 'knows', 'wouldve', 'sick', 'stomach', 'wouldve', 'wanted', 'sue', 'lbvfs']	1
+40350	['now', 'yeah', 'home', 'againnstill', 'feeling', 'mixed', 'inside', 'amp', 'kinda', 'gloomy', 'little', 'optimistic', 'figure']	1
+40351	['penny', 'dreadful', 'just', 'cleaved', 'fraction', 'heart']	1
+40352	['fitzstockcharts', 'gundlach', 'calling', 'rounding', 'top', 'doom', 'gloom', '15', 'move']	1
+40353	['everything', 'far', 'away', 'time', 'short', 'rest', 'weary']	1
+40354	['chelseafc', 'let', 'know', '#blues']	1
+40355	['want', 'help', '#depression', 'give', 'office', 'call', 'learn', '#tms', 'may', 'treatment', 'waiting']	1
+40356	['alicegoodman17', 'dunno', 'getting', 'less', 'spacious', 'lovely', 'autumnal', 'melancholy', 'present', 'apocalypse']	1
+40357	['got', 'paid', 'vacuum', 'rat', 'poop', '', 'never', 'dull', 'day', 'biology', 'department', '']	1
+40358	['#terencecutcher', '#tulsa', 'man', 'onthe', 'helicopter', 'said', 'looks', 'like', 'bad', 'dude', 'problem', 'see', 'black', 'see', 'bad', '']	1
+40359	['pandaflo22', 'sadden', 'always', 'strive', 'bring', 'best', 'service', 'customer', 'will', 'always', 'cm']	1
+40360	['someone', 'needs', 'tell', 'candice', 'stuck', 'shitty', 'pout', 'wind', 'changes', '#gbbo']	1
+40361	['health', 'insurance', 'cover', 'tms', 'let', 'know', 'cover', 'ect', '#mentalhealth', '#psychology', '', '#tms', '#ect']	1
+40362	['purplereplisol', 'meden', 'frowning', 'non', 'existent', 'face']	1
+40363	['realdonaldtrump', 'negative', 'campaign', 'doom', 'gloom', 'win', 'elections']	1
+40364	['depression', 'u', 'judging', 'exposing', 'everyone', 'helping']	1
+40365	['mattwruff', 'sadly', 'constitutional', 'right', 'abortion', 'yet', 'constitutional', 'right', 'life', 'safety', 'net', 'protects', 'rights']	1
+40366	['heycarajay', 'inconsolable', 'gif', 'context']	1
+40367	['starklydark', 'come', 'come', 'arms', 'going', 'anywhere', 'tony', 'swear', 'steve', 'told', 'quiet', 'solemn']	1
+40368	['lisa', 'getting', 'want', 'time', 'will', 'ultimately', 'leave', 'unfulfilled', 'joyless']	1
+40369	['harowe', 'sad', 'truth']	1
+40370	['questlove', 'people', 'going', 'realize', 'riots', 'just', 'perpetuating', 'hate', 'saying', 'going', 'boycott', 'city', '#lost']	1
+40371	['wanna', 'go', 'work', 'want', 'money', '']	1
+40372	['manutd', 'rooney', 'needs', 'come', 'absolutely', 'dreadful', '', 'class', 'goal', 'carras16', 'carras16', 'showing', 'team']	1
+40373	['yall', 'tune', 'snapchat', 'beans', 'funereal']	1
+40374	['funeral', 'close', 'casket', 'want', 'play', 'call', 'recording', 'completed', 'glenewing', '#lost', '#podcasting', '#talkshoe']	1
+40375	['ryhenmessedup', 'goodbye', 'despair']	1
+40376	['ffs', 'dreadful', 'defending']	1
+40377	['raylewis', 'name', 'change', 'uncle', 'remus', 'lewis', '#foh', '#theydontlikeyoueither', '#lost', '#unwoke']	1
+40378	['waitress', 'recognised', 'last', 'time', 'moping', 'interview', 'haha']	1
+40379	['day', '#lost']	1
+40380	['anyone', 'noticed', 'npr', 'stories', 'recent', 'days', 'paint', 'positive', 'accomplishments', 'trump', 'challenges', 'hillary', '#surprised', '#sad']	1
+40381	['chibireviews', 'post', 'series', 'depression', 'can', 'quite', 'bad', 'will', 'get', 'better', 'bet', 'someone', 'will', 'pick', 'novel', 'soon', 'west']	1
+40382	['itriborg', '—', 'make', 'feel', 'vigorous', 'fine', 'can', 'kill', 'now', 'said', 'hestia', 'display', 'despair', 'rather', 'joyful', '—']	1
+40383	['236416', 'dull', 'sleeping', 'hourna', 'crew', 'patches', 'rude', 'mechanicalsn#amndbots']	1
+40384	['2nd', 'step', 'beating', '#anxiety', '#depression', 'realising', 'waiting', '', 'take', 'action', 'now']	1
+40385	['simonsssj123', 'ellieg10853', 'onision', 'eugeniacooney', 'sure', 'helped', 'depression', 'still']	1
+40386	['jccrocker', '#charlotteprotest', 'u', '#wait', '4', 'facts', '#video', 'u', '#hate', 'now', 'ask', 'questions', 'later', '', '#protest', '#policeshootings', '#suggestions']	1
+40387	['nataliem55', 'sadly', 'war', 'often', 'factor', 'jump', 'starts', 'us', 'economic', 'growth']	1
+40388	['grimstoyshow', 'grim', 'fuck', 'going', 'dame', 'fucking', 'clowns', 'takeing', 'gameing', 'channel', 'way', 'nj', 'delete']	1
+40389	['leeds', 'surely', 'drop', 'prices', 'cup', 'tie', 'rather', 'dismal', 'attendance', 'last', 'night']	1
+40390	['greencapt', 'something', 'note', 'fact', 'mask', 'manufacturer', 'produced', 'smiling', 'frowning']	1
+40391	['word', 'happiness', 'lose', 'meaning', 'balanced', 'sadness']	1
+40392	['touchph', '', 'solution', 'punish', 'criminals', 'way', 'discourage', 'crime', 'circle', 'will', 'continue']	1
+40393	['kristenwacamera', 'really', 'enjoyed', 'episodes', 'bit', 'gloomy', 'day', 'today', 'feel', 'sense', 'inspiration', 'listening']	1
+40394	['1pet', '47', '', 'end', 'things', 'hand', 'ye', 'therefore', '#sober', '#watch', 'unto', 'prayer']	1
+40395	['aidanparr', 'haha', 'sorry', 'grim', 'even', 'disturbed', 'amp', 'starting', 'lose', 'trust', 'twitter', 'generally']	1
+40396	['literally', 'guy', 'somewouldsaysuccessful', 'guy', 'tell', 'ship', 'will', 'sail', 'kay', 'guy', 'first', 'working', 'sub', 'last', 'sunk']	1
+40397	['raveenelexiis', 'fought', 'racist', 'girl', 'stayed', 'gavc', 'get', 'kicked', 'call', 'bs']	1
+40398	['brave', 'young', 'individuals', 'opened', 'us', '#depression', '#anxiety', 'help', 'raise', 'awareness', 'beyondblue']	1
+40399	['just', 'rough', 'situations', 'around', 'schalke', 'werder', 'bremen', 'start', 'campaign', 'bremen', 'dashed', 'late', 'new', 'manager', '0']	1
+40400	['blame', 'spoke', 'room', 'kicking', 'chair', 'beneath', 'himn#amwriting', '#dark']	1
+40401	['actualflatticus', 'veggie64leslie', 'mtracey', 'call', 'pessimist', 'think', 'therapy', 'can', 'fix', 'whatever', 'wrong', 'anthony', 'weiner']	1
+40402	['november', '#canola', 'lost', '550', '46420', 'per', 'tonne']	1
+40403	['ticcikasie1', 'frown', 'distraught', 'gardevoir', 'saying', 'wishes', 'trainer']	1
+40404	['brad', 'pitt', 'investigated', 'child', 'abuse', 'just', 'got', 'really', '#dark']	1
+40405	['bare', 'videos', 'online', 'anyone', 'get', 'rehabilitated', 'anyone', 'actually', 'get', 'help', 'affliction', 'jut', 'get', 'twitter', 'videos']	1
+40406	['always', 'sober', 'said', 'drunk', 'will', 'teach', 'keep', 'mouth', 'shut', 'n―', 'ernest', 'hemingway', '#quote']	1
+40407	['teeth', 'sunk', 'vein', 'poor', 'woman', 'accidentally', 'small', 'problem', 'engine', 'just', 'outside', '']	1
+40408	['lebara', '', 'worst', 'possible', 'decision', 'made', 'arriving', 'uk', 'shocking', 'service', 'poor', 'coverage', '']	1
+40409	['lost', '244', 'day', 'snapchat', 'streak', 'done']	1
+40410	['reservehinata', 'tend', 'going', 'get', 'infections', 'nnhes', 'frowning', 'looking', 'nit', 'must', 'hurt', 'damn']	1
+40411	['emotionallimine', 'sadly', 'mistaken', 'think', 'make', 'tweet', 'isolated', 'comment', 'random', 'twitter', 'user']	1
+40412	['attcares', '2', 'wait', '48', 'hours', 'call', 'back', 'cancel', 'order', 'just', 'placed', 'already', 'spending', '2', 'hours', 'phone', '']	1
+40413	['stopped', 'watching', 'gotham', 'cause', 'dropped', 'tabitha', 'barbs', 'relationship', 'made', 'pine', 'main']	1
+40414	['juliasteiner', '', 'liked', 'moping', 'around', 'episode', 'moment', 'emotional', 'weakness', 'felt', 'sorry', '']	1
+40415	['wysdaily', 'confident', 'will', 'never', 'experience', 'successes', 'last', '50yrs', 'best', 'can', 'hope', 'another', 'bournemouth', '']	1
+40416	['never', 'leave', 'alone', 'credit', 'card', 'nope', 'nope', 'mope']	1
+40417	['sandratxas', '6bird4', 'cajunkangaroo', 'justanavywife', 'please', 'clouded', 'passion', 'emotion', 'leads', 'truth']	1
+40418	['horrible', 'puns', 'day', 'made', 'shall', 'return', 'cage', 'dark', 'corner', 'crying', 'amp', 'laughing', 'hysterical', 'now']	1
+40419	['house', 'always', 'mess', 'friends', 'coming', '#mess', '#serious', '#twitter', '#problem', '#like', '#friends', '#filthy', '#home']	1
+40420	['“we', 'can', 'easily', '#forgive', '#child', '#afraid', '#dark', 'real', '#tragedy', '#life', '#men', '#afraid', '#light”–plato']	1
+40421	['dxfyinggrxvity', '', 'rather', 'forlorn', 'scanning', 'witches', 'house', 'resting', 'back', 'elphie', 'grimmerie', 'gone']	1
+40422	['facmagnaamerica', '', '#cureforinsomnia', 'left', 'said', 'doom', 'amp', 'gloom', 'trump', 'train', 'much', 'fun']	1
+40423	['history', 'repeating', 'itselfgaa', 'culture', 'dare', 'anyone', 'think', 'ok', 'discourage', 'irish', 'person', 'attending', 'match', 'final']	1
+40424	['mayor', 'visits', 'downtrodden', 'part', 'o', 'town', 'brave', 'pr', 'stunt', 'eleven']	1
+40425	['went', 'pet', 'supplies', 'plus', 'tonight', 'neitzkeamara', 'working', 'feel', '#lost', '#confused']	1
+40426	['mik61scot', 'longshankseddie', 'rosazambonini', 'youtube', 'thought', 'sunk', 'teeth', 'something', 'meant', '2b', 'sooked']	1
+40427	['vivyau', 'doom', 'gloom', 'want', 'hear', 'lovely', 'things', 'airbnb']	1
+40428	['ynnsanity', 'maybe', 'asked', 'study', 'hard', 'get', 'job', 'like', 'way', 'dreadful']	1
+40429	['cptsrogersnwell', 'can', 'go', 'one', 'two', 'ways', 'either', 'get', 'accept', 'going', 'change', 'mope', '']	1
+40430	['carrielynne2323', 'totally', 'get', 'said', 'donuts', '13', 'times', 'one', 'week', 'lost', '03', 'lbs', 'get', 'discouraged', 'linear', '']	1
+40431	['know', 'love', 'sober', '#sober', '#selenagomez', '#revival']	1
+40432	['skynews', 'err', 'gloomy', '', '172', 'mio', 'people', 'gloomy', '#remain', '#brexit']	1
+40433	['coalese', '', 'sure', 'half', 'stars', 'get', 'togetherbreak', 'uphave', 'affairslet', 'porn', 'vids', 'slip', 'outfightect', 'etc', 'ratings', '#sad', '']	1
+40434	['serious', 'putting', 'words', 'mouth', 'bitch', 'add', '', '', 'sentence', 'say', 'shit', 'bloods']	1
+40435	['theflabar', '#foggy', '#dark', 'morning', '', '#filter', 'time', '', '#lighting', 'purposes', '']	1
+40436	['donyou', 'worthy', 'enough', 'know', '#what', '#serious']	1
+40437	['friend', 'lost', 'hisher', 'phone', 'long', 'mourn', 'lost', 'phones', 'ask', 'earpiece']	1
+40438	['lucidburrito', 'anyone', 'else', 'literally', 'pulled', 'office', 'cause', 'someone', 'complained', 'spit', 'sink', 'yesterday']	1
+40439	['anybody', 'know', 'watch', 'penny', 'dreadful', '️️']	1
+40440	['old', 'person', 'handle', 'stufflol', 'just', 'left', 'get', 'back', 'sober']	1
+40441	['btstwt', 'people', 'much', 'negativity', 'filled', 'inside', 'always', 'happy', 'gloomy', 'world', 'someone', 'like', 'u', 'exists', 'namjoon']	1
+40442	['', 'unfccc', 'uncclearn', 'problem', 'time', 'taken', 'means', 'going', 'date', 'already', '#sadly']	1
+40443	['trying', 'think', 'positive', 'let', 'situation', 'discourage', '']	1
+40444	['candice', 'great', 'british', 'bake', 'pout', 'head', '']	1
+40445	['bbcsport', 'dull', 'uk']	1
+40446	['lazyboisam', 'blues', 'blues', '']	1
+40447	['sometimes', 'think', 'british', 'political', 'landscape', 'desolate', 'look', 'foaming', 'wasteland', 'us', 'think', 'ok']	1
+40448	['kikibug13', 'look', 'unhappy', 'nnnngh', 'got', 'email', 'notif', 'thank']	1
+40449	['positive', 'thoughts', 'gloom', 'cloudy', 'days']	1
+40450	['train', 'pitch', 'black', 'outside', 'idea', '#travel', '#whereami', '#lost', '#adventure']	1
+40451	['ren102e906', 'just', 'can', 'get', 'discouraged', 'maybe', 'prayers', 'divine', 'intervention', 'help', 'help', '']	1
+40452	['janetreid', 'wonderful', 'post', 'novelists', 'discouraged', 'rejection', 'usually', 'work', 'personal']	1
+40453	['cheap', 'pout', 'brodcast']	1
+40454	['tried', 'give', 'time', 'sober', 'waiting', 'friends', 'house', '2', 'hours', 'later', 'gal', 'wake', 'nap', 'vomit']	1
+40455	['alisontis', 'otherwise', 'committing', 'crime', 'soul', 'sober', 'ppl', 'know', 'good', 'bad']	1
+40456	['rickygervais', 'first', 'time', 'slough', 'checked', 'new', 'station', 'floor', '#sad', '#lifeontheroad']	1
+40457	['niggas', 'murking', 'murky', 'water', 'try', 'swim']	1
+40458	['talkrobyn', 'oh', 'dear', 'watch', 'woman', 'pout']	1
+40459	['lost', 'heart', 'dark', 'underneath', 'stars', '']	1
+40460	['dark']	1
+40461	['fogo', 'max', 'pessimism', 'bottom', 'yet', '', 'solid', 'pe', 'ratio', 'restaurant', '', 'catch', '8', 'level', '10', 'level', 'comes']	1
+40462	['thatwhitesoxfan', 'tbtrill', 'sad', 'white', 'sox', 'playing', 'record', '']	1
+40463	['beetuppy', 'sorry', 'hear', 'issues', 'making', 'feel', 'like', 'hear', 'customers', 'unhappy', '']	1
+40464	['naoto', 'nod', 'also', 'like', 'tha', 'bands', 'also', 'frown', 'will', 'bands', 'papa', 'roach', 'concert']	1
+40465	['delhilawyer', 'bhagwanuvach', 'shivaroor', 'sad', '', 'film', 'story', 'knows', 'ploy', 'escalate', 'tension', 'unverified', 'report', 'hype']	1
+40466	['samkingftw', 'nahh', 'grim']	1
+40467	['last', 'week', 'cn', 'gonna', 'sad', 'leave', 'will', 'also', 'first', 'planned', 'break', 'since', 'going', 'animation']	1
+40468	['adamaaronovich', 'need', 'sulk', 'can', 'always', 'request', 'song', 'know']	1
+40469	['bonesarp', 'disappointmentnnhe', 'fakes', 'pout', 'starts', 'chuckle']	1
+40470	['shoutout', 'drunk', 'man', 'bus', 'pissed', 'bottle', 'seats', '']	1
+40471	['lord', 'make', 'instrument', 'peace', '—', 'hate', 'let', 'sow', 'love', '—', 'injury', 'pardon', '—', 'despair', 'hope']	1
+40472	['vilebairn', 'turning', 'older', 'woman', 'looked', 'sybil', 'somber', 'expression', 'nn“she', 'ran', 'away', 'blame', 'her”']	1
+40473	['hour', 'played', 'asfcofficial', 'conceded', 'less', 'west', 'ham', 'manutd', 'northampton', '', 'let', 'sink']	1
+40474	['people', 'leave', 'toilets', 'fucking', 'grim', 'states']	1
+40475	['jeremycorbyn', 'magstogether', 'god', 'jeremycorbyn', 'full', 'shilling', 'seriously', 'need', 'major', 'rethink', 'lab', 'gove', 'lifetime', '']	0
+40476	['nls', 'top', 'bureaucrat', 'director', 'group', 'formed', 'oppose', 'nls', 'top', 'megaproject', '#nlpoli', '', 'never', 'dull']	0
+40477	['jwonder81', 'macadamionnut', 'courseprogress', 'sake', 'progress', 'must', 'discouraged', 'problem', 'substance', 'rhetoric']	0
+40478	['already', 'plotting', 'next', 'steps', 'get', 'cut', 'minivan', 'tomorrows', 'dropoff', 'line', '#preschoolpolitics', '#momthings', '#serious']	0
+40479	['sunderland', 'time', 'line', 'quite', 'funny', 'doom', 'amp', 'gloom', 'facing', 'us', 'long', 'trip', 'us', 'midweek', '#whatgoesaroundcomesaround']	0
+40480	['gsmsbooksrus', 'goodreads', 'shines', 'good', 'deed', 'weary', 'world', 'roald', 'dahl', 'charlie', 'chocolate', 'factory']	0
+40481	['like', 'keep', 'grinding', 'boy', 'life', 'can', 'change', 'one', 'year', 'even', 'dark', 'sun', 'shining', 'somewhere']	0
+40482	['ellenmellon88', 'got', '#mybrokenfoot', 'running', 'great', 'north', 'run', 'wait', 'run', 'months', 'time', '', 'mostly', 'dark', '#ukrunchat']	0
+40483	['awareness', 'time', 'awareness', 'time', 'lost', '#awareness', '#time', '']	0
+40484	['ending', 'met', 'mother', 'dreadful']	0
+40485	['joycecaroloates', 'nbreath', 'trending', 'despondent', 'mrs', 'clinton', 'will', 'win', 'keep', 'gloves', 'guard', 'punch', 'like']	0
+40486	['arockasthe', 'us', 'added', 'years', 'syrian', 'conflict', 'arming', 'rebel', 'army', 'think', 'iraq', 'sunk', 'kerry']	0
+40487	['weak', 'amp', 'despair', 'mighty', 'god', 'nearhe', 'will', 'give', 'us', 'strength', 'amp', 'joy', 'amp', 'hope', 'amp', 'calm', 'inner', 'fear', 'just', 'faith', 'amp', 'trust']	0
+40488	['working', 'blanchardstown', 'shopping', 'centre', '2', 'years', 'now', 'figured', 'today', 'marks', 'amp', 'spencers', '#lost']	0
+40489	['#vinb', 'alot', 'interested', 'hearing', 'bout', 'differences', 'parties', 'political', 'ideologies', 'parties', 'murky', 'origins', 'r', 'irrefutable', '#vinb']	0
+40490	['higginbothams', 'flippant', 'dismissal', 'worries', 'around', 'carricks', 'lack', 'pace', 'dismal', 'nimble', 'midfielders', 'carrick', 'will', 'exposed']	0
+40491	['flight', '815', 'crashed', 'lost', 'island', '2004', '#lost', 'joshuajthurston']	0
+40492	['littlebakaa', 'alcohoiporn', 'give', 'smiling', 'emoticon', 'will', 'ya', 'like', 'idea', 'frowning', 'gtlt']	0
+40493	['man', 'pessimist', '48', 'knows', 'much', 'optimist', 'knows', 'littlenmark', 'twain']	0
+40494	['daltonrapattoni', 'sadly', 'go', 'bed', 'now', 'announce', 'anything', 'gone', 'thank', 'u', 'love']	0
+40495	['msnbc', 'fox', 'cnn', 'realdonaldtrump', 'hillaryclinton', 'using', 'fear', 'state', 'views', 'getting', 'facts', 'making', 'serious', 'statement']	0
+40496	['marcos', 'rojo', 'plays', 'man', 'united', '', '', 'just', 'let', 'sink', '']	0
+40497	['sometimes', 'people', 'leave', 'halfway', 'wood', 'let', 'grieve', 'one', 'leaves', 'good', '#youarenotalone', '#nooneisalone']	0
+40498	['lost', 'wallet', 'lol']	0
+40499	['kalis', 'kitten', 'asked', 'frown', 'curling', 'fair', 'skinned', 'forehead', 'showed', 'scar', 'cat', '', 'scarredtiger']	0
+40500	['ksmitely', 'citizenmeh', 'feel', 'strongly', 'need', 'work', 'together', 'right', 'dreadful', 'wrong']	0
+40501	['raylewis', 'name', 'change', 'uncle', 'remus', 'lewis', '#foh', '#theydontlikeyoueither', '', '#unwoke']	0
+40502	['sister', 'canadian', 'player', 'something', 'shady', 'jonathan', 'toews', 'frowning', 'know', '#worldcupofhockey']	0
+40503	['candices', 'pout', 'gets', 'preposterous', 'week', 'week', 'gone', 'bit', 'jack', 'nicholsons', 'joker', '#gbbo']	0
+40504	['mhchat', '#mhchat', 'childhood', 'experiences', 'inform', 'adult', 'relationships', 'associative', 'memories', 'question', 'ability', 'process', '']	0
+40505	['tehshockwave', 'turn', 'grumpy', 'frown', 'upsidedownnnyou', 'something', 'next', 'impossible', 'today']	0
+40506	['serious', 'problems', 'expectation', 'private', 'philanthropy', 'replace', 'functional', 'government', 'servicesthis', 'dangerous']	0
+40507	['lidluk', 'just', 'bought', 'pack', 'two', 'medallion', 'beef', 'steaks', 'got', 'home', 'cooked', 'one', 'steak', '100', 'pork', 'one', 'unhappy', 'mother', '']	0
+40508	['hopefully', 'next', 'time', 'play', 'l1', 'team', '1', 'players', 'scores', 'takes', 'shirt', 'ampjumps', 'away', 'end', 'purely', 'wind', 'joyless', 'cunts']	0
+40509	['lifes', 'short', 'frowning', 'long']	0
+40510	['leopard', 'never', 'changes', 'spots', '#lost']	0
+40511	['need', 'serious', 'nap', 'rn']	0
+40512	['sky', 'news', 'still', 'pushing', 'brexit', 'gloom', 'line', 'managing', 'ignore', 'fact', 'simply', 'happening', 'future']	0
+40513	['drsrsheikh', 'asked', 'gate', 'crash', 'dumb', 'idiosyncrasies', 'sober', 'people', 'analyzing', 'situationnbanobee', 'akforty7']	0
+40514	['pessimist', 'someone', 'opportunity', 'knocks', 'complains', 'noise']	0
+40515	['leefamily5', 'usaneedstrump', 'hillaryclinton', 'realdonaldtrump', 'serious', 'man', 'practices', 'religion', 'church', 'campaignin']	0
+40516	['johnwildy71', 'something', 'confused', 'type', 'entire', 'word', '', 'see', 'can', 'laugh', 'hour', 'sadness', 'almost', 'passed']	0
+40517	['jenhasonen', 'supposed', '#dark', '#gritty', 'though']	0
+40518	['pretentious', 'dick', 'night', 'gallery', 'just', 'fucking', 'used', 'towel', 'dry', 'sink']	0
+40519	['evening', 'though', 'way', 'lit', 'finish', 'properly', 'without', 'causing', 'serious', 'mischief']	0
+40520	['interview', 'preparation', 'hate', 'talking', 'one', 'dull', 'subject', 'matter', '#yawnoff']	0
+40521	['duncantrussell', 'remo', 'williams', 'ever', 'actually', 'save', 'anyone', 'just', 'sulk', 'around', 'killing', 'random', 'undesirables', '']	0
+40522	['joaquinputoamo', 'vas', 'ir', 'al', 'de', 'amaity', 'affliction']	0
+40523	['fatumoriginal', 'sitcom', 'better', 'u', 'laugh', 'sheldon', 'leonard', 'u', 'sober', 'real', 'two', 'ways']	0
+40524	['“the', 'immense', 'importance', 'football', 'sometimes', 'scary', 'don’t', 'win', 'responsible', 'many', 'unhappy', 'people”', '', 'arsene', 'wenger']	0
+40525	['kudos', 'tc', 'benching', 'bruce', 'helping', 'team', 'rides', 'pine', 'games', 'win', 'discussion', '#mets']	0
+40526	['people', 'want', 'go', 'pine', 'ridge', 'little', 'wound', 'oelrichs', 'starting', 'think', 'transferring', 'wanna', 'stay', 'cloud', 'decisions', 'man']	0
+40527	['cam', 'serious', 'ig', 'post', 'stupid', 'ass', 'font', 'uses', 'wouldve', 'better', 'just', 'say', 'nothing']	0
+40528	['vosachresrus', 'll', 'just', '#wobble', 'carry', '#sink']	0
+40529	['episode', 'today', 'whilst', 'editing', 'power', 'outage', 'will', 'rebuildtomorrow', '#podcast', '#lost', '#editing', '#fail', '#tomorrow']	0
+40530	['10carley', 'sulky', 'pants']	0
+40531	['seeing', 'something', 'hurt', 'much', 'past', 'front', 'now', 'single', 'sign', 'grieve', 'magicalllll', '', '']	0
+40532	['done', 'piano', 'blues', 'playing', 'smooth', 'talking', 'ass', 'nexttt']	0
+40533	['sat', 'sat', 'room', 'cloved', 'watchin', 'manchester', 'unide', 'manutd', 'v', 'norffampton', 'fink', 'waynerooney', 'still', 'goal', 'fret', 'iced', 'level']	0
+40534	['solemn', 'thing', 'small', 'scandal', 'kingdom', 'see', 'god’s', 'children', 'starving', 'seated', 'father’s', 'table', 'aw', 'tozer']	0
+40535	['hey', 'applesupport', '', 'find', 'play', 'history', 'new', '#ios10', '#applemusic', '#music', '#lost']	0
+40536	['grow', 'weary', 'good', 'treadlines', 'better', 'deadlines', 'billclinton', '#cgi2016']	0
+40537	['fellaini', 'playing', 'ahead', 'guyjust', 'let', 'sink']	0
+40538	['satanslezzie', 'gehrig38', 'joesmith12431', 'ejamesl', 'think', 'huffing', 'pine', 'tar', 'use', 'bat', 'gripping']	0
+40539	['gonna', 'loooooong', 'year', 'browns', 'fan', 'longer', 'normal', '']	0
+40540	['rosskemp', 'great', 'programme', 'tonight', '', '#upsetting', '#extremeworld']	0
+40541	['just', 'told', 'wife', 'chance', '2', 'sydney', 'teams', 'afl', 'grand', 'final', 'response', 'two', 'sydney', 'afl', 'teams', '#serious']	0
+40542	['moneyjay901', 'hard', 'tell', 'pic', 'mistake', 'either', 'way', 'nothing', 'said', 'initially', 'race', 'u', 'took', '', '#ignorant']	0
+40543	['floofeli', 'wonder', 'mother', 'knows', 'dark', 'humor', 'can', 'beneeds', 'realize', 'much', 'butt', 'apple', 'pastels', 'catscutie', 'pie']	0
+40544	['damn', 'gud', '#premiere', '#lethalweapon#funny', '#serious']	0
+40545	['sundersays', 'made', 'laugh', 'quote', 'sort', 'rueful', 'way']	0
+40546	['come', 'serious', 'situation', 'glad', 'gave', 'deep', 'thought', '']	0
+40547	['doom', 'gloom', 'scored', 'open', 'play', 'conceded', 'two', 'time', '#progress', 'means', '11', 'draw', 'saturday']	0
+40548	['contactless', 'affliction', 'kart', 'needs', 'must', 'regarding', 'psychological', 'moment', 'xbeujgb']	0
+40549	['lbardugo', 'start', 'w', '3', 'songs', 'blue', 'neighborhoodn1', 'wildn2foolsn3talk', '#wespernalson4too', 'good', '', '#serious', 'kazinej', 'feelz']	0
+40550	['grave', 'beat', 'bravehearted', 'cave', 'lover', 'cage', 'lover', 'sage', '#lover', 'made', '#soup', 'twisted', 'spoony', '#melancholy', 'spikes', 'spices']	0
+40551	['like', 'loon', 'attic', 'luckily', 'quickly', 'sunk', 'wrong', 'pronunciation', 'still', 'stop', 'saying', 'just', 'stuck']	0
+40552	['onto', 'sargonofakkad', 'know', 'secretly', 'pine', 'masculine', 'order', 'objective', 'morality', 'disciplined', 'transcendent', 'pursuits']	0
+40553	['erykah', 'badu', 'sedate', '']	0
+40554	['margraham', 'practically', 'obsessed', 'thought', 'departure', 'makes', 'feel', 'melancholic', 'grateful', '', 'safe', 'journey']	0
+40555	['get', 'discouraged', 'simple', 'minds', 'see', 'vision']	0
+40556	['#thankyoucgi', '', 'grow', 'weary', 'good', '#cgi2016']	0
+40557	['jodikantor', 'nytimes', 'will', 'pay', 'will', 'responsible', 'doings', '#sober', '#real', '#blind']	0
+40558	['sober', 'time', 'get', 'shit', 'faced']	0
+40559	['want', 'perfect', 'boring', 'dull']	0
+40560	['lacesuntied', 'yea', 'lol', 'catchy', 'fret']	0
+40561	['timewarparcade', 'tenpencearcade', 'really', 'pedal', 'like', 'nutter', 'get', 'anywhere', 'remember', 'sedate']	0
+40562	['aqw', 'shouldve', 'always', 'stayed', '08', 'art', 'style', 'now', 'just', 'competition', 'create', 'detailed', 'art', 'time']	0
+40563	['pops', 'joyless', 'soulless', 'toys', 'look', 'nearly', 'identical', '', 'perfect', 'expression', 'consumerism', '', 'enjoy', 'franchise']	0
+40564	['dinohyogi', 'hakyeon', 'takes', 'attention', 'happily', 'perching', 'wonshiks', 'shoulder', 'sulk', 'jaehwan', 'accidentally', 'caused', 'tiny', 'explosion']	0
+40565	['mgiacchino', 'will', 'aired', 'radio', 'filmed', 'lots', 'fans', 'pond', '#wales', '#lost']	0
+40566	['#serious', '#chinks', '#india’s', '#armourn#proteinn#malnutritionn#feedingindian#skillingindian#cognitive', '#deficitnabhijitiyer']	0
+40567	['know', 'man', 'assume', 'realdonaldtrump', 'heated', 'argument', 'penis', '']	0
+40568	['standard', 'candice', 'starting', 'show', 'pout', '#startasyoumeantogoon', '#gbbo']	0
+40569	['shopgreenwich', '#ldf16', 'shall', 'weekend', '', '#spraypainting', '#greenwichmarket', 'snub23', '#core246', '#lilylou', '#fret', 'amp', '#benoakley']	0
+40570	['mendiphillsaonb', 'think', 'swallows', 'swifts', 'gone', 'photod', '3', 'nights', 'ago', 'seen', 'since', '', '#autumn']	0
+40571	['patthemanager', 'work', 'chancetherapper', '', '', '#serious']	0
+40572	['marielleblaine8', 'princesskeilani', 'told', 'pine', 'want']	0
+40573	['rejoice', 'birth', 'grieve', 'funeral', 'person', 'involved', '―', 'mark', 'twain']	0
+40574	['now', 'fret', 'scuffs', 'i’ll', 'take', 'scuffs', 'which…come', 'phone', 'can', 'use', 'wet', 'handed', 'drop', 'toilet', 'day']	0
+40575	['jeffprobst', 'us', 'born', '85', 'generation', 'genless', 'tribe', 'ha', '#survivor', '#lost', 'soles']	0
+40576	['mariankeyes', 'maybe', 'constipation', 'issues', 'know', 'dates', 'relieve', 'affliction', 'way', 'jose']	0
+40577	['regret', 'things', 'can', 'tempered', 'time', 'regret', 'things', 'inconsolable', '', 'sydney', 'j', 'harris']	0
+40578	['learning', 'use', 'twitter', '#lost']	0
+40579	['therandomant', 'megm203', 'yeah', 'figured', 'ornaments', 'way', 'wanted', 'spektar', 'desolate', 'gear', 'thought', 'right']	0
+40580	['corbyn', 'loses', 'walk', 'crying', 'corbyn', 'supporter', 'whispernndont', 'mourn', 'organisennand', 'laugh', 'laugh']	0
+40581	['netflixme', 'penny', 'dreadful', 'season', '3']	0
+40582	['#always', '#borrow', '#money', '#pessimist', '#expect', '#back']	0
+40583	['', 'used', 'pawn', 'red', 'womans', 'game', 'now', 'try', 'fret', 'act', 'nothing', 'amiss', 'royal', '', 'theladyofglenco']	0
+40584	['notoriety', 'lol', 'senior', 'year', 'get', 'early', 'dismal', 'work', 'study', 'boss', 'know', 'happened', 'next', '']	0
+40585	['serious', 'need', 'nap']	0
+40586	['rihababyj', 'aw', 'problem', 'just', 'felt', 'like', 'speaking', 'felt', 'want', 'overcome', 'discouraged', '']	0
+40587	['janhopis', 'found', 'first', 'episodes', 'bojack', 'incredibly', 'funny', 'got', 'less', 'funny', 'stayed', '#drama']	0
+40588	['know', 'everyone', 'pretending', 'sad', 'angelina', 'brad', 'everyone', 'knows', 'dumb', 'ass', 'shouldve', 'stayed', 'jennifer']	0
+40589	['imkristenbell', 'lauralittlelegs', 'pine', 'nut', 'chestnutpeanutwait', 'wrong', 'film']	0
+40590	['never', 'switched', 'stayed', 'person', 'since', 'day', 'one']	0
+40591	['grow', 'weary', 'good', 'lasting', 'legacy', 'billclinton', 'clintonglobal', '#cgi2016', '#thankfulmoment', 'projectthankful']	0
+40592	['rich', 'fumes', 'sullen', 'sences', 'cheerd']	0
+40593	['told', 'chiropractor', 'good', 'time', 'long', 'time', 'questioned', 'habits', 'yet', 'unnerved', 'doctor']	0
+40594	['courteoussoul', 'mattymcdee', '349', 'just', 'decoded', '20', 'blues', 'one', '340', 'getting', 'blues']	0
+40595	['first', 'weekend', 'fall', 'see', 'can', 'stay', 'disciplined', 'seasons', 'goals', '#fitness', '#running', '#sober', '#mindset', '#firstfriday', '#family']	0
+40596	['#people', 'already', 'talks', '#halloween', 'nyoull', 'get', '#dark', '#music', 'go', 'itn#gothic', '#bloody', '#halloweenhorrornights']	0
+40597	['khoroshiysoldat', 'preparednnnot', 'far', 'know', 'dull', 'reply', 'still', 'survivors', 'members', 'like', 'said']	0
+40598	['bookofkaells', 'quennell3', 'blues']	0
+40599	['name', 'lord', 'amp', 'saviour', 'harambe', 'pray', 'bless', 'apes', 'across', 'worldnnhear', 'solemn', 'oaths', 'pardon', 'sympathetic', 'hominids']	0
+40600	['msfang', 'say', 'attract', 'see', 'maybe', 'pessimist', 'wanna', 'take', 'chances', 'lol', 'wait', 'relocate']	0
+40601	['bro', 'pine', 'green', 'forget', 'nots', 'mediumpurple', 'pickering', 'lit']	0
+40602	['jonathanhatfull', 'i’ll', 'look', 'forward', 'hoping', 'lots', 'stetsontilting', 'rueful', 'looks', 'whiskey', 'glasses']	0
+40603	['there’s', 'shaytan', 'room', 'wallahi', 'dark', 'time', 'now', 'lamp', 'omg', 'shaytan']	0
+40604	['ultimateboxer', 'heart', 'left', 'long', 'againnnslight', 'pout', 'turned', 'smilennheheh', 'just', 'kidding', 'fine']	0
+40605	['bietron', '', 'sad', 'btw', 'good', 'night', 'davinago', 'sleep', 'larh']	0
+40606	['refuge', 'recovery', 'boston', '', 'weds', '7309', 'pm', '#healing', '#support', '#addiction', '#recovery', '#buddhism', '#meditation', '#sober', '#cambma', '#meeting', '#harvardsq']	0
+40607	['#checking', '#work', 'todaynn#coffee', '#drank', 'now', '#down', '#serious', '#business', 'nn#thursday', 'bring', '#friday']	0
+40608	['somehow', '90', 'sausage', 'pasta', 'made', 'sunk', 'bottom', 'eating', 'sausage', 'tiny', 'bit', 'leftover', 'pasta']	0
+40609	['hollylolly7', 'just', 'serious', 'respect', 'man', 'can', 'pull', 'bun', 'better', 'can', 'like', 'maybe', 'can', 'teach', 'ways']	0
+40610	['transparency', 'openness', '', 'dull', 'sell', 'fans', 'group', '', 'want', 'verbs', 'like', 'buying', 'defending', 'building', 'securing']	0
+40611	['anyone', 'noticed', 'npr', 'stories', 'recent', 'days', 'paint', 'positive', 'accomplishments', 'trump', 'challenges', 'hillary', '#surprised', '']	0
+40612	['quite', 'sure', 'craig', 'gordons', 'stayed', 'park', '']	0
+40613	['courtneymee', '3', 'days', 'sober', 'wanna', 'ruin']	0
+40614	['wanna', 'see', 'smile', 'wanna', 'see', 'make', 'frown']	0
+40615	['kurakkusora', 'isnsure', 'mind', 'clouded']	0
+40616	['snores', 'tl', 'boredom', 'sunk']	0
+40617	['season', '3', 'penny', 'dreadful', 'netflixwell', 'afternoon', 'filled']	0
+40618	['grow', 'weary', 'goodnnbillclinton']	0
+40619	['sheilacustis', 'expect', 'women', 'violent', 'amp', 'discourage', 'really', 'raising', 'boys']	0
+40620	['lol', 'thefrankjlopes', 'just', 'awarded', '“f”', 'bomb', 'trophy', '#autodealerlive', 'realmatkoenig', '', '#serious']	0
+40621	['jay', 'z', 'brad', 'pitt', 'cheated', 'bey', 'stayed', 'angie', 'left', '#cheaters', '#love', '#lust', '#sex', '#couples', '#relationships', '#date', '#marriage', '#divorce']	0
+40622	['carry', 'wayward', 'son', 'therell', 'peace', 'done', 'lay', 'weary', 'head', 'rest', 'cry', '#supernatural']	0
+40623	['vixen85webster', 'yep', 'amp', 'stayed', 'pjs', 'day', 'lol', 'x']	0
+40624	['footage', 'didn’t', 'make', 'mix—don’t', 'get', 'discouraged', 'ran', 'room', 'beat', 'week']	0
+40625	['superbatlane', 'true', 'also', 'escape', 'almost', 'car', 'sunk']	0
+40626	['ordered', 'vacation', 'bathing', 'suits', 'one', 'less', 'thing', 'fret']	0
+40627	['cardiffblues', 'cardiffbluessc', 'italy', 'another', 'round', 'drop', 'play', 'take', 'big', 'result', 'guys', '#blues']	0
+40628	['griffinlanep', 'mediaite', 'left', 'protected', 'long', 'lost', 'reasoning', 'power']	0
+40629	['new', 'job', 'training', 'much', 'meat', 'eating', 'oh', 'also', 'got', 'approved', 'drive', 'lyft', 'just', 'need', 'car', '#day35', '#sober']	0
+40630	['sober', 'better', 'roll', 'another', 'dutch', 'u', 'smoke', 'nigga', 'better', 'pour', 'another', 'cup', '']	0
+40631	['just', 'put', 'winter', 'duvet', '️️️', '#serious']	0
+40632	['tetravariations', 'need', 'mask', 'gladly', 'make', 'donation', 'help', 'ur', 'name', 'mr', 'ty', 'rex', 'first', 'initial', '#serious']	0
+40633	['#sober', 'life']	0
+40634	['need', 'sta', 'dating', 'againi', 'm', 'bored', '#redheadteen', '#boldandbeautiful', '#lost', '#500aday', 'single', 'men', 'dating', 'schkeuditz']	0
+40635	['mrspeel', 'lplisa', 'paulrgoulden', 'lisaluscious', 'might', 'pout', 'star', 'baker', 'tho', '']	0
+40636	['dream', 'last', 'night', 'chris', 'brown', 'created', 'diss', 'track', 'drake', 'rihanna', 'called', 'hit', 'first', '', '#dark']	0
+40637	['got', 'short', 'fuse', 'sober']	0
+40638	['already', 'plotting', 'next', 'steps', 'get', 'cut', 'minivan', 'tomorrows', 'dropoff', 'line', '#preschoolpolitics', '#momthings', '']	0
+40639	['never', 'let', 'see', 'frown']	0
+40640	['xxnogardg88', 'welcome', '', 'dark', 'honey', '']	0
+40641	['writerlytweets', 'supine', 'piano—lips', 'parted', '#sixwordstory', '#amwriting', '#blues', '#singer']	0
+40642	['7', 'pax', 'enjoyed', '#gloom', 'clayorangecrush', 'f3lakemurray']	0
+40643	['kinda', 'wanna', 'just', 'book', 'vacation', 'goanyone', 'wanna', 'tag', 'along', '#adventure', '#serious']	0
+40644	['cigna', 'bows', 'moment', 'rather', 'sulk', 'going', 'ucsf', 'opinion', 'guys', 'studying', '#oligodendroglioma', '️amp', '️', 'amp', 's']	0
+40645	['need', 'syfy', 'series', 'watch', 'literally', 'nothing', 'watch', 'back', 'back', 'already', 'watched', '#heroes', '#lost', '#jericho', '#fallenskies', '', 'etc', 'etc']	0
+40646	['wabermes', 'ravallirepublic', 'good', 'one', 'reporter', 'quit', '']	0
+40647	['jaymohr37', 'droop', 'saw', 'naked', 'wrestling', 'asked', 'get', 'hole', 'one', '#jaymohrsports']	0
+40648	['thecathesay', 'may', '#alwayshungry', 'sunk', 'low', 'yet', 'thereluctantcat']	0
+40649	['blessed', 'mourn', 'will', 'comforted', 'n', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'mt', '54']	0
+40650	['kellywelles', 'brilliant', 'made', 'feel', 'v', 'dull', 'one', 'tattoo', 'emoji', 'thisll', '️', 'x']	0
+40651	['tears', 'r', 'inappropriate', 'day', 'holy', 'lord', 'grieve', 'joy', 'lord', 'strength', 'nehemiah', '810', 'niv', '#joy']	0
+40652	['defiantsagacity', '—', 'hermione', 'sort', 'thank', 'sliding', 'plate', 'away', 'frowning', 'ron', 'continued', '—']	0
+40653	['get', 'drunk', 'tell', 'things', 'afraid', 'say', 'sober']	0
+40654	['chelseafc', 'let', 'know', '']	0
+40655	['fateddancer', 'together', 'hermione', '', 'lowered', 'voice', 'slightly', 'sounding', 'somewhat', '', 'bitter', 'perhaps', 'even', '', 'rueful', 'get']	0
+40656	['band', 'members', 'wanted', 'contact', '#newcastlegateshead', '#sunderland', '#musicians', '#musicbusiness', '#musicislife', '#music', '#musically', '#band', '#blues', '#folk']	0
+40657	['working', 'blanchardstown', 'shopping', 'centre', '2', 'years', 'now', 'figured', 'today', 'marks', 'amp', 'spencers', '']	0
+40658	['#askaman', 'sound', 'like', '#serious', 'issue', 'cause', 'siyahleka', 'whole', 'time', 'just', 'fun']	0
+40659	['cherrivarisco', 'audubonsociety', 'oh', 'yes', 'males', 'colourful', 'females', 'dull', 'can', 'blend', 'environment']	0
+40660	['name', 'john', 'locke', 'tell', 'can', '#lost', '#アニメ']	0
+40661	['ya', 'boy', 'gets', 'mad', 'tired', 'pine', 'trees']	0
+40662	['wonder', 'guy', 'can', 'broke', 'penis', 'sex', '#serious']	0
+40663	['nianticlabs', '', 'example', 'catching', 'gloom', 'yield', '6', 'oddish', 'candies', 'catching', 'vileplume', 'yield', '9']	0
+40664	['markoheight', 'cassieob', 'sound', 'like', 'vampires', 'saying', 'wanna', 'sink', 'teeth', 'tt', 'lads', 'talents', '']	0
+40665	['love', 'word', 'fret', 'much', 'heaven']	0
+40666	['marcos', 'rojo', 'marcos', 'rojo', 'running', 'wing', 'loved', 'blues', 'feared', 'reds']	0
+40667	['serious']	0
+40668	['rickygervais', 'first', 'time', 'slough', 'checked', 'new', 'station', 'floor', '', '#lifeontheroad']	0
+40669	['billswindell', 'depauwu', 'dicknixon', 'breakfast', 'seen', 'blew', 'cereal', '#sink']	0
+40670	['#peoplelikemebecause', 'unknown', 'reason', 'try', 'discourage']	0
+40671	['bill', 'clinton', 'grow', 'weary', 'good', 'clintonglobal', '#cgi2016']	0
+40672	['billradkeradio', 'fan', 'beat', 'happening', 'discourage', 'aspiring', 'olympia', 'musicians', '#kuowrecord']	0
+40673	['piggiewhopays', 'lmao', 'can', 'imagine', 'frown', 'across', 'face', '#hilarity']	0
+40674	['tweerialee', 'stumbling', 'block', 'pessimist', 'stepping', 'stone', 'optimist']	0
+40675	['beiirkes', 'es', 'serious', '238']	0
+40676	['discouraged', 'slowing', 'sales', 'market', 'will', 'test', 'business', 'model', 'pinpoint', '#strengths', '#weaknesses', 'kendunn']	0
+40677	['get', 'lost', 'neighborhood', 'use', 'gps', 'phone', 'find', 'way', '#lost', '#googlemaps', '#blondmoment']	0
+40678	['emorottie', 'true', 'sonicsatam', 'serious', 'bit', 'dark', 'aosth', 'like', 'super', 'goofy', 'looney', 'toonie', 'degree']	0
+40679	['tgif', 'hope', 'everyone', 'needs', 'find', '#recovery', 'can', 'friends', 'stay', '#sober', 'weekend', 'rebostreatment', 'blvdcenters']	0
+40680	['pxrfectpeach', 'got', 'little', 'pout']	0
+40681	['darryella', 'chip', 'get', 'dull', 'nails', 'gone', 'looking', 'perfect', 'whole', 'time', 'except', 'gone', 'grown', '']	0
+40682	['impress', 'depress']	0
+40683	['“do', 'fret', 'cool', 'humans', 'follow', 'become', 'instantly', 'cool”', '#bot']	0
+40684	['#pessimist', 'complains', 'wind', '#optimist', 'expects', 'change', 'realist', 'adjusts', 'sails', '', 'william', 'arthur', 'wardn#ignite']	0
+40685	['littlemore20', 'nice', 'italian', 'icecream', 'whilst', 'resting', 'tired', 'paws', 'honey', 'flavoured', 'naturally', '#furrytails', '#lost', '#venice']	0
+40686	['added', 'paul', 'walker', 'xbox', 'just', 'spends', 'time', 'dashboard', '#dark', '#humor', '#funny']	0
+40687	['much', 'time', 'give', 'friend', 'lost', 'laptop', 'mourn', 'can', 'ask', 'give', 'laptop', 'charger', 'extra', 'battery']	0
+40688	['take', 'u', '#serious', 'unless', 'u', 'use', '#emojis']	0
+40689	['back', 'forest', 'drama', 'nfrom', '#forest', '#music', '', 'series', '2016n#nature', '#dark', '#art', '#photography', '#finland']	0
+40690	['makaikishi', 'eyes', 'stayed', 'glued', 'monitor', 'turning', 'away', 'anything']	0
+40691	['“optimism', 'may', 'sometimes', 'delusional', 'pessimism', 'always', 'delusional”', '—alan', 'cohen', '#believe']	0
+40692	['gods', 'love', 'springof', 'one', 'dat', 'sunk', 'whole', 'estate', 'd', 'paltry', 'bribeof', 'single', 'apple–n', 'yet', 'proud', 'ancestry️']	0
+40693	['house', '#granddesigns', 'forest', 'wibbly', 'wobbly', 'pine', 'plantation']	0
+40694	['beats', 'accurately', 'allpowerful', 'respect', 'highquality', 'highfrequency', 'speaker', 're', 'extra', 'desolate', 'relating', 'fireea…']	0
+40695	['gloomy', 'weather', 'puts', 'best', 'mood']	0
+40696	['dad', 'asked', 'hungover', 'function', 'today', 'little', 'know', 'stayed', 'sober', 'last', 'night', 'get', 'shit', 'faced', 'tonight', '']	0
+40697	['american', 'idiot', 'record', 'turns', 'twelve', 'today', 'changed', 'preppy', 'middle', 'school', 'heart', 'desolate', 'punk', 'rock', 'desert', 'forever', 'grateful']	0
+40698	['tones', '', 'n', '12', 'favourite', 'chris', 'pine', 'stans', 'love', 'tones', 'anything', 'mt', 'sweet', 'summer', 'child', 'will', 'attack', 'anyone', 'hurts']	0
+40699	['amateurs', 'sit', 'wait', 'inspiration', 'rest', 'us', 'just', 'get', 'go', 'work', '', 'stephen', 'king', '#authors', '#serious', '#writingtip']	0
+40700	['hotelplanner', 'stayed', 'hotel', '', 'packed', 'picnic', 'lunches', 'take', 'road', '#bettertogether', 'redlizzy1', 'newfiechic', 'ladybugvic']	0
+40701	['cburt43', 'turn', 'frown', 'upside']	0
+40702	['ijuvia', 'nnhearing', 'noises', 'akame', 'opened', 'eyes', 'sat', 'facing', 'juvia', 'expect', 'see', 'someone', 'around', 'staid', '']	0
+40703	['petercoffin', 'safe', 'blues', 'ok', 'reds', 'ok', 'obviously', 'battleground', 'states']	0
+40704	['hello', 'fellow', '#horror', '#creepy', '#dark', '#stange', '#story', 'fans', 'day', '#followme', '#followback']	0
+40705	['ddanddeltaboys', 'will', 'playing', 'bridge', 'bar', 'rameltonwhatson', 'sat', '24th', 'sept', '#blues', '#rhythmandblues', '#ramelton', '#donegal']	0
+40706	['oh', 'goodness', 'loving', 'rainy', '', 'day', 'head', '#creative', 'cap', 'amp', 'get', '#lost', '#thoughts', 'kind', 'day', '', '️', '#art', '#create', '#biz']	0
+40707	['one', 'wants', 'win', 'wild', 'card', 'play', 'cubs', 'road', '']	0
+40708	['#jazz', '', '#blues', 'roots', 'rest', 'fruits']	0
+40709	['hear', 'girls', 'attracted', 'men', 'look', 'like', 'dad', '', '', '']	0
+40710	['labor', 'love', 'cheap', 'inexpensive', 'time', 'spent', 'earning', '#lackadaisical', '#dreamer']	0
+40711	['blues', 'bob', 'haddrell', 'amp', 'guestsnfri', '23rd', 'sep', '830pm', '', '1100pm', '#blues', '#free', '#tunbridgewells']	0
+40712	['rashidalmaktoum', '#serious', '#intermediaries', 'required', 'info', '#project', '#owner', 'will', 'mailed']	0
+40713	['930', 'howland', 'cultural', 'center', '#beaconny', 'vickie', 'raabin', 'amp', 'chris', 'raabe', '#blues', '#soul', '8pm', '', 'localmotionwvkr', 'hiddencitiesnyc', '8458314988']	0
+40714	['#ff', 'nnthefamilyx', 'nn#soul', '#blues', 'amp', '#rock', '#bandnn#music', '#heartnnwith', 'soul', 'amp', '#passion', 'nnxx', '', 'xx']	0
+40715	['mmmm', '#coffee', 'good', '#book', 'dreary', 'day', 'can', 'beat']	0
+40716	['sometimes', 'believe', 'made', 'far169', 'days', 'threw', 'demons', 'n', 'got', '#sober', '#clean', 'n', 'started', '#recovery#sobriety', '#2']	0
+40717	['clouded', 'outnn', 'considering', 'using', 'camera', '1', 'star', 'trails', '2', 'eyepiece', 'projection']	0
+40718	['learning', 'trust', 'god', 'can', 'quiet', 'troubled', 'amp', 'restless', 'heart', 'bring', 'peace', 'weary', 'soul', 'amp', 'eliminate', 'hopelessness', '#addiction']	0
+40719	['pessimist', 'sees', 'difficulty', 'every', 'opportunity', 'optimist', 'sees', 'opportunity', 'every', 'difficulty', 'n―', 'winston', 's', 'churchill', '#quote']	0
+40720	['altj', '', 'hunger', 'pine']	0
+40721	['grown', 'ass', 'lil', 'boys', 'yeah', 'take', 'serious']	0
+40722	['strong', 'amp', 'courageous', 'terrified', 'discouraged', 'lord', 'god', 'will', 'wherever', 'go']	0
+40723	['let', '#mrrobot', 'binge', 'begin', '#nerdshow', '#compelling', '#dark']	0
+40724	['anyway', 'car', 'furious', 'white', 'men', 'really', 'funny', 'story', 'tell', 'sober', '']	0
+40725	['#ricefodays', 'now', 'alex', 'butlers', 'class', 'financial', 'management', 'starts', 'great', 'relevant', 'class', 'discussion', 'movies', 'sunk', 'costs']	0
+40726	['dark', 'side', 'moon', 'fact', 'darkngerry', 'odriscoll', 'end', 'dark', 'side', 'moon']	0
+40727	['bluesfestbyron', 'second', 'artist', 'announcement', 'looking', 'good', '#bluesfest2017', '', '#music', '#byronbay']	0
+40728	['now', 'playing', 'yung', 'fav', 'song', 'ni', 'chavs', '#sober', '']	0
+40729	['blurtalerts', 'darkest', 'nights', 'can', 'bright', 'solemn', 'faces', 'lights', 'smile', 'totemprince', 'believe']	0
+40730	['kcbbcxo', 'get', 'discouraged', 'early', 'amp', 'can', 'get', 'overwhelming', 'keep', 'reading', 'amp', 'use', 'cue', 'cards', '', 'itll', 'get', 'better']	0
+40731	['damn', 'gud', '#premiere', '#lethalweapon#funny', '']	0
+40732	['mourn', 'kid', 'cudi', 'cause', 'travis', 'scott']	0
+40733	['joyful', 'hope', 'patient', 'affliction', 'faithful', 'prayer', 'romans', '1212']	0
+40734	['isaiah', '4031nthose', 'trust', 'lord', 'will', 'find', 'new', 'strengthnthey', 'will', 'soar', 'high', 'wings', 'like', 'eaglesnthey', 'will', 'run', 'grow', 'weary']	0
+40735	['amb4jc', 'drtonyevans', 'job', 'job', 'people', 'r', 'still', 'sanestill', 'ok', 'life', 'help', 'lost', 'find', 'amp', 'love', 'eachother']	0
+40736	['unmatched', 'party', 'specialist', 'co', 't3revneverend', '#serious', '#job', '#titles']	0
+40737	['honestly', 'give', 'af', 'wins', 'us', 'pine', 'just', 'worried', 'getting', 'drunk', 'saturday', 'night']	0
+40738	['think', 'luca', 'understands', 'serious', 'fallhe', 'idea', 'store', '']	0
+40739	['keep', 'feeling', 'heaviness', 'left', 'hand', 'look', 'awe', 'every', 'single', 'time', '', '#notusedtoit', '#imafiancée', '#wut']	0
+40740	['rappers', 'stayed', 'true', 'game', 'rich']	0
+40741	['thetroche94', 'ramirocedeno', 'yeah', 'want', 'become', 'obese', '', 'can', 'afford', 'think', 'serious', 'haha']	0
+40742	['hailsberry8', 'sajedhariri23', 'varsity', 'pine', 'riding']	0
+40743	['difference', 'someones', 'selfies', 'happy', 'vs', 'unhappy', 'absolutely', 'amazing']	0
+40744	['katelynkolsrud', 'thanks', 'mucho', 'kate', '#sober']	0
+40745	['hyattd335', '#grateful', '#novel', '#award', '#promo', '#rt', '', '#blessings', 'dewayne', 'hyatt', '#hippie', 'loves', 'grind', '#blues', '#florida']	0
+40746	['crucialbmxshop', 'ohh', 'silver', 'lake', 'came', 'lot', 'guys', 'stayed']	0
+40747	['damnitdillon', 'samundomiel', 'course', 'happy', 'hentai', 'sad', 'gloomy', 'one']	0
+40748	['vaunwilmott', 'prisonbreak', 'pbwritersroom', 'linc', 'sink']	0
+40749	['lesdoggg', 'take', 'jk', 'fun', 'relax', 'get', 'massage', 'two', 'chill', 'eat', 'cucumbers', 'places', 'frown']	0
+40750	['stayed', 'night', 'longnmade', 'drinks', 'strongnfeeling', 'ten', 'feet', 'tallnropes', 'swinging', 'waternin', 'middle', 'night']	0
+40751	['thing', 'dark', 'curly', 'hair']	0
+40752	['hear', 'girls', 'attracted', 'men', 'look', 'like', 'dad', '', '', '#serious']	0
+40753	['tummy', 'full', 'steak', 'wine', 'key', 'lime', 'pine', 'cuddles', 'tap', 'way', 'turn', 'around', 'stressful', 'wednesday', '']	0
+40754	['free', 'live', 'music', 'dc', 'tonight', '', '#blues', '#moonshinesociety', 'thehamiltondc', 'loft', 'starting', '1030pm', 'freeindcblog', 'wtopfreebies']	0
+40755	['hannah2401', 'hannah', 'stop', 'mournful', 'chill', '']	0
+40756	['guys', 'read', '#fanfiction', 'like', '#lost', '#housemd', 'one', '#tvshow', 'link', 'bio']	0
+40757	['mgiacchino', 'will', 'aired', 'radio', 'filmed', 'lots', 'fans', 'pond', '#wales', '']	0
+40758	['long', 'day', 'thank', 'goodness', 'bake', 'brighten', 'weary', 'wednesday', '', '#gbbo']	0
+40759	['tonight', '', 'fulford', 'arms', 'york', 'ntomorrow', '', 'bank', 'top', 'tavern', 'oldhamnnext', 'saturday', 'big', 'hands', 'manchester', 'nn#livemusic', '#punk', '#blues', '#rockandroll']	0
+40760	['proud', 'understands', 'shows', 'love', 'thought', 'compassion', '', '', '', 'done', 'clouded', 'way']	0
+40761	['blues', 'bar']	0
+40762	['gop', 'ahead', 'polls', 'amp', 'trumps', 'dismal', 'performance', 'upcoming', 'debate', 'will', 'easy', 'win', 'hillary']	0
+40763	['urbaneprofessor', 'roast', 'risotto', 'sage', 'pine', 'nuts']	0
+40764	['happiness', 'always', 'just', 'choose', 'see', 'point', 'dwelling', 'dark', 'ignoring', 'light', 'stars']	0
+40765	['good', 'morning', 'chirpy', '#springequinox', 'pensive', 'sister', '#autumnequinox', 'perfect', 'day', 'however', 'expressed', '️', '#thebeautyofbalance']	0
+40766	['also', 'amazon', 'prime', 'like', 'help', 'girl', 'lol', '#serious']	0
+40767	['added', 'paul', 'walker', 'xbox', 'just', 'spends', 'time', 'dashboard', '', '#humor', '#funny']	0
+40768	['nice', 'see', 'balotelli', 'back', 'best', 'good', 'player', 'just', 'lost', 'way', 'bit']	0
+40769	['katieburnett', 'ha', 'freshers', 'blues', 'love', 're', '', 'ha', 'nice', 'tshirt', '', 'vote', 'pedro']	0
+40770	['get', 'cross', '#apple', 'tree', '#pine', 'tree', 'nnothing', 'crosspollinate', '#deciduous', '#coniferous', '#trees']	0
+40771	['please', 'bear', 'twitter', 'savvy', 'real', 'life', 'facebook', 'person', 'help', 'gain', 'followers', '', '#blog', '#selfhelp', '']	0
+40772	['ririmathew', 'even', 'fighting', 'laughing', 'probably', 'serious', 'ingrained', 'issues']	0
+40773	['squidwastaken', 'pfft', 'yeye', 'sucker', 'bright', 'yellow', 'red', 'pink', 'blues', 'comes', 'coloring', 'backgrounds', 'haaa']	0
+40774	['never', 'dull', 'moment', 'talking', 'nell', '']	0
+40775	['never', 'dull', 'moment']	0
+40776	['#picoftheday', '', 'howwhy', 'really', 'n', '', '', '', '#funny', '#picoftheday', '#lol', '#random', '#laugh', '#chair', '#of', '#despair', '#funnypics', '', '#virgin', '#cafe', '#i']	0
+40777	['ebled2', 'great', 'tournament', 'chair', 'award', '#serious']	0
+40778	['darbyhogle', 'red', 'one', 'look', 'super', 'pretty', 'bronzy', 'glowy', 'nude', 'lip', 'makeup', 'look', '3rd', 'black', 'pretty', 'dark', 'lip', '']	0
+40779	['pottzgaming', 'hmu', 'need', 'players', 'lans', 'next', 'year', 'dm', 'need', 'serious', 'players', 'org']	0
+40780	['#ff', 'elizanealsrocks', 'love', 'amp', 'support', 'always', 'eliza', 'neals', 'rocks', '#blues', '#music', '#friends', '']	0
+40781	['vivienlloyd', 'thank', 'much', 'just', 'home', '', 'stunned', 'happy', 'think', 'sunk', 'yet', 'wow']	0
+40782	['just', 'put', 'winter', 'duvet', '️️️', '']	0
+40783	['silkinside', 'tommyjoeratliff', 'pretty', 'love', 'sky', 'background', 'purple', 'highlights', 'dull', 'colors', 'great']	0
+40784	['bluesfestbyron', 'second', 'artist', 'announcement', 'looking', 'good', '#bluesfest2017', '#blues', '#music', '#byronbay']	0
+40785	['can', 'literally', 'eat', 'creamy', 'pesto', 'pasta', 'topped', 'grilled', 'chicken', 'sun', 'dried', 'tomatoes', 'asparagus', 'pine', 'nuts', 'every', 'single', 'day', 'life']	0
+40786	['1johndes', 'ball', 'watching', 'amp', 'rojod', 'header', 'equally', 'dreadful']	2
+40787	['pessimist', 'someone', 'opportunity', 'knocks', 'complains', 'noise', '#mikeshumor']	0
+40788	['500', 'season', 'looking', 'point', '#depressing', '#royals']	3
+40789	['stars', 'shinenyou', 'know', 'feelnscent', 'pine', 'nyou', 'know', 'feelnfreedom', 'mineni', 'know', 'feelnim', 'feelin', 'good']	0
+40790	['want', 'watch', 'netflix', 'stuck', 'class', '#depressing']	2
+40791	['buddha', 'possess', 'enough', 'power', 'deliver', 'affliction']	2
+40792	['donating', 'trump', 'puts', 'damper', 'exciting', 'cubs', 'season', 'really', 'bad', 'look', 'ricketts', 'family']	1
+40793	['hello', 'dear', 'friends', 'will', 'back', 'online', 'friday', 'night', 'miss', '#sober', '#sobriety', '#recovery']	0
+40794	['ccrago', 'dreadful', 'even', 'met', 'catfish', 'still', 'thought']	2
+40795	['watching', 'uni', 'reveal', 'depressing', 'miss', 'stingrays', '']	2
+40796	['public', 'products', 'high', 'downhearted', 'price', 'tag', 'consumer', 'survey', 'sum', 'substance', 'ovth']	0
+40797	['wow', 'just', 'watched', 'seriously', 'one', 'depressing', 'movies', 'life']	2
+40798	['kayleighmcenany', '', 'donaldjtrumpjr', 'really', 'can', 'offer', 'sacrifice', 'daily', 'keep', 'safe', 'kayleighmcenany', '#sad']	2
+40799	['kayleighmcenany', '', 'donaldjtrumpjr', 'really', 'can', 'offer', 'sacrifice', 'daily', 'keep', 'safe', 'kayleighmcenany', '']	0
+40800	['“dyslexia', 'affliction', 'frozen', 'genius”―', 'stephen', 'richards']	0
+40801	['ohsovictorious', 'fazeadapt', 'seen', 'coming', 'sad', 'instagram', 'comments', 'pics', 'funny', 'adapts', 'fans', 'blew', '']	0
+40802	['', 'hedgehogdylan', '', 'frown', 'bit', 'folding', 'arms', 'every', 'time', 'need', 'assistance', 'someone', 'expects', 'lil', '']	2
+40803	['abra', 'abra', 'abra', 'whatre', 'ears', 'soul', '#goodmusic', '#melancholy']	0
+40804	['feel', 'like', 'appendix', 'purpose', '', '#depressed', '', '#alone', '#lonely', '#broken', '', '#cry', '#hurt', '#crying', '#life']	3
+40805	['might', 'go', 'radiox', 'tomorrow', 'hopefully', 'win', 'new', 'car', 'current', 'one', 'stinks', 'gone', 'milk', '#grim']	1
+40806	['season', '3', 'charlie', 'still', 'prick', '#lost']	0
+40807	['pmo100', '5livesport', 'heard', 'talk', 'something', 'miss', 'looks', 'weary']	1
+40808	['angelina', 'jolie', 'keep', 'man', 'one', 'can', 'today', 'mourn', 'love', 'dead']	2
+40809	['dxfyinggrxvity', '', 'frustration', 'looking', 'elphaba', 'frown', 'aggravation', 'high', 'pitched', 'voice', 'growing', '']	1
+40810	['covinoandrich', 'just', 'heard', 'back2back', '', 'guess', 'call', 'blues', 'amp', 'got', 'look', 'can', 'sing', 'tickle', 'sacks', 'version']	0
+40811	['sobriety®', '', '', 'trying', 'make', 'sober', 'fashionable…can', 'done', '', '#zeroalcohol', '#soberoctober', '#clubsoda', '#nomorehangovers', '#sober']	0
+40812	['staceydavidson', 'thief', 'liberal', 'mope', 'investigated', 'financial', 'services', 'board', 'theft', 'govt', 'retirement', 'funds', 'thief']	2
+40813	['shit', 'hurting', 'heart', '', 'serious', '']	3
+40814	['year', 'ends', 'probably', 'get', 'master', '12s', 'flu', 'games', 'true', 'blues', 'space', 'jams']	0
+40815	['anjidunlap', 'droop', 'leggings', 'wearing', 'xxxl']	0
+40816	['trashcami', 'cured', 'depression']	0
+40817	['world', 'serious', 'issues', 'go', 'therapy']	3
+40818	['little', 'bit', 'extra', 'money', 'blow', 'whole', 'paycheck', 'go', 'one', 'two', 'kygomusics', 'concerts', 'la', '#serious']	0
+40819	['kempicepoland', 'think', 'rucksack', 'laptop', 'possession', 'murky', 'business', 'note', 'away', 'bed']	1
+40820	['mc', 'listen', 'daysnbogum', 'days', 'feel', 'gloomy', 'listen', 'ccm', 'spiritual', 'song', 'oftennnchurch', 'oppa', 'mode', '']	2
+40821	['feel', 'like', 'lost', 'family', 'member']	3
+40822	['life', 'went', 'happy', 'unhappy']	3
+40823	['endless', 'journey', 'figuring', 'discouraged', 'know', 'yet']	0
+40824	['bedrest', 'since', 'got', 'hospital', 'u', 'find', 'unopened', 'beer', 'pour', 'shit', 'alcohol', '#sober']	1
+40825	['leeporter94', 'dommcgovern', 'hi', 'dom', 'saw', 'u', 'notts', 'county', 'away', 'looking', '1', 'mufc', 'away', 'ticket', 'will', 'pay', '#blues']	1
+40826	['leeporter94', 'dommcgovern', 'hi', 'dom', 'saw', 'u', 'notts', 'county', 'away', 'looking', '1', 'mufc', 'away', 'ticket', 'will', 'pay', '']	0
+40827	['a3', 'chronic', 'sadness', 'may', 'mean', 'underlying', 'issues', 'getting', 'sad', 'occassionally', 'particular', 'issue', '22', '#mhchat']	2
+40828	['depress', 'comparing', 'comparisons']	1
+40829	['folk', 'band', 'thistle', 'will', 'replaced', 'paul', 'edwards', 'quartet', 'laurel', 'bank', 'park', 'sat', '24', '11am', '', '3pm', 'due', 'health', '#jazz', '#blues']	0
+40830	['folk', 'band', 'thistle', 'will', 'replaced', 'paul', 'edwards', 'quartet', 'laurel', 'bank', 'park', 'sat', '24', '11am', '', '3pm', 'due', 'health', '#jazz', '']	0
+40831	['griplikeavice', 'mind', 'know', 'threaten', 'job', 'disagree', 'puts', 'damper', 'things']	2
+40832	['ffbren', 'cdcarter13', 'included', 'maximum', '#sadness']	2
+40833	['barcabhoy1', 'course', 'sink', 'studs', 'knee', 'like', 'forrester']	0
+40834	['soooo', 'badly', 'want', 'dye', 'hair', 'dark', 'never', 'dark', 'soooo', 'torn', '']	1
+40835	['eeevah14', 'know', 'try', 'fret', 'sweet', 'little', 'pupper']	0
+40836	['thoroughly', 'love', 'w', 'zen', 'jumin', 'think', 'even', 'patience', 'either', 'irl', 'old', 'weary']	1
+40837	['virgintrainsec', 'feel', 'conductor', 'tonight', 'obviously', 'taken', 'grief', 'last', 'weeks', 'sounds', 'weary', 'apologising']	2
+40838	['golfstrat', 'rory', 'starts', 'b', 'group', 'look', 'like', 'wo', 'hideki', 'walker', 'throw', 'reed', 'knox', 'pine']	0
+40839	['hate', 'ads', '#depression', 'amp', '#mentalhealth', '#meds', 'something', 'doctor', 'can', 'determine', 'everyone', 'different', '#ssri']	1
+40840	['rooney', '5', 'yards', 'pace', 'league', 'cup', 'game', 'northampton', 'town', 'let', 'sink', 'moment', '#mufc']	0
+40841	['wait', 'go', 'work', 'tomorrow', 'high', 'fuck', 'fever', 'sarcasmnhopefully', 'feel', 'better', 'tomorrownbut', 'doubt', '#pessimism']	2
+40842	['disheartened', 'get', 'cards', 'wanted', 'end', 'worldeeh', 'yyou', 'want', 'cheer']	1
+40843	['amateur', 'author', 'twitter', 'might', 'depressing', 'thing', 'ever', 'seen']	3
+40844	['yesterday', 'finished', 'watching', 'penny', 'dreadful', 'beautiful', 'things', 'saw', 'one', 'question', 'remains', 'writers', 'hims', 'fans']	0
+40845	['little', 'hour', 'away', 'will', 'arrive', 'soon', 'fret']	0
+40846	['stayed', 'dubai', '']	3
+40847	['chalk', 'dance', 'notation', 'entree', 'manchester', 'inasmuch', 'corinthian', 'products', 'discourage', 'drag', 'branding', 'arwuevfqv']	0
+40848	['basically', 'dead', 'skin', 'peel', 'sounds', 'grim', 'literally', 'gets', 'rid', 'much', 'dead', 'skin', 'pores']	0
+40849	['aaahhhh', 'little', 'otisredding', 'soothe', 'soul', '#music', '']	0
+40850	['aaahhhh', 'little', 'otisredding', 'soothe', 'soul', '#music', '#blues']	0
+40851	['remembering', 'day', 'u', 'still', 'know', 'kpop', 'n', 'thinking', 'sad', 'life', 'without', '', 'kpop', 'fan']	1
+40852	['inconsolable', 'oxford', 'academics', '', 'brussels', 'just', 'ignore', '#brexit', 'vote', 'tell', 'uk', 'leave', 'eueverwah']	1
+40853	['xoffwithmyheadx', 'officially', 'said', 'episodes', 'left', 'future', '12', 'despair', '11', '12', 'will', 'delayed']	1
+40854	['340892', 'weary', 'task', 'fordonennow', 'wasted', 'brands', 'glownwhilst', 'scritchowl', 'scritching', 'loudn#amndbots']	1
+40855	['common', 'app', 'just', 'randomly', 'logged', 'writing', 'last', 'part', 'college', 'essay', 'lost', '']	3
+40856	['rather', 'laugh', 'rarest', 'genius', 'beautiful', 'alliance', 'kept', 'sadness', '#melancholy']	3
+40857	['#invest', 'new', '#film', 'will', 'stop', 'asking', 'invest', 'new', 'film', '#concessions', '#crime', '#despair', '#shortsightedness', '#celebrities']	1
+40858	['just', 'watched', 'django', 'unchained', 'people', 'may', 'frown', 'titter', 'delight', '25']	0
+40859	['keitholbermann', 'depressing', 'despicable', 'trump', 'policies', 'campaigning', 'bigotry', 'amp', 'rancour', 'can', 'close', 'evil', 'immoral', 'disaster']	3
+40860	['2', 'teens', 'sons', 'just', 'left', 'car', 'get', 'haircuts', 'praying', 'storm', 'make', 'home', 'safely', '#sad', '#terencecrutcher']	2
+40861	['2', 'teens', 'sons', 'just', 'left', 'car', 'get', 'haircuts', 'praying', 'storm', 'make', 'home', 'safely', '', '#terencecrutcher']	1
+40862	['hartramseysuplift', 'still', 'discouraged', 'means', 'listening', 'wrong', 'voices', 'amp', 'looking', 'wrong', 'sourcelook', 'lord']	0
+40863	['amontanaw', 'nearly', 'dropped', 'phone', 'sink', 'hahahaha']	0
+40864	['whenever', 'feeling', 'sad', 'will', 'listen', 'monsta', 'x', 'hug', 'teddy', 'bear', 'always', 'feel', 'better']	2
+40865	['spamvicious', 'just', 'found', 'candice', 'candace', 'can', 'pout', 'likes', '']	0
+40866	['britishairways', 'concorde', 'lounge', 'terminal', '7', 'jfk', 'saddened', 'say', 'service', 'far', 'dismal', 'expect', 'reply']	2
+40867	['#facebook', '#depressing', 'without', 'even', 'two', 'apps', 'want', 'logging', 'missed', 'least', 'two', 'interesting', '#events']	3
+40868	['btw', 'offended', 'policy', 'wonks', 'h', 'one', 'real', 'proposal', 'eliminate', 'subminimum', 'wage', 'probably', 'good', 'might', 'discourage', 'hiring', 'disabled']	2
+40869	['believe', 'work', 'meaningful', 'clients', 'agree', 'end', 'day', 'feel', 'like', 'pawn', 'lost', 'chaotic', 'world']	2
+40870	['refuse', 'let', 'get', 'discouraged']	0
+40871	['yukkikumacos', 'cheer', 'luv', 'face', 'alot', 'prettier', 'frowning', 'lt3']	0
+40872	['mhchat', 'sadness', 'resentment', 'past', 'sadness', 'fear', 'future', 'try', 'live', 'now', '#mhchat']	1
+40873	['prolifers', 'condemning', '#menforchoice', '', 'seen', 'criticize', 'dismal', 'american', 'foster', 'careadoption', 'system']	1
+40874	['love', 'big', 'family', 'never', 'dull', 'moment', 'house', '']	0
+40875	['the40bar', 'see', 'october', '8th', 'wreckinso', 'ready', 'tear', '#keeptalkin', '#wreckinso', '#the40', '#brandonmanitoba', '#country', '#rock', '#blues']	0
+40876	['r', 'u', 'scared', 'present', 'front', 'class', 'severe', 'anxiety', 'r', 'u', 'sad', 'sometimes', 'go', 'get', 'ur', 'depression', 'checked', 'imediately']	2
+40877	['grim', 'night', '#getthefirelit', '']	2
+40878	['bitcoinbelle', 'pamelawjd', 'start', 'mournful', 'kick', 'major', 'key', 'last', 'verse', 'good', 'guys', 'win', 'just', 'change', 'words', 'existing', 'song']	2
+40879	['xaninaany', 'serious', 'dm', 'tell', 'u']	0
+40880	['time', 'despair', '#sdr3', '#despair', '#fuckthisanime']	3
+40881	['leighsteinberg', 'april', '25th', '2010', 'keep', 'good', 'work', '#sober', '#prouder']	0
+40882	['losing', 'games', 'worst', 'end', 'feeling', 'mixture', 'anger', 'sadness', 'shame', 'anxiety', 'lasts', 'days']	3
+40883	['ccgaryroberts', 'community', 'policing', '#lost']	0
+40884	['easy', '#fall', '#asleep', 'class', 'hard', 'bed', '#true', '#sober', '#whileyouweresleeping', '#insomnia', '#teamfollowback', '#rocktheretweet']	1
+40885	['easy', '#fall', '#asleep', 'class', 'hard', 'bed', '#true', '', '#whileyouweresleeping', '#insomnia', '#teamfollowback', '#rocktheretweet']	0
+40886	['lt', 'moment', 'finish', 'netflix', 'series', 'nothing', 'else', 'watch', '#depression']	3
+40887	['beakmoo', 'hmmmmyou', 'may', 'point', 'thought', 'twitter', 'got', 'dull', '', 'lamination']	2
+40888	['just', 'got', 'asked', 'hoco', 'instagram', 'dm', 'bc', 'someone', 'lost', 'bet', 'love', 'maturity', 'people', 'grade']	0
+40889	['jensenackles', 'jarpad', 'whatever', 'sam', 'holding', 'tee', 'looks', 'like', 'got', 'droop', '']	0
+40890	['surfer', 'girl', '', 'speak', 'language', 'anymore', '#justsaying', '#sadness']	2
+40891	['nikesupport', 'ok', '2', 'weeks', 'able', 'sign', 'time', 'move', 'amp', 'find', 'another', 'app', 'will', 'strongly', 'discourage', 'nikerun']	1
+40892	['arizernial', 'nesquikmills', 'let', 'discourage', 'z', 'one', 'best', 'ideas', 'yet']	0
+40893	['soldiers', 'war', 'zones', 'held', 'higher', 'level', 'rules', 'engagement', 'police', 'officers', '#sad']	3
+40894	['soldiers', 'war', 'zones', 'held', 'higher', 'level', 'rules', 'engagement', 'police', 'officers', '']	2
+40895	['nephews', 'n', 'cousins', 'nowhere', 'near', 'bad', 'guys', 'killed', '', 'moment', 'cop', 'thought', 'bc', 'color', '#sad']	3
+40896	['nephews', 'n', 'cousins', 'nowhere', 'near', 'bad', 'guys', 'killed', '', 'moment', 'cop', 'thought', 'bc', 'color', '']	3
+40897	['write', 'drunk', 'edit', 'sober', 'nforget', 'save', 'wake', 'hungovern#amwriting', '#sober']	0
+40898	['someone', 'keeps', '#laughing', '#fret', '', '', 'least', 'u', 'r', 'giving', '#happiness', 'n#quotes', '#quotestoliveby']	0
+40899	['back', 'big', 'time', 'selection', 'last', 'night', 'absolutely', 'buzzing', 'bring', 'roaches', '#sg16', '#kickittomehigh', '#nswgaa', '#blues', '#statevstate']	0
+40900	['headed', 'mdw', 'w', 'layover', 'slc', 'got', 'food', 'wrong', 'move', 'bailed', 'food', 'amp', 'barely', 'made', 'southwestair', '#wannagetaway', '#contest', '#sad']	3
+40901	['headed', 'mdw', 'w', 'layover', 'slc', 'got', 'food', 'wrong', 'move', 'bailed', 'food', 'amp', 'barely', 'made', 'southwestair', '#wannagetaway', '#contest', '']	1
+40902	['burst', 'crying', 'alone', 'u', 'realize', 'one', 'truly', 'knows', 'unhappy', 'really', 'want', 'anyone', 'know']	3
+40903	['ever', 'grow', 'weary', 'gooddont', 'just', 'see', 'headlines', 'look', 'trend', 'lines', 'hope', 'billclinton', '#cgi2016']	0
+40904	['thomashcrown', 'laurakfillault', 'historic', 'evangelical', 'wonder', 'donatists', 'point', 'dreadful', 'clergy', 'fmr', 'circles']	2
+40905	['inluvwithaghost', 'frowning', 'intensely', 'watch', 'plastic', 'memories']	1
+40906	['worst', 'affliction', 'someone', 'know', 'ever', 'convinced']	1
+40907	['get', 'much', 'pussynp', '', 'panic', 'attacks', 'nu', '', 'uncontrollable', 'anxiety', 'ns', '', 'suicidal', 'fantasies', 'ns', '', 'sadness', 'ny', '', 'yearning', 'death']	3
+40908	['jai', 'actually', 'understand', 'plumbers', 'etc', 'wire', 'get', 'way', 'sink']	0
+40909	['real', 'life', 'conundrum', 'cuz', 'find', 'good', 'spot', 'mini', 'hoop', 'really', 'starting', 'depress']	2
+40910	['heartbeat', 'forever', 'stumbling', 'memories', 'things', 'past', '#longing', '#loss', '#shape', '#form', '#sadness']	3
+40911	['6', 'might', 'serious', 'number', '10', 'sounds', 'better', 'wild', 'card', 'race']	0
+40912	['urgent', 'need', 'get', 'new', 'job', 'constant', 'gloom', 'current', 'one', 'getting', 'bit', 'ridiculous', 'now']	3
+40913	['john', 'magic', 'box', '#lost']	0
+40914	['really', 'sad', 'order', 'goods', 'china', 'likes', 'internet', 'fraudsters', 'government', 'really']	2
+40915	['can', '10', 'pm', 'can', 'sulk', 'tub', 'listening', 'lana']	2
+40916	['wait', 'listen', 'new', 'single', 'mystery', 'new', 'album', '#newmusic', '#newsingle', '#newalbum', '#2016', '#popmusic', '#dark']	0
+40917	['candices', 'pout', 'gonna', 'take', 'someone', 'eye', 'mate', '#gbbo']	0
+40918	['pine', 'colada', 'starburst', 'nasty', '']	0
+40919	['new', '#batmantelltaleseries', 'looks', 'good', 'growing', 'weary', '#gaming', 'style', '#batman']	0
+40920	['bolainbranden', 'grimstoyshow', 'grim', 'find', 'broken', 'matt', 'hardy', 'can', 'delete', 'everything', 'lol']	0
+40921	['sentinalsmom', 'baal', 'dashed', 'forward', 'boosted', 'forward', 'power', 'flight', 'sword', 'pointed', 'void', 'meant', 'stop', 'just', 'short']	0
+40922	['find', 'sadness', 'grahams', 'lyrics']	2
+40923	['told', 'therapist', 'dance', 'team', 'now', 'unhappy']	1
+40924	['mardepalabras', 'think', 'need', 'experience', 'bit', 'madness', 'amp', 'despair', 'stuff', 'makes', 'us', 'human']	1
+40925	['texans', 'astros', 'shut', 'tonight', 'houston', 'back', 'normal', '#texans', '#astros', '#sadness', '#losers']	3
+40926	['feeling', 'horribly', 'depressed', 'despondent', 'life', 'future', '', 'lauraroyden', 'always', 'knows', 'just', 'say']	2
+40927	['spacegayz', 'high', 'fantasy', '', 'feel', 'like', 'make', 'melancholy', 'college', 'age', 'slice', 'life', 'thing', 'work']	0
+40928	['70', 'social', 'sharing', 'dark', 'amp', '50', 'web', 'traffic', 'comes', '#darksocial', 'colinzalewski', '#liftsocial']	1
+40929	['least', 'guy', 'trying', 'discourage', 'anymore', 'want', 'will', 'never', 'become', 'anything', 'worth', 'contributing', 'society']	0
+40930	['thebennatan', 'szn', '3', 'gtgtgt', 'szn', '1', 'gtgtgt', 'szn', '2', 'just', 'warn', 'let', 'szn', '2', 'discourage']	0
+40931	['nigerialng', 'tonyattah', '#lestweforget', '3', 'yrs', '2013', 'graduate', 'trainee', 'recruitment', 'concluded', '#disappointed', '#weary', 'however', '', '#wewait']	2
+40932	['go', 'help', 'causeplantingaseednet', '#recovery', '', '#sober', '#addiction']	0
+40933	['mariamveiszadeh', 'getting', 'close', 'poll', 'many', 'ignorant', 'ppl', '#depressing', '#painful', 'something', 'needs', 'change', '#bethechange', '']	3
+40934	['ticcikasie1', 'sadly', 'history', 'teacher', 'talked', 'fuck', 'remember']	2
+40935	['defining', 'terms', 'opposition', 'ie', 'clouded', 'mirror', 'phenomena', 'almost', 'always', 'mistake']	1
+40936	['serves', 'gloomy', 'higher', 'wolves', 'village']	1
+40937	['finally', 'watched', '#hungergamesmockingjay2', 'morning', 'sadly', 'feel', 'little', 'disappointed', '#toomuchhype']	1
+40938	['thecatcampbell', 'ravenclaw', '#sadness', '#shouldhavebeenhufflepuff']	2
+40939	['now', 'going', 'sulk', 'week', '#ourgirl', 'back', 'michkeegan', 'benaldridge07', 'best', 'ourgirlwatch']	1
+40940	['bokunogio', 'momma', 'worse', 'tony', 'sopranos', 'momma', '#wow', '#sad', '#history', '#major']	2
+40941	['bokunogio', 'momma', 'worse', 'tony', 'sopranos', 'momma', '#wow', '', '#history', '#major']	0
+40942	['trueryuga', 'tore', 'mlc', 'playing', 'football', 'hs', 'knees', 'serious', 'business', 'take', 'care', 'lemme', 'know', 'need', 'anything']	0
+40943	['mlastandard', 'depth', 'sunk', 'readership', 'deserves']	0
+40944	['season', '13', 'greys', 'anatomy', 'premieres', 'today', 'season', '7', '#sadness', '']	2
+40945	['thixotropic', 'sudden', 'sunk', 'yet', 'leo', 'knew', 'coming']	2
+40946	['long', 'day', 'kind', 'tweets', 'melancholy', 'downfrontartist', 'defeats']	2
+40947	['dream', 'show', 'cisco', '642188', 'pdf', 'melancholy', 'ahid']	0
+40948	['great', 'start', 'good', 'comeback', 'boys', 'earn', 'point', 'bring', 'saturday', '#blues']	0
+40949	['living', '#depression', 'mean', 'must', 'defeated', 'itnevery', 'days', 'new', 'day', 'yesterday', 'decide', 'today', 'looks', 'like', '']	1
+40950	['magrove86mark', 'clareftballnews', 'jersey', 'gloves', '', '#dark']	0
+40951	['since', 'sober', 'life', 'can', 'hard']	3
+40952	['just', 'reached', '10k', 'followers', '', 'wow', '', 'thanks', 'blues', '#mcfc', '#ctid']	0
+40953	['mine', 'pass', 'know', 'inconsolable', 'amp', 'devastated']	3
+40954	['throwing', 'straight', 'american', 'horror', 'story', 'time', 'grieve']	2
+40955	['sigh', '#depression', '#saddness', '#afterellen', '#shitsucks']	3
+40956	['rosalilium', 'wearing', 'black', 'tomorrow', 'mourn', '']	3
+40957	['eun', 'really', 'unhappy', 'like', 'like', 'pls', 'dontnnyall', 'okay', 'loves']	2
+40958	['yesnicksearcy', 'counterparty', 'although', 'expect', 'trumpie', 'understand', 'difference', 'real', 'things', 'pretend', 'things', '#sad']	2
+40959	['yesnicksearcy', 'counterparty', 'although', 'expect', 'trumpie', 'understand', 'difference', 'real', 'things', 'pretend', 'things', '']	0
+40960	['can', 'tell', 'camp', 'happy', 'purely', 'bojan', 'muninnboth', 'normally', 'fab', 'guys', 'yet', 'completely', 'dejected', 'something', 'right']	2
+40961	['migraine', 'hangover', 'day', 'stood', 'dishes', 'now', 'exhausted', 'gad', 'depression', 'amp', 'chronic', 'pain', '#anxiety', '#depression', '#pain']	3
+40962	['migraine', 'hangover', 'day', 'stood', 'dishes', 'now', 'exhausted', 'gad', 'depression', 'amp', 'chronic', 'pain', '#anxiety', '', '#pain']	3
+40963	['sober', 'weekend', '']	0
+40964	['one', 'point', 'dsp', 'claims', 'yters', 'lost', 'half', 'viewership', '2012', 'using', 'direct', 'capture', 'search', 'changes', 'happened']	0
+40965	['jessimccree', 'gabriel', 'eventually', 'start', 'frowning', 'gaining', 'conciousness', 'apparently', 'really', 'painful', 'tears', 'formed']	2
+40966	['pessimist', 'ever', 'discovered', 'secret', 'starsor', 'sailed', 'uncharted', 'landor', 'opened', 'new', 'doorway', 'human', 'spirithkeller']	0
+40967	['lgbt', 'person', 'tell', 'someone', 'else', 'identify', 'valid', 'sad', 'everything', 'stand']	2
+40968	['think', 'become', 'buddha', '#recovery', '#addiction', '#sober', '#sobriety']	0
+40969	['drunk', 'hid', 'keys', 'sober', 'find', 'anywhere']	0
+40970	['mets', 'jdegrom19', 'depress', 'now']	3
+40971	['mandyjohnson', 'honest', 'hope', 'annoying', 'southern', 'bint', 'look', 'pout', 'goes', 'week', 'selasi', '#ftw']	0
+40972	['last', 'weeks', 'dreadful', 'opening', 'old', '#wounds', '#gossip', 'othersevil', 'spill', 'thier', 'lips', '#melancholy', '#sadnnes']	3
+40973	['onefumi', 'oh', 'see', 'seen', 'many', 'people', 'mourn', 'loss', 'surprised', 'see', 'tweet', 'suppose', 'old', 'sa']	2
+40974	['downseung', 'sorry', 'loss', 'one', 'ever', 'give', 'shit', 'taking', 'time', 'mourn', 'matter', 'long', 'takes']	3
+40975	['#hrmanagement', 'must', 'discourage', 'expediency', 'factor', 'encroaching', 'rolling', 'credible', '#workplaceviolenceprevention', 'policy']	0
+40976	['beenishparvez', 'salaams', 'maam', 'r', 'u', 'maam', 'may', 'allah', 'protect', 'u', 'sadness', 'illness', 'harm', 'amp', 'nazrebad', 'aameen', 'stay', 'blessed', 'maam']	0
+40977	['walk', 'darkness', 'despondency', 'scverses', 'memorized', 'shine', 'light', 'heart', 'ex', 'lam', '32225', '#despondency']	2
+40978	['ldhranousby', 'robharris', 'inclined', 'think', 'documentary', 'harm', 'good', 'despair', 'peoples', 'critical', 'faculties']	2
+40979	['thank', 'pret', '4', 'giving', 'free', 'coffee', 'bringing', 'reusable', 'cup', 'airport', '1st', 'time', 'saw', 'one', '#depressing']	2
+40980	['ok', 'really', 'just', 'sunk', 'seeing', '', 'hours', 'wow', '']	0
+40981	['care', 'shape', 'blues', 'nwe', 'owe', 'fucking', 'hiding', 'nlong', 'overdue', 'front']	0
+40982	['sad', 'talk', 'someone', 'ya', 'past', 'n', 'fucked', 'thing', 'like', 'people', 'really', 'hearts']	3
+40983	['final', 'vestiges', '90s', 'childhood', 'just', 'dashed', 'shoals', 'hearing', 'house', 'cover', 'tracy', 'chapmans', 'fast', 'car', 'dayjob']	0
+40984	['naynaywhores', 'pretty', 'sure', 'cause', 'ever', 'since', 'saturday', 'just', 'super', 'sad', 'lol']	2
+40985	['going', 'make', 'lifes', 'mission', 'discourage', 'anyone', 'using', 'capitalone', 'will', 'rob', 'blind']	2
+40986	['luckily', 'helped', 'good', 'people', 'also', 'managed', 'free', 'depression', 'unfortunately', 'lasted', 'little']	3
+40987	['ashleighjessica', 'zacflint1', 'give', 'pout', 'firm', 'd']	1
+40988	['days', 'know', 'heart', 'beats', '#depression']	3
+40989	['going', 'reports', 'sky', 'stoke', 'played', 'ok', 'tonight', 'think', 'stay', 'messageboard', 'tonight', 'though', 'will', 'grim', '']	2
+40990	['overwhelming', 'sadness', '', 'shall', 'pass', '', '#lonley', '#startingover']	3
+40991	['overwhelming', 'sadness', '', 'shall', 'pass', '#lost', '#lonley', '#startingover']	3
+40992	['hoggybear95', 'bantz', 'absolutely', 'top', 'notch', 'inconsolable', 'realised']	2
+40993	['mourn', 'har', '', 'ambe', 'ruined', 'ongoing', 'shitpost', 'tonys', 'crimes', 'hijacked', 'vaguely', 'racist', 'memers']	2
+40994	['depressing', 'watch', 'news', 'today', '100', 'bullet', 'news', '10', 'rape', 'wrong', 'people', '#india', '#shameless', '#depressing']	3
+40995	['mariankeyes', 'pout', 'tips', 'edge', 'definitely', 'agin', 'feic', 'bakes', 'full', 'make', 'boots', 'heels']	1
+40996	['wearing', 'yellow', 'today', 'bring', 'little', 'sunshine', 'gloomy', 'day', '#yourewelcome']	0
+40997	['look', 'average', 'players', 'play', 'min', 'pine', 'nani', 'rafael', '', 'rvp', '']	0
+40998	['hoping', 'hear', 'serious', 'donnietrumpet', 'tonight']	0
+40999	['contained', 'depression', 'new', 'economic', 'engine', '#sustainability', 'say', 'joel', 'makower', '', 'markmykleby', '', '#vergecon', '#newgrandstrategy']	2
+41000	['shannonbeador', 'know', 'truth', 'public', 'figuring', 'words', 'mean', 'nothing', '', '#unhappy', '#mean', '#troubled', '#vile', '#bully']	2
+41001	['pricesjrw5614', 'ren102e906', 'slb42jcb', 'swoozyqyah', 'can', 'block', 'trying', 'discourage', 'us']	1
+41002	['leahskahn', 'honestly', 'care', 'selasi', 'messing', 'lackadaisical', 'attitude', 'good', 'danishes']	0
+41003	['bbctomenglish', 'timessport', 'dreadful', 'franglaise']	0
+41004	['unhappy']	3
+41005	['punjabified', 'porkistan', 'lost', 'terribly', '65', 'american', 'intervation', 'talk', 'stopped']	1
+41006	['#serious', '#fredsirieix', 'lives', 'peckhamsouth', 'londons', '#love', 'gurubig']	0
+41007	['hate', 'see', 'yall', 'frown', 'rather', 'see', 'smiling', '']	0
+41008	['lindafrum', 'sadly', 'least', '3', 'years', 'point', 'will', 'even', 'low', 'info', 'selfie', 'lovers', 'voted', 'say', 'enough', 'enough']	1
+41009	['chipotletweets', 'gabe', 'worst', 'part', 'get', 'hot', 'status', 'month', 'chipotle', 'near', 'enough', 'campus', '#sadness']	2
+41010	['everything', 'dream', 'stayed']	0
+41011	['candace', 'amp', 'pout', 'getting', 'right', 'tits', '#gbbo']	0
+41012	['california', 'sissified', 'pages', 'ruling', 'class', 'separation', 'passage', 'dispirit', 'attestative', 'alphanumeric', 'code', 'wyrdljpyu']	0
+41013	['probably', 'hunger', 'depression', 'dissociating', 'equals', 'weird', 'time', 'anything', 'else']	3
+41014	['reikimuse', 'mhchat', 'beyond', 'sadness', 'point', 'done', 'inside', 'live', 'cptsd', 'bpd', '', 'always', 'pity', 'party']	3
+41015	['night', 'room', 'polluted', 'syringes', 'notebooks', 'shadows', 'moving', 'kind', 'night', 'away', 'melancholy', 'away']	2
+41016	['reecetop10', 'bk', '1', 'top', 'pack', 'midfield', 'stifle', 'flair', 'possess', 'kill', 'entertainers', '#dull', '#reshuffle', '#predictable', '#slow', '#average']	1
+41017	['getting', 'excited', 'clearwaterjazz', '2016', 'play', 'main', 'stage', 'sunday', 'oct', '16', '330', '#jazzholiday', '#riesbrothers', '#rock', '', '#jam']	0
+41018	['getting', 'excited', 'clearwaterjazz', '2016', 'play', 'main', 'stage', 'sunday', 'oct', '16', '330', '#jazzholiday', '#riesbrothers', '#rock', '#blues', '#jam']	0
+41019	['really', 'planned', 'making', 'videos', 'week', 'tv', 'died', 'phone', 'broke', 'truck', 'died', '#depression', 'took', 'wondering', '2', 'karma']	3
+41020	['removal', 'regardless', 'cost', 'lamentable', 'answer', 'ajvksk']	0
+41021	['god', 'just', 'replaced', 'sadness', 'laughter', 'go', 'whole', 'day', 'sad', '']	0
+41022	['need', 'advice', 'get', 'rut', '', '#needmotivation']	3
+41023	['need', 'advice', 'get', 'rut', '#depressing', '#needmotivation']	3
+41024	['feel', 'like', 'drowning', '#depression', '#anxiety', '#falure', '#worthless']	3
+41025	['datguydark', 'fret', 'many', 'opportunities', 'life', 'worry', 'one', 'working']	0
+41026	['candices', 'standing', 'pout', 'face', 'aggravates', 'every', 'week']	0
+41027	['think', 'learning', 'classical', 'ancient', 'japanese', 'might', 'help', 'get', 'permanently', 'depression', 'sometimes', 'suffer', 'sudden']	3
+41028	['never', 'taste', 'happiness', 'perfection', 'fortunate', 'successes', 'mixed', 'sadness', '#success', '#sadness', '#perfection', '#fortunate', '#mixed']	2
+41029	['never', 'taste', 'happiness', 'perfection', 'fortunate', 'successes', 'mixed', 'sadness', '#success', '', '#perfection', '#fortunate', '#mixed']	1
+41030	['anybody', 'know', 'good', 'place', 'book', 'show', '#montreal', 'short', 'supershort', 'notice', '#punkrock', '#postpunk', '#blues']	0
+41031	['accepted', 'flaws', 'one', 'can', 'use', '', 'grrmspeaking', '#quote', '#mentalhealth', '#psychology', '#depression', '#anxiety']	3
+41032	['messyourself', 'depression']	2
+41033	['hamzakhawaja99', 'just', 'die', 'depression']	3
+41034	['othrcarl', 'ixsw', 'purenift', 'sadly', 'just', 'smutty']	2
+41035	['sunk', 'meeting', 'twins']	0
+41036	['news', 'legs', 'hurt', '#running', '#5kin26mins', '#dreadful', '#flatfeet']	2
+41037	['“my', 'friend', 'fly', 'away', 'now', 'world', 'abhors', 'awaits', 'somber', 'morrow', 'matter', 'winds', 'may', 'blow”']	2
+41038	['happy', 'birthday', 'lost', '', '#lost', '#dharmainitiative', '#12years', '#22september2004', '#oceanic815']	0
+41039	['mattwinton1', 'foot', 'frowning']	0
+41040	['marisaenbot', 'makes', 'somewhat', 'gloomy']	3
+41041	['sigh', 'got', 'b', '', '#depressing']	3
+41042	['cnn', '', 'fox', 'news', 'fox', 'propaganda', 'network', 'lost', 'lies', 'tell', 'truth', 'hit', 'face']	1
+41043	['mhchat', 'childood', 'experiences', 'can', '', 'leave', 'permanent', 'deep', 'sadness', 'adult', '', 'can', 'underlie', 'everything', '#mhchat']	3
+41044	['wrinkles', 'merely', 'hide', 'frown', '', '', 'mark', 'twain']	0
+41045	['just', 'mine', '#forlorn']	3
+41046	['#coincidence', 'turn', 'tv', 'etcamp', 'listen', 'amp', 'watch', 'objective', '#captureyourmind', '#fear', 'amp', '#depression', '#findgodnow']	2
+41047	['type', 'flee', 'adversity', 'discourage', 'always', 'stand', 'strong', 'paint']	0
+41048	['cops', 'chillin', 'pine', 'lakes']	0
+41049	['fn', 'morons', 'u23', 'smfh', 'just', 'lackadaisical']	0
+41050	['sometimes', 'takes', '#sadness', 'know', 'happiness', '#noise', 'appreciate', '#silence', 'absence', 'value', 'presence']	2
+41051	['rosalarian', 'hate', 'post', 'con', 'blues', 'avoided', 'plague', 'yay', 'yay', 'constant', 'hand', 'sanitizer']	1
+41052	['go', 'follow', 'juspopmolly', 'snapchat', 'hoe', 'sitting', 'sink', 'right', 'now', 'cocaineandtacos']	0
+41053	['new', 'chaseandstatus', 'song', 'mega', '', 'reminds', 'sundownuk', '#blues']	0
+41054	['#autumnalequinox', 'nights', 'drawing', 'great', 'time', 'look', 'putting', 'new', '#lights', '#dark', '#showroom', '#news', '#wirral']	0
+41055	['weather', 'changed', 'sunny', 'bright', 'gloomy', 'just', 'time', 'match', 'afternoon', 'mood', '']	3
+41056	['p0stcap', 'still', 'trying', 'sort', 'suppose', 'also', 'high', 'expectations', '#sadness']	3
+41057	['help', 'someone', '#depression', 'believe', 'trust', 'therapists']	2
+41058	['pretty', 'dejected', 'fancam', 'way', '#scfc', '#tbptv']	2
+41059	['ffs', 'clan', 'seriously', 'never', 'disheartened']	3
+41060	['fam', 'seems', 'fun', 'photo', 'booth', 'able', 'instantly', 'post', 'twitter', 'wait', 'till', 'sober', 'see', 'hot', 'mess']	0
+41061	['act', '4', '#anxiety', 'amp', '#depression', 'group', 'livingwellihc', 'beginning', 'mon', 'october', '17', '6', 'weeks', 'contact', 'register', 'now', '#mindfulness', '#halifax']	2
+41062	['rooney', '', 'whipping', 'boy', '#mufc', '#sad']	3
+41063	['rooney', '', 'whipping', 'boy', '#mufc', '']	0
+41064	['nothing', 'else', 'possibly', 'put', 'damper', 'day', 'xrays', 'someone', 'kickinnnnn', 'ass', 'breath', '']	0
+41065	['cell', 'hold', 'charge', '', '#sadness']	2
+41066	['know', 'much', 'hurts', 'see', 'best', 'friend', 'sad']	3
+41067	['often', 'disturbed', 'people', 'find', 'appropriate', 'acceptable', 'funny', 'cute', 'adults', 'find', 'stuff', 'humorous', '#sad']	3
+41068	['often', 'disturbed', 'people', 'find', 'appropriate', 'acceptable', 'funny', 'cute', 'adults', 'find', 'stuff', 'humorous', '']	2
+41069	['ok', 'yes', 'get', 'much', 'next', 'guy', '', 'bikes', 'blues', 'amp', 'bbq', 'frustrating', 'amp', 'loud', 'ppl', 'traveling', 'come', '']	0
+41070	['orioles', 'contention', 'hosting', 'redsox', 'nation', 'camden', 'empty', '#sad']	2
+41071	['orioles', 'contention', 'hosting', 'redsox', 'nation', 'camden', 'empty', '']	0
+41072	['two', 'brians', 'blackeyednblues', 'amp', 'onthehorn500', 'also', 'known', 'nigella', 'lawsons', '#blues', 'amp', '#pizza']	0
+41073	['felt', 'surprisingly', 'gloomy', 'bad', 'scouts', 'today', 'd', 'recognize', 'just', 'rng', 'yeah', 'spend', 'many', 'gems']	2
+41074	['loueezecee', 'know', 'much', 'bloody', 'pout', 'can', 'take']	2
+41075	['hope', 'goal', 'comes', 'soon', 'either', 'side', 'otherwise', 'serious', 'threat', 'dull', 'frustrating', 'game', '#coys']	1
+41076	['johnhanna', 'become', 'dreary', 'also', 'yes']	1
+41077	['usually', 'one', 'rush', 'colder', 'weather', 'year', 'ready', 'hot', 'coffee', 'dark', 'lippies', 'scarves', 'sweaters', 'amp', 'boots', '️']	0
+41078	['today', 'visited', 'dreams', 'even', 'though', 'physically', 'gone', 'still', 'mourn']	3
+41079	['wonder', '#wolfcreek', 'tv', 'show', 'sponsored', 'antitourist', 'board', 'australia', 'discourage', 'visitors', '#stayathome', '#dontvisit']	0
+41080	['theresatalbot', 'fleurrbie', 'hahasorry', 'dreadful', 'puns', 'need', 'get', 'moreive', 'cooped', 'lately']	2
+41081	['momentnif', 'kill', 'spirit', 'will', 'die', 'naturalprincesstaye', '', '#murder', '#suicide', '#depression', '#racism', '#pride']	3
+41082	['momentnif', 'kill', 'spirit', 'will', 'die', 'naturalprincesstaye', '#murder', '#suicide', '', '#racism', '#pride']	2
+41083	['know', 'will', 'mourn', 'loss', 'stitchs', 'great', 'escape', 'butsee', 'kind', 'costcutting', 'parks', 'really', 'care']	2
+41084	['need', '#beats', '', '#instrumentals', '#serious', '#artists', '#only', '']	0
+41085	['don', 'kinghis', 'actions', 'really', 'sadden', 'todaythe', 'word', 'may', 'power', 'still', 'cringe', 'hear']	2
+41086	['meghan', 'teaching', 'blues', 'keyboard', 'fundamentals', 'ii', 'classical', 'majors', 'like', 'wtf']	0
+41087	['airport', 'depressing', 'watching', 'loved', 'couples', 'cute', 'people', 'coming', 'holidaytoo', 'cutehurry', 'november', '️']	2
+41088	['foxnews', 'thought', 'provoking', 'amp', 'leads', 'one', 'question', 'really', 'happenedvery', 'sad']	3
+41089	['listening', 'wdwradio', 'work', 'slice', 'sunshine', 'dreary', 'cube', 'world', '#9to5life']	1
+41090	['get', 'close', 'dark', 'inside', '']	1
+41091	['bowl', 'new', 'food', 'processor', 'broke', 'cuisinart', '#sadness']	2
+41092	['feeling', '#gloomy']	3
+41093	['today', 'kudos', 'jaime', 'garcia', 'fine', 'outing', '', '', '', '', '#encouraging', 'last', 'week', 'judo', 'jaime', 'garcia', 'dismal', 'outing', '#discouraging']	2
+41094	['tis', 'dreary', 'day', 'todaynfriend', 'teenager', 'shakespeares', 'reincarnation', 'nnim', 'dumbass', 'lol']	1
+41095	['jboughton93', 'might', 'donate', 'money', 'stop', 'shit', 'pessimist']	2
+41096	['nytimes', 'media', 'celebrated', 'don', 'king', 'endorsing', '#obama', '08', '12', 'now', 'criticize', 'endorsing', '#trump', 'wants', 'new', 'civil', 'rights', 'era', 'sad']	2
+41097	['broadly', 'criminalized', 'posting', 'pic', 'brown', 'frown', 'get', 'pic', 'jack', 'cookies', 'diesel', 'join', 'cnnai']	1
+41098	['wdwnt', '#spooky', 'night', '#disney', '#fortwilderness', 'campground', '#disneyworld', '#powerfailure', '#dark']	1
+41099	['christianjmay', 'cityam', 'nconfidence', 'held', 'despite', 'constant', 'continual', 'doom', 'gloom']	2
+41100	['might', 'even', 'verge', 'depression']	3
+41101	['thesgjournal', 'step', '1', 'get', 'rid', 'littlestokepark', 'step', '2', 'prioritise', 'football', 'step', '3', 'profit', '#depressing']	2
+41102	['lose', 'somebody', 'close', 'heart', 'lose', '', '#lost']	3
+41103	['lose', 'somebody', 'close', 'heart', 'lose', '', '']	3
+41104	['blacktolive', 'good', '', 'cuz', 'trump', 'fucken', 'nazi', 'don', 'kingu', 'havnt', 'sunk', 'low', 'since', 'u', 'set', 'mike', 'tyson', '2', 'pathetic', 'dons']	1
+41105	['jamiesonhelen', 'mariankeyes', 'three', 'agins', 'pout', '']	1
+41106	['will', 'complaining', 'pessimism', 'regret', 'anger', 'get']	1
+41107	['sober', 'days', 'lmao']	0
+41108	['le', 'depressed', 'l', 'hate', 'xdddd', '#sad', '#depress', '#loner', '#emo']	3
+41109	['want', 'highlight', 'bright', 'ever', 'get', 'lost', 'someone', 'looking', 'dark', 'find']	0
+41110	['ffs', 'tate', 'thought', 'wind', 'willows', 'serious', 'play', 'wait', 'see', 'play', 'singing', 'badger', '']	0
+41111	['country', 'going', 'go', 'crap', 'matter', 'wins', 'november', 'learn', 'despondent', 'future']	2
+41112	['honestandfrank', '', 'billcosby', 'drugged', 'raped', 'women', 'least', 'barb', 'sober', 'consenting']	0
+41113	['whenever', 'hear', 'concert', 'postponed', 'think', 'dismal', 'ticket', 'sales', '', '', 'green', 'day', '']	1
+41114	['david', 'gilmours', 'biggest', 'compliment', 'bb', 'king', 'asked', 'gig', 'born', 'mississippi', '#pinkfloyd', '#theblues', '#davidgilmour', '#blues']	0
+41115	['openthedoorradi', 'thanks', 'playing', 'crock', 'pot', 'going', '#radio', '#blog', '#blues', '#music', '#indiemusic']	0
+41116	['#gbbo', 'us', 'tonight', 'sadly', 'got', 'date', 'nachos', 'odeoncinemas', '#bridgetjonesbaby']	1
+41117	['depressing', 'week', 'full', 'rain', 'ever', 'lol']	3
+41118	['gotta', 'say', 'n', 'put', 'whoever', 'u', 'r', 'u', 'support', 'peoples', 'decisions', 'n', 'discourage']	0
+41119	['bigbosspeltonen', 'nlikewise', '#death', '#cutting', '#despair']	3
+41120	['producer', 'mixing', 'mastering', 'songs', 'now', '#murky', '#notebook', '#mixtapenthe', 'tape', 'will', 'soon', 'free', 'download', '']	0
+41121	['get', 'parents', 'literally', 'see', 'unhappy', 'lately']	3
+41122	['#recession', '#economic', '#gloom', 'brightest', '#stars', 'shine', 'darkest', 'nights', '#html5', '#webdesign', 'rocks', '#rtblitz', '#finovate', '#wlsb']	1
+41123	['feel', 'like', 'one', '#twitter', '', 'can', 'anyone', 'see', 'write', '#sadness', '#rants']	3
+41124	['pull', 'depression']	3
+41125	['andrewmcmeme', 'nah', 'asked', 'really', 'insightful', 'teacherly', 'questions', 'write', 'kickass', 'report', 'will', 'sadly', 'never', 'know']	1
+41126	['sav', 'tells', 'mom', 'love', 'responds', 'oh', '#sad']	2
+41127	['sav', 'tells', 'mom', 'love', 'responds', 'oh', '']	0
+41128	['dying', 'dull', 'dreary', 'affair', 'advice', 'nothing', 'whatever', '―', 'w', 'somerset', 'maughm']	2
+41129	['wish', 'live', 'yall', 'reality', 'can', 'grieve', 'people', 'never', 'met', 'bad', 'got', 'brothers', 'dying', 'left', 'right', '']	3
+41130	['btw', 'really', 'stay', 'bed', 'day', 'today', '#depression', 'hate', 'lied', 'fuck', 'liars', 'w']	3
+41131	['devilsadvcate', 'manutd', 'absolutely', 'boringm', 'big', 'manchester', 'united', 'fan', '', 'nd', 'really', 'disappointing', 'see', 'play', 'ths', 'dull', 'boring', 'way']	2
+41132	['lauren', 'jauregui', 'makes', 'problem', 'dissapear', 'amazes', 'sadness', 'keeps', 'strong']	0
+41133	['get', 'embarrassed', 'slightest', 'things', 'fret', 'day', 'hate']	3
+41134	['dad', 'feel', 'knowing', 'daughter', 'getting', 'dashed', 'around', 'whines', 'rave']	2
+41135	['tim', 'burton', 'never', 'fails', 'depress']	2
+41136	['benleubsdorf', 'dykstradame', 'wsj', 'idiots', 'going', 'sink', 'economy', 'free', 'money', 'policies']	0
+41137	['jakemartin74', 'oh', 'play', 'capo', '2nd', 'fret', 'g', 'position', 'rs']	0
+41138	['allowed', 'sulk']	3
+41139	['bls', 'depress', 'blake']	2
+41140	['playing', 'september', '21', '2016', '0930pm', 'demetria', 'taylor', '', '#blues']	0
+41141	['fayecatherine', 'happy', 'anger', 'sad', 'melancholy', 'confusion', '#woodspurge']	3
+41142	['fyi', 'yall', 'mourn', 'celebrate', 'shawty', 'lo', 'cause', 'yall', 'aint', 'played', 'music', 'since', '08']	1
+41143	['mhchat', 'understand', 'express', 'emotions', 'others', 'may', 'lead', 'sadness', '', 'loneliness', 'amp', 'neg', 'impact', 'long', 'term', 'mh', '#mhchat']	2
+41144	['devrajasmine', 'change', 'dark', 'images', 'look', 'different', 'look', 'like', 'forest']	1
+41145	['bldmovs', 'sadly', 'beautiful', 'photo']	0
+41146	['ima', 'kitchen', 'sink']	0
+41147	['stayed', 'home']	1
+41148	['henderson', 'showing', 'times', 'hard', 'leaves', 'goes', 'missing', '#aflcatsswans', '#seenitbefore', '#lions', '#blues']	0
+41149	['son', '11', '128', 'friends', 'facebook', 'yet', 'moping', 'around', 'house', 'complaining', 'one', 'talk', 'right', 'son']	1
+41150	['get', '#weary', 'doingn#faith', '#god', '#prayer']	0
+41151	['fear', 'truth', 'even', 'gloomy', 'counterfeit\xa0berl', 'katznelson']	1
+41152	['god', 'give', 'pain', 'mess', 'stress', 'take', 'heavy', 'load', '#amen', '#stress', '#mess', '#pain', '#depression', '#sadness']	3
+41153	['learning', 'college', 'atm', 'sylvia', 'plath', 'stalins', 'purges', 'natural', 'disasters', 'gloomy', 'af']	3
+41154	['know', 'apples', 'turn', 'brown', 'enzyme', 'called', 'polyphenol', 'oxidase', 'reacts', 'oxygen', '#dull', '#applefacts', '']	0
+41155	['wiidfui', 'age', '1000', 'times', 'beautiful', '#sad', '']	1
+41156	['hmm', 'somehow', 'twitter', 'feels', 'really', 'depressing', 'like', 'negative', 'todayi', 'think', 'missed', 'something', '']	3
+41157	['cassena13', 'know', 'optimist', 'despair']	2
+41158	['came', 'work', 'reason', 'ni', 'couldve', 'stayed', 'bed']	3
+41159	['written', 'africanamericannnno', 'refuge', 'save', 'hireling', 'slavenfrom', 'terror', 'flight', 'gloom', 'grave']	2
+41160	['damiandmusic', 'hubby', 'noah', 'shares', 'somber', 'thoughtful', 'photo', 'one', 'dami', 'ponytail', 'standout', 'highlights', 'beautiful', 'picture', 'nice']	0
+41161	['unhappy']	1
+41162	['someone', 'tells', 'needa', 'smile', 'like', 'excuse', '', 'now', 'just', 'frowning', 'even', 'harder', 'happy']	1
+41163	['want', 'pour', 'tears', 'someone', 'right', 'now', 'tired', '#upset', '#sad']	3
+41164	['want', 'pour', 'tears', 'someone', 'right', 'now', 'tired', '#upset', '']	3
+41165	['onilink86', 'darekmeridian', 'lmao', 'awe', '', '#sad']	1
+41166	['onilink86', 'darekmeridian', 'lmao', 'awe', '']	0
+41167	['reillygolfpro', 'realkidpoker', 'stacyacey', 'wsoptd', 'obviously', 'friends', 'clouded', 'judgement']	1
+41168	['great', 'places', 'listen', 'blues', '#nightlife', '#nightlifeent', '#blues', '#jazz', '#gatewayarch', '#stlouis', '#washingtonave']	0
+41169	['dlrwills', 'turn', 'frown', 'upside', 'buddy', '']	0
+41170	['patienceinbee', 'camposanto', 'decided', 'bit', 'lackadaisical', 'getting', 'dressed', 'get', 'groceries']	0
+41171	['pikapies', 'many', 'happy', 'memories', 'isle', 'wightnnbut', 'yeah', 'sink', 'shit']	1
+41172	['glenberube', 'donnagrantis', 'idanielsenbass', 'hannahjwelton', 'watching', 'makes', 'weep', 'tears', 'joy', 'tears', 'sadness', 'gone']	2
+41173	['carry', 'wayward', 'son', 'therell', 'peace', 'done', 'lay', 'weary', 'head', 'rest', 'cry']	1
+41174	['yourkarma', 'reaching', 'hope', 'contact', 'technical', 'issues', 'cs', 'severely', 'lacking', '#badkarma', '#unhappy']	2
+41175	['love', '#girls', 'busy', 'teaching', '#pout', 'taking', '#selfie', 'mall', '', 'desication', 'immense', '#women', 'love', '#perfection']	0
+41176	['patblanchfield', 'mean', '“like', 'uber', 'despair', 'someone', 'driver']	1
+41177	['tysonwaters', 'waterswife', 'usa', '#panicattacks', '#anxiety', '#depression', 'much', 'medication']	3
+41178	['typicalmoony', 'yes', 'lia', 'join', 'dark', 'side']	0
+41179	['phil500', 'nso', 'sadden', 'nspunky', 'beautiful', 'dogna', 'sad', 'story', 'lovely', 'happynan', 'loved', 'dog', 'nplay', 'little', 'one', 'fun', 'younare', 'loved']	1
+41180	['whisper', 'frown']	0
+41181	['ananavarro', 'tcarrels', 'trump', 'supporters', 'clue', 'meaning', 'words', 'used', 'just', 'like', '#sad', '#nevertrump']	2
+41182	['ananavarro', 'tcarrels', 'trump', 'supporters', 'clue', 'meaning', 'words', 'used', 'just', 'like', '', '#nevertrump']	2
+41183	['robertwesley3', '#mad', 'brother', '#sad', '', 'feel', 'better', 'bub']	2
+41184	['dentist', 'just', 'said', 'going', 'numb', 'front', 'lip', 'itll', 'feel', 'got', 'lips', 'like', 'pete', 'burns', 'right', '#pout']	0
+41185	['haileywiggins', 'flenneralisha', 'good', 'takes', 'muscles', 'frown', 'smile']	0
+41186	['pessimist', 'sees', 'difficulty', 'every', 'opportunity', 'optimist', 'sees', 'opportunity', 'every', 'difficulty', 'sir', 'winston', 'churchill']	0
+41187	['depressing', 'part', 'taste', 'goes', '']	3
+41188	['penny', 'dreadful', '3', 'temporada']	1
+41189	['prosyndicate', 'thanks', 'replying', 'ironing', 'shirt', 'love', 'meet', 'get', 'autograph', 'sadly', 'young', 'travel']	0
+41190	['shantosh', 'crazy', 'walk', 'past', 'talk', 'person', 'everyday', 'never', 'realizing', 'suffering', 'depression', '…']	3
+41191	['just', 'weird', 'time', 'world', '#change', '#enlightenment', '#gloomy', '#weird', '#sigh', '#imaginepeace', '#imaginelove', '#unite']	3
+41192	['jamiesmart', 'huh', 'always', 'fault', 'gt', '#huff', '#sulk']	3
+41193	['pussies', '', 'dark']	0
+41194	['gatherp', 'th', 'strength', 'try', 'drink', 'pain', 'away', '#sober', '#fighter', '#strong', '#lovely', '#dreamer']	1
+41195	['dublinwaltz', 'bts', '화양연화', 'trilogy', 'mv', 'time', 'fav', 'quite', 'gloomy', 'beautiful']	0
+41196	['ghost', 'stefano', 'reflects', 'grim', 'indignity', 'murdered', 'corrupt', 'cops', 'faux', 'love', '#days']	2
+41197	['againstallaudss', 'groovydadad', 'thelostchild5', 'mhchat', 'indeed', 'amp', 'sadness', 'unavoidable', '#mhchat']	3
+41198	['bojack', 'horseman', 'saddest', 'show', 'ever', 'written', '#depression', '#season1']	3
+41199	['incredibly', 'shocked', 'disappointed', 'united', 'customer', 'service', 'really', 'making', 'rethink', 'flying', 'future', '#unhappy']	3
+41200	['many', 'yeah', 'thing', 'going', 'cops', 'shooting', 'innocent', 'people', 'sad', '', 'just', 'backyard', '#sad', '#blm']	3
+41201	['many', 'yeah', 'thing', 'going', 'cops', 'shooting', 'innocent', 'people', 'sad', '', 'just', 'backyard', '', '#blm']	3
+41202	['encouragement', 'today', 'dog', 'head', 'fog', '#epicfail', '#depression', '#feelingfedup', '#tired', '#ihaveheardeverything', '#wondering']	3
+41203	['encouragement', 'today', 'dog', 'head', 'fog', '#epicfail', '', '#feelingfedup', '#tired', '#ihaveheardeverything', '#wondering']	2
+41204	['drinkin', 'red', 'wine', 'amp', 'listening', 'fred', 'mcdowell', 'playing', '#blues', '', 'play', '#rocknroll', 'fantastic', 'noise', '', '#justsaying']	0
+41205	['love', 'made', 'feel', 'bad', 'scared', 'dark']	2
+41206	['krusty', 'krabnnno', 'crippling', 'depression']	3
+41207	['september', 'dull', 'get', '#superseptember', 'jumia', 'food', 'new', 'user', 'order', 'place', 'barcelos', 'shawarma', 'amp', 'co', '30']	0
+41208	['pocx100', 'please', 'sulk', 'defeat', 'come', 'head']	0
+41209	['actually', 'pretty', 'learning', 'manage', 'depression', 'andnlife', 'yeah', 'cancelled']	2
+41210	['mariamveiszadeh', '#depressing', 'freaking', 'close', '']	2
+41211	['trial', 'result', '#sadness']	3
+41212	['comfortable', 'dove', 'house', 'home', '24', 'years', 'home', 'amp', 'grateful', '#dove', '#indy', '#sober']	0
+41213	['god', 'knows', 'things', 'happen', 'sometimes', 'just', 'hard', 'understand', '#sad', '#prayingforyou']	3
+41214	['god', 'knows', 'things', 'happen', 'sometimes', 'just', 'hard', 'understand', '', '#prayingforyou']	2
+41215	['just', 'hurting', 'ndoesnt', 'mean', 'hurt', 'ndoesnt', 'mean', 'get', 'nwhat', 'deserved', 'nno', 'better', 'worse', '#lost', '', 'coldplay']	2
+41216	['fashion', 'week', 'year', 'dull', 'af', 'someone', 'inspire', '']	1
+41217	['take', 'heart', 'amid', 'deepening', 'gloom', 'dog', 'finally', 'getting', 'enough', 'cheese', '―', 'national', 'lampoon', 'deteriorada']	1
+41218	['always', 'longer', 'sober', 'feels', 'like', 'wana', 'start', '#ul']	2
+41219	['unfortunate', 'years', 'still', 'struggling', 'depression', 'smh']	3
+41220	['ghanaians', 'need', 'wear', 'black', 'mourn', 'tho', 'can', 'just', 'walk', 'naked', 'dodges', 'stones', 'na', 'joke', 'na']	0
+41221	['ronbaker6694', 'got', 'super', 'speeder', 'lost', 'license', '6', 'months', '']	2
+41222	['scottcarmichae1', 'muricanstuff', 'fret', '', 'guy', 'mad', 'realdonaldtrump', '', 'elected', 'might', 'get', 'real', 'job']	0
+41223	['khaleesioffood', 'bbupdates', 'stayed', 'block', 'almost', 'season', 'got', 'people', 'good', 'game', 'one', 'seemed']	0
+41224	['gurriej', 'thanks', 'making', 'super', 'sad', 'pizza', '', '#freepizza']	1
+41225	['gurriej', 'thanks', 'making', 'super', 'sad', 'pizza', '#sad', '#freepizza']	1
+41226	['inadequacy', 'slithers', 'ears', 'wraps', 'around', 'neck', 'like', 'boys', 'wants', 'love', '#mpy', '#vss', '#quote', '#depression', '#poetry']	2
+41227	['amp', 'like', 'unhappy', 'just', 'leave', 'cheat', 'someone', 'amp', 'view', 'love', 'amp', 'shit', '']	1
+41228	['teenageic0n', 'pleased', 'know', 'family', 'blues']	0
+41229	['meruna', '', 'musician', 'can', 'tell', 'people', 'get', 'discouraged', 'learning', 'shitty', 'instruments', 'anything', 'else']	2
+41230	['hi', 'guys', 'now', 'lessons', 'via', 'skype', 'contact', 'info', '#skype', '#lesson', '#basslessons', '#teacher', '#free', 'lesson', '#music', '#groove', '#rock', '#blues']	0
+41231	['rockin', '', 'bob', 'dylan', 'singin', '', 'bob', 'dylans', '115th', 'dream', 'lpco', 'klassic', 'rock', '#classicrock', '#klassicrock', '#rocknroll', '#blues', '#onlineradio']	0
+41232	['feel', 'really', 'sad', 'today']	3
+41233	['right', 'now', 'feeling', 'pretty', 'desolate']	3
+41234	['#drunk', 'people', 'annoy', '#sober', 'lol', '', '#fact', '#teamfollowback', '#rocktheretweet']	0
+41235	['jessicavidal', 'just', 'pour', 'sink', 'let', 'drink']	0
+41236	['darkintell', 'darius', 'article', 'convinced', 'time', 'money', 'sunk', 'igda', 'past', 'years', 'wasted', 'good', 'reread']	1
+41237	['really', 'want', 'read', 'fic', 'found', '#serious', 'room', 'full', '#memes']	0
+41238	['uplift', 'still', 'discouraged', 'means', 'listening', 'wrong', 'voices', 'amp', 'looking', 'wrong', 'source', 'look', 'lord']	0
+41239	['strong', 'cause', 'weaknim', 'beautiful', 'cause', 'know', 'flawsnim', 'fearless', 'cause', 'afraidni', 'can', 'laugh', 'cause', 'known', 'sadness']	1
+41240	['fender', '#blues', '#junior', 'looking', 'forward', 'play', 'soon', 'possible', '#guitar', '#guitarrist', '#music']	0
+41241	['dreams', 'dashed', 'divided', 'like', 'million', 'stars', 'night', 'sky']	3
+41242	['struggle', 'affliction', '#youarestrong', 'amp', '#youarearising']	0
+41243	['fun', 'tidbit', 'can', 'fall', 'asleep', 'someone', 'dancing', '#blues', '#latenight']	0
+41244	['#sober', 'equivalent', '#bar', 'womens', 'restroom', '#salon', 'everyone', 'compliments', 'amp', 'become', 'friends', 'love']	0
+41245	['lost', 'wallet', 'found', 'lost', 'found', 'ncollege', 'brazy']	0
+41246	['hedgegirl', 'joking', 'parents', '', '#dark']	0
+41247	['oh', 'btw', '', '6', 'month', 'depressionfree', 'time', 'got', 'relapse', 'now', 'superb', '#depression']	3
+41248	['oh', 'btw', '', '6', 'month', 'depressionfree', 'time', 'got', 'relapse', 'now', 'superb', '']	3
+41249	['absolutely', 'hate', 'apple', 'watch', 'ios', '10', 'update', 'completely', 'buggered', 'apps', 'including', 'spark', 'awful', 'interface', '#grim']	2
+41250	['animals', 'animalsntrap', 'trap', 'trap', 'till', 'cage', 'fullnthe', 'cage', 'full', 'stay', 'awakenin', 'dark', 'count', 'mistakes']	0
+41251	['love', 'happiness', 'sadness', 'feelings', 'dependent', 'another', 'person']	0
+41252	['antoboyle', 'wish', 'someday', 'come', 'spain', 'play', 'believe', 'going', 'see', '#sad']	3
+41253	['antoboyle', 'wish', 'someday', 'come', 'spain', 'play', 'believe', 'going', 'see', '']	0
+41254	['always', 'borrow', 'money', 'pessimist', 'expect', 'paid', 'back']	0
+41255	['guess', '', 'sober']	0
+41256	['missfushigaming', 'hashtag', 'things', 'kids', 'always', 'tell', 'stop', '', '#sadness']	2
+41257	['walshfreedom', 'sadly', 'idiot', 'completely', 'overlooks', 'facts', '', 'gun', 'pointed', 'police', 'stupidthat', 'ignored']	2
+41258	['localblactivist', 'always', 'little', 'bit', 'weary', 'speaking', '1', 'want', 'hijack', 'convo', '', 'lgbt', 'person', 'seen']	1
+41259	['go', 'away', 'please', '', 'begging', '»»»', '#depression', '#anxiety', '#worry', '#fear', '#sadness', 'ndreams', 'joy', 'baby', 'foundsits', '#andisbench']	3
+41260	['nigga', 'even', 'look', 'real', 'family', '', '#sad']	3
+41261	['nigga', 'even', 'look', 'real', 'family', '', '']	0
+41262	['blend', 'waters', 'lienthere', 'shrines', 'free', '', 'melancholy', 'waters', 'lienno', 'rays', 'dull', 'tide', '', 'vine']	1
+41263	['god', 'knows', 'wanna', 'go', 'girl', 'slept', 'half', 'ya', 'mates', '#grim']	1
+41264	['people', 'trying', 'hard', 'hate', 'cam', 'newton', 'without', 'understanding', 'position', '#sad']	2
+41265	['people', 'trying', 'hard', 'hate', 'cam', 'newton', 'without', 'understanding', 'position', '']	0
+41266	['cristinalaila1', 'just', 'thought', 'disgusting', 'man', 'sink', 'lowerlike', 'hillary', 'depravity', 'character', 'bottom']	2
+41267	['sizwem01', 'kinda', 'depressing', 'hey', '']	2
+41268	['kseniasolo', 'hi', 'little', 'late', 'lost', 'girl', 'think', 'awesome', 'south', 'afrikaans']	0
+41269	['misslindzo', '', 'last', 'two', 'outbidded', 'got', 'kinda', 'discouraged', 'now', 'taking', 'sweet', 'time', 'market', 'stupid', 'tho']	2
+41270	['way', 'get', 'hold', '', '#depressing']	2
+41271	['tvgirl', 'like', 'really', 'pretty', 'melancholic', 'life', 'hate']	3
+41272	['actually', 'always', 'idealize', 'end', 'relationships', '', 'pessimist']	2
+41273	['threw', 'sedate', 'damn', 'horse', 'tranquilizer']	0
+41274	['man', 'citys', 'kit', 'dreadful']	2
+41275	['will', '#gaming', 'video', 'today', 'old', 'friend', 'mine', 'passed', 'last', 'night', 'taking', 'time', 'grieve', 'thank', '#standuptocancer']	3
+41276	['dishes', 'yesterday', 'fell', 'asleep', 'woke', 'sink', 'full', 'even', 'eat', 'dinner', 'dishes']	2
+41277	['even', 'looks', 'like', 'okay', '', 'reality', 'actually', 'worn', 'forlorn']	2
+41278	['interesting', 'topic', 'evening', '', 'sadness', 'amp', 'low', 'mood', '#mhchat']	3
+41279	['someone', 'explain', 'female', 'human', 'beings', 'depressing', '']	3
+41280	['dull', '#duttywednesday']	0
+41281	['brawl2099', 'see', 'primary', 'care', 'doctor', 'can', 'prescribe', 'meds', 'refer', 'psychiatrist', 'eval', 'mess', 'depression']	1
+41282	['kagehime3', 'starved', 'content', 'take', 'def', 'pout', '՟ິͫઘ', '՟ິͫ']	1
+41283	['chriswarcraft', 'species', 'cf', 'don', 'jr', 'refugeesskittlesknow', 'likes', 'snacksbut', 'even', 'gop', 'frown', 'talking', 'eating', 'humans', '#lizardscum']	1
+41284	['trying', 'make', '#betterworld', '#depressing', '#failure', '']	3
+41285	['lines', 'quit', 'take', 'place', 'ultimate', 'strength', 'start', 'feel', 'weary', '']	1
+41286	['old', 'though', '#imachildofgod', '#whatistwerking', '#sober', '#married', '#bye']	1
+41287	['mcjamie', 'sadly', 'just', 'dude', 'yell', 'frogs', 'name', 'clinton', 'rally', 'one', 'day', 'changed', 'everything']	0
+41288	['hurting', 'features', 'get', 'tad', 'somber', 'attempting', 'sense', 'mischievoustykes', 'temperature']	0
+41289	['doese', 'reading', 'help', 'depression', 'another', 'form', 'escapism']	2
+41290	['#gratitude', '', 'recovery', 'health', 'love', 'god', 'conscious', 'drive', 'hope', 'perseverance', 'wealthy', 'home', 'kids', 'socal', '#recoveryfit', 'youthful', '#sober']	0
+41291	['idk', 'people', 'glorifying', 'depression', 'wish', 'real', 'depression', 'upon', 'worst', 'enemy', 'shits', 'worst', 'stop', 'acting', 'like', 'cool']	3
+41292	['maybe', 'can', 'sleep', 'chem', 'book', 'head', 'will', 'sink', 'brain']	1
+41293	['live', 'anymore', 'roblox', 'got', 'termianted', '', '#sad', '#killme', '#lol', '#robloxgamer']	3
+41294	['live', 'anymore', 'roblox', 'got', 'termianted', '', '', '#killme', '#lol', '#robloxgamer']	2
+41295	['come', 'let', 'whatever', '#dismal']	2
+41296	['comes', 'syria', 'get', 'fucking', 'annoyed', 'pessimism', 'like', 'get', 'full', 'triggered', 'optimism', 'gtfo']	2
+41297	['heading', 'home', 'cut', 'grass', 'heat', 'wanna', 'go', 'eat', 'somewhere', 'air', 'conditioned', '', '#adultingistheworst']	2
+41298	['heading', 'home', 'cut', 'grass', 'heat', 'wanna', 'go', 'eat', 'somewhere', 'air', 'conditioned', '#pout', '#adultingistheworst']	0
+41299	['manunitedwriter', 'dreadful', 'first', 'half', 'mention', 'rashford', 'wouldve', 'got', 'end', 'couple', 'balls', '#pace']	1
+41300	['heart', 'heavy', 'lost', 'furry', 'family', 'members', 'remembering', 'max', 'ozzie', 'forever', 'friends', '']	3
+41301	['awake', '530am', 'seriously', 'bad', 'throat', '', 'glands', 'feel', 'huuuuuuuge', 'uni', 'soon', '#grim']	3
+41302	['lefluerr', 'lol', 'yeah', 'read', 'stayed', 'nap', 'tilli', 'collect', '3', 'people', 'think', 'got', '']	0
+41303	['thanks', '#sober', 'drivers', 'real', 'winners', 'night', '#clemvsgt']	0
+41304	['god', 'will', 'deliver', 'righteous', 'place', 'salvation', 'evil', 'shall', 'touch', 'them،', 'shall', 'grieve']	0
+41305	['#2', 'complained', 'head', 'called', 'despair', 'gods', 'mercy', 'sins', 'go', 'back', 'ask', 'forgiveness']	1
+41306	['gloomy', 'days', 'just', 'high', 'cuddles', 'movies']	0
+41307	['#quote', 'say', 'know', 'without', 'ever', '#lost', 'find', 'like', 'saying', 'know', 'everything', 'caligraphy215']	0
+41308	['yall', 'hyped', 'abt', 'girl', 'getting', 'hang', 'w', 'jb', 'clearly', 'looks', 'unhappy', 'bored', 'pics', 'offense', 'lol', 'plus', 'hates', 'yall']	2
+41309	['stomach', 'cramps', 'make', 'spin', 'class', 'easier', 'body', 'hate', 'digesting', 'porridge', 'much', '', '#spinning', '#sulk']	2
+41310	['special', 'thanks', 'hamsterwatch', 'amp', 'ugotbronx', 'keeping', 'us', 'updated', 'amp', 'entertained', 'dismal', 'bb', 'season', '']	0
+41311	['old', 'fish', '', '#discourage']	2
+41312	['muscled', 'man', 'huge', 'heart', 'messing', 'brain', 'heart', '#lost', '#confused']	2
+41313	['chrislhayes', 'hard', 'folks', 'realize', 'deep', 'hatred', 'dive', 'murky', 'end', 'pool', 'guy', 'nuts']	2
+41314	['snapsinsta', 'pics', 'see', 'friends', 'made', 'cali', 'unbelievably', 'depressing', 'cause', 'place', 'rather']	3
+41315	['tariqmateen', 'sadly', 'missed', 'crucial', 'important', 'points', 'indian', 'terrorism', 'pk', '', 'kal', 'boshan', '', 'etc', '', 'raw', 'involvement']	2
+41316	['remember', 'journey', 'unique', 'get', 'discouraged', 'comparing', 'journey', 'someone', 'elses', 'will', 'get']	0
+41317	['sejejs', 'says', 'cibulskis', 'missed', 'time', '3rd', 'period', 'due', 'injury', 'comment', 'serious', 'apparently', 'doctor']	1
+41318	['biggest', 'joke', 'life', 'kardashian', 'jenner', 'stans', 'lives', 'dull', 'parents', 'must', 'proud']	0
+41319	['nikhiltikare', 'like', 'cold', 'gloomy', 'weather']	0
+41320	['cuddling', 'literally', 'kills', 'depression', 'relieves', 'anxiety', 'strengthens', 'immune', 'system']	0
+41321	['#taurus', 'part', 'perfect', 'control', 'emotions', 'careful', 'sulky', 'around', 'anyone']	0
+41322	['givento', 'feel', 'sunlight', 'facenwhat', 'givento', 'lost', 'embrace', 'nn#fallen']	2
+41323	['honestly', 'know', 'unhappy', 'time', 'just', 'want', 'stop', '', '', '', '#itnevergoes']	3
+41324	['honestly', 'know', 'unhappy', 'time', 'just', 'want', 'stop', '', '#unhappy', '#depression', '#itnevergoes']	3
+41325	['skepta', 'make', 'sure', 'yous', 'young', 'breadrins', 'sling', 'us', 'quick', 'vote', '#murky', '#skeng', '#votage']	0
+41326	['nickeaney', 'hope', 'refuse', '', 'x', '#depressing']	3
+41327	['conorojo', 'loool', 'understand', 'pessimism', 'will', '']	0
+41328	['nickb88', 'busterespn', 'pine', 'rider']	0
+41329	['took', 'melancholy', 'turn', 'point', 'difficulties', 'still', 'happy', 'happy', 'get']	0
+41330	['mchorsefayse', 'bockaguyjim', 'generalgoodsman', 'nevernotdavid', 'owned', 'losers', 'twitter', '#sad']	2
+41331	['mchorsefayse', 'bockaguyjim', 'generalgoodsman', 'nevernotdavid', 'owned', 'losers', 'twitter', '']	2
+41332	['strongbread', 'dude', 'fukc', 'lost', 'spectacles', 'morning']	1
+41333	['#savemoney', '#savelifes', '', '#openbar', '#weddingreception', 'close', '12', 'hours', 'early', 'forcing', 'guests', 'sober', 'driving']	0
+41334	['tonygoldmark', 'yeah', 'mourn', 'glad', 'rode', 'last', 'time', 'visited']	0
+41335	['diamonde', 'heart', 'just', 'sunk']	3
+41336	['feel', 'like', 'singing', 'song', 'human', 'sadness', 'julian', 'cassablancas', 'voidz', 'sad', 'music', '#depression', '#sad', '#sadness']	3
+41337	['srvs', 'voodoo', 'child', 'approximately', '76', 'times', 'better', 'jimis', '#guitar', '#music', '#blues']	0
+41338	['grumpypumper', 'involuntarily', 'smile', 'frown', 'photos', 'giggle', 'annoying']	0
+41339	['tanzynia', 'sadly', 'david', 'd', 'longer', 'us', 'imagine', 'together', 'wow']	1
+41340	['watching', 'lots', 'tv', 'conclusion', '#whataloadoftatif', 'depressed', 'afternoon', 'tv', '#grim']	3
+41341	['watching', 'lots', 'tv', 'conclusion', '#whataloadoftatif', 'depressed', 'afternoon', 'tv', '']	2
+41342	['mysteri759', 'ren102e906', 'slb42jcb', 'swoozyqyah', 'old', 'stubborn', 'facts', 'amp', 'history', 'discouraged']	1
+41343	['says', 'maw', 'day', 'wanna', 'day', 'sober', 'october', 'way', 'says', 'ave', 'mer', 'chance', 'movember', 'son', '#classicmoira', '#glasgow', '#sober']	0
+41344	['pretty', 'depressing', 'u', 'hit', 'pan', 'ur', 'favourite', 'highlighter']	2
+41345	['ah', '#lost', '#mah', '#train', 'thunk']	0
+41346	['adrianspecs', 'far', 'safe', 'staid', 'found', 'horribly', 'ott', 'times', 'everyone', 'seemed', 'trying', 'just', 'little', 'hard']	1
+41347	['meganematt', 'hikarimorou', 'next', 'despair', 'hope', 'shines', 'even', 'brighter', 'get', 'matt']	0
+41348	['n#fall', 'sounds', 'great', 'ndream', '#blues', '#rock', 'raphaelslaggnget', 'top', 'album', '', 'one', 'love', '', 'hero', 'blindfret', 'd']	0
+41349	['pay', 'good', 'money', 'watch', 'someone', 'slap', 'pout', 'candice']	0
+41350	['#peoplelikemebecause', 'see', 'happy', 'exterior', 'hopelessness', 'sometimes', 'feel', 'inside', '#depression', '#anxiety', '#anxietyprobz']	3
+41351	['#peoplelikemebecause', 'see', 'happy', 'exterior', 'hopelessness', 'sometimes', 'feel', 'inside', '', '#anxiety', '#anxietyprobz']	3
+41352	['todofuku', 'dreadful', 'day', 'work', 'n', 'now', 'gonna', 'late', 'class', 'n', 'covered', 'paint', 'n', 'now', 'work', 'night', 'shift', '']	3
+41353	['nobody', 'wants', 'grouch', 'move', 'sd', 'want', 'rapper', '#serious']	0
+41354	['mypalalex', 'still', 'favorite', 'person', 'df', 'besides', 'grim']	0
+41355	['icapturpix', 'drudgereport', 'agree', 'current', 'ultraleft', 'democratic', 'party', 'lost', 'lot', 'members', 'including', 'switched', 'repub']	0
+41356	['although', 'best', 'semester', 'far', 'also', 'depressing', 'constantly', 'reminded', 'meant', 'greatness']	3
+41357	['synth', 'backing', 'tracks', '', 'sadnessn#depresspop', '#dark', '#', '#alt', '#fuckingmeup']	3
+41358	['will', 'brawndo', 'cure', 'depression', 'mikejudge', '#idiocracytoday']	3
+41359	['love', 'something', 'let', 'go', 'comes', 'back', 'never', 'will', '#sadness', '#accepting']	3
+41360	['kitchen', 'sink', 'kitchen', 'sink', 'okay', 'friend']	0
+41361	['kerophibian', 'depressing']	3
+41362	['almurray', 'hit', 'sink', 'hammer', 'sorry', 'universal', 'modifier']	0
+41363	['feel', 'like', 'appendix', 'purpose', '#sad', '#depressed', '#depression', '#alone', '#lonely', '#broken', '#sadness', '#cry', '#hurt', '#crying', '#life']	3
+41364	['fault', 'worked', 'hard', 'stayed', 'course', 'eventually', 'paid', 'let', 'known', 'count']	0
+41365	['feel', 'like', 'burden', 'every', 'day', 'waste', 'know', 'get', 'bc', 'get', 'discouraged', 'wanna', 'lay', 'around', '']	3
+41366	['rippoohsavage', 'u', 'know', 'ion', 'play', 'shit', 'bout', 'weary', 'brother']	2
+41367	['saw', 'someone', 'discourage', 'someone', 'following', 'dreams', 'just', 'want', 'live', 'mediocrity', 'mean', 'someone', 'else']	1
+41368	['forever', 'straight', 'fix', 'frown', 'u', 'good', 'amayyaaag']	0
+41369	['d6vey', 'grim', 'mate']	1
+41370	['punishedsnek', 'final', 'analysis', 'nonwhite', 'global', 'majority', 'will', 'fret', 'ethnic', 'origin', 'corpses']	1
+41371	['sad', 'moment', 'u', 'hand', 'exam', 'knowing', 'u', 'failed', 'grieve', 'eating', 'sleeping']	3
+41372	['even', 'celebrate', 'wins', 'mourn', 'ls', 'cause', 'first', 'test', 'week', 'busy', '']	3
+41373	['grim', 'despair', 'feelingi', 'look', 'self', 'family', 'hubby', 'fought', '20', 'years', 'country', 'worked', '20', 'years', 'govtgt']	3
+41374	['now', 'alone', 'joys', 'turned', 'moping']	3
+41375	['rm', 'will', 'win', 'game', 'last', 'minutes', 'madridistas', 'will', 'say', 'cules', 'stayed', 'long', 'watching', 'rm', 'win', 'end', 'disgusting', 'fanbase']	1
+41376	['1chiefsdan', 'pessimism', 'just', 'want', 'get', 'another', 'week', 'rest', 'healing']	0
+41377	['kimdelacreme', 'srgohdatzme305', '', 'let', 'know', '#sober']	0
+41378	['kimdelacreme', 'srgohdatzme305', '', 'let', 'know', '']	0
+41379	['fpuebla3', 'osbaldoa', 'lost', 'friend']	2
+41380	['susanbrodigan', 'lyricconcert', 'ha', 'yes', 'look', 'despair']	1
+41381	['imnotinfected', '—', 'rather', 'someone', 'help', 'concern', 'clouded', 'green', 'eyes', 'seen', 'girl', 'alone', 'woods', '—']	1
+41382	['juliasteiner', '', 'yes', '', 'right', '', 'mean', 'wish', 'discouraged', 'see', '#mikeandmolly', 'many', 'parallels', 'really', '']	0
+41383	['grim', '6']	3
+41384	['bain', 'life', 'drive', 'cash', 'point', 'shop', 'change', 'pound', 'coins', 'gym', 'bastard', 'sunbed', '#grim']	2
+41385	['wombletheballer', 'done', 'bro', '#blues', '#stategames', '#captain', '#shootthegerman']	0
+41386	['afcgramachroi', 'oh', 'sorry', 'discouraged', '']	0
+41387	['ycfcnick', 'city', 'famous', 'shambles', 'sadly', 'old', 'street', 'centre', 'plays', 'second', 'fiddle', 'stadium', 'debacle', 'nowadays']	2
+41388	['clean', '#sink', 'make', '#bathroom', 'shine']	0
+41389	['mind', '#dark', 'roomndeveloping', '#madness', '', '']	2
+41390	['feels', 'like', 'lost', 'best', 'friend', '#lost', '#fml', '#missingyou']	3
+41391	['mickyalawson', 'paddy', 'mcnair', 'joint', 'top', 'scoreryeahjustlet', 'sink', 'haha']	0
+41392	['sigh', '', '#saddness', '#afterellen', '#shitsucks']	3
+41393	['boardeveryday', 'turnorder', 'pinchback21', '80s', 'new', 'wavetechno', '', 'jazz', '', 'blues', 'depending', 'mood']	0
+41394	['broggersm19', 'calum250284', 'retired', '20', 'minutes', 'ago', 'blues', '']	0
+41395	['5', 'weeks', 'still', 'go', 'depression', 'smh']	3
+41396	['people', 'weak', 'follow', 'dreams', 'will', 'always', 'find', 'way', 'discourage']	2
+41397	['it’s', 'possible', 'changing', 'meds', 'best', 'done', 'stress', 'difficult', 'tell', 'part', 'despair', 'circumstantial', 'drugs']	3
+41398	['seantkin', 'coachella', 'romandanielsxxx', 'kodyknightxxx', 'see', 'eliminate', 'hanging', 'tongue', 'campaign', 'dismal', 'failure']	1
+41399	['hartramsey', '#uplift', 'still', 'discouraged', 'means', 'ur', 'listening', 'wrong', 'voices', 'amp', 'looking', 'wrong', 'source', 'look', 'lord']	0
+41400	['know', 'just', 'slightly', 'high', 'state', 'sober', 'high', 'af', 'beautiful', 'wish', 'feel', 'like', '247']	0
+41401	['troyler', 'will', 'die', 'gonna', 'die', 'themn#troyler', '#sadness', '#fuckinlifeisnotafairytale']	3
+41402	['never', 'let', 'sadness', 'past', 'ruin', 'future']	0
+41403	['nadinekellman', 'yes', 'can', 'discourage']	0
+41404	['cold', 'dark', 'nights', 'slowly', 'creeping', '']	2
+41405	['reaganrachelle', 'go', 'going', 'blow', 'serious', 'money', 'idk', 'sacrifice', 'willing', 'make']	0
+41406	['rclemmons', 'much', '#sadness', '#heartbreak']	3
+41407	['depressing', 'seeing', 'whole', 'fam', 'packing', 'go', 'holiday', 'tomorrow', 'just', 'staying', '']	3
+41408	['gloomy', 'day', 'cuddled', 'bed', 'watching', 'brendon', 'covering', 'songs', 'relaxed', 'happy', '']	0
+41409	['shouldve', 'stayed', 'school', 'cause', 'aint', 'nobody']	0
+41410	['cornerbakery', 'sorry', 'missed', '', 'stayed', 'late', 'working', 'pondering', 'life']	2
+41411	['suddenlyapples', 'ongoing', 'affliction', 'cure', 'shiro']	1
+41412	['always', 'depressing', 'sort', 'wordpress', 'plugin', 'recommendations', 'best', 'least', 'offensive', 'terms', 'premium', 'features']	2
+41413	['wants', 'body', 'look', 'certain', 'wayneats', '3', 'cookies', 'mac', 'n', 'cheese', 'kitchen', 'sink', 'small', 'neighbor', 'child']	0
+41414	['engine', 'runs', 'fuel', 'called', 'whining', 'nnu', 'jst', '', 'hv', '2b', 'observantnhar', 'din', 'rona', 'dhona', 'amp', 'complain', 'nhappy', 'news', 'makes', 'unhappy', '']	1
+41415	['caballeros', 'passing', 'remains', 'absolutely', 'dreadful', 'see']	2
+41416	['listening', 'old', 'school', 'house', 'music', 'kentphonicsunday', 'showers', 'hanging', 'around', 'sing', 'back', '#blues']	0
+41417	['truly', 'feel', 'like', 'science', 'ability', 'make', 'milk', 'anything', '', 'cashew', 'milk', 'hemp', 'milk', 'pine', 'nut', 'milk', 'dandelion', 'milk']	0
+41418	['jordangrimmer', 'messin', 'wait', 'see', '#serious', '', 'brilliant', 'stuff']	0
+41419	['aniahrose', 'know', 'smh', 'heart', 'sunk', 'stomach']	3
+41420	['many', 'tweets', 'now', 'fast', 'going', 'god', 'love', '#sober', '#intelligent']	0
+41421	['katethecursed', 'shannonrdk', 'lol', 'day', 'gloomy', 'people', 'shouldve', 'canceled', 'stayed', 'bed']	2
+41422	['funkxwidme', '#true', '#depression', '#fans', 'will', 'get', 'one', '']	2
+41423	['looking', 'good', 'promoter', '#rock', '#blues']	0
+41424	['danhirtle', 'bell', 'another', 'unhappy', 'customer', '', '#secreteyes']	2
+41425	['new', 'hate', 'judge', 'judy', 'sponsorship', 'style', 'looking', 'back', 'thing', 'worked', '#recovery', '#sober', '#cantconacon']	0
+41426	['hannahcolleen06', '12', 'amp', 'one', 'like', '', 'mine', 'comes', 'patchy', 'dark', 'color', 'tho']	0
+41427	['know', 'final', 'day', 'summer', 'finale', 'cbsbigbrother', '#sadness']	3
+41428	['lost', '11', 'lbs', 'since', 'got', 'married', 'eating', 'healthy', 'amp', 'gone', '947', 'mile', '850', 'mile', '2', 'weeks', '#areyousureimagedout', '#fitness']	0
+41429	['telegraphnews', 'evil', 'corrupt', 'fuck', 'still', 'knocking', 'wrong', 'people', 'die', 'telling', 'job', 'grim', 'reaper']	2
+41430	['times', 'thought', 'can', 'never', 'sober', 'still', 'grace', 'beyond', 'limits', '']	0
+41431	['komaebun', 'just', 'way', 'thinking', 'wants', 'absolute', 'hope', 'born', 'absolute', 'despair']	2
+41432	['asjoshtaylor', 'sadly', 'think', 'see', 'tour', 'fun', 'gonna', 'rock', '', '#hotformetour']	0
+41433	['metalandthegeek', 'astoldbyfangirl', 'always', 'say', 'best', 'time', 'life', 'closed', 'store', 'depressing']	3
+41434	['koleholland', 'fret', 'another', 'game', '8', '#staytuned']	0
+41435	['historically', 'japanese', 'always', '#jazz', '#blues', '70s', 'dark', 'age', 'jazz', 'big', 'names', 'like', 'cc', 'amp', 'md', 'surviving', 'tokyo']	0
+41436	['honestly', 'today', 'just', 'felt', 'like', 'maybe', 'track', '#sad']	3
+41437	['honestly', 'today', 'just', 'felt', 'like', 'maybe', 'track', '']	2
+41438	['siwheeler78', 'never', 'dull', 'moment', 'hope', 'gd', 'trip']	0
+41439	['nooooo', 'poor', 'blue', 'bell', '#sad']	3
+41440	['nooooo', 'poor', 'blue', 'bell', '']	2
+41441	['andreamitchell', 'said', 'berniesanders', 'play', 'hrc', 'campaigning', '4', 'oh', 'discourage', '3rd', 'party', 'vote', 'true']	0
+41442	['worst', 'week', 'ever', 'even', 'go', 'home', 'yet', 'just', 'sulk', 'bed']	3
+41443	['got', '#serious', '#hyper', '#predator', '#heckler', 'situation']	1
+41444	['5sos', 'swear', 'will', 'go', 'mourn']	2
+41445	['iconceitedone', '', 'hi', 'hate', 'unhappy', 'bill', 'keeps', 'going', 'unique', 'features', 'want', 'plan', 'roberts']	0
+41446	['jimmyfallon', 'shawnmendes', 'just', 'sucker', 'pine', 'wanna', 'rake', 'wanna', 'pile', 'just', 'sucker', 'pine', '#fallsongs']	0
+41447	['mizzymaxx', 'bsmarz22', 'ssmik2309', 'haha', 'bro', 'sadly', 'married', 'man', '']	2
+41448	['fuck', 'yall', 'panthers', 'hiring', 'gop', 'pr', 'guy', 'discourage', 'cam', 'speakinh', 'mind', 'heart', 'racism']	1
+41449	['stevierayrob', 'can', 'elliot', 'friedman', 'please', 'stop', 'talking', 'clueless', 'seen', 'ball', 'since', 'kickoff', '#mope']	2
+41450	['work', 'play', 'makes', 'jack', 'dull', 'boy']	1
+41451	['yes', 'picking', 'sticks', 'pine', 'cones', 'front', 'yard']	0
+41452	['seeing', 'old', 'coworker', 'wife', 'mourn', 'loss', '23', 'year', 'old', 'daughter', 'one', 'saddest', 'things', 'ever', 'seen', '']	3
+41453	['can', 'stay', 'gloomy', 'get', 'cold', 'pls']	2
+41454	['macmacm43', 'jeezus', 'god', '#dark']	1
+41455	['macmacm43', 'jeezus', 'god', '']	0
+41456	['first', 'time', 'sober', 'birthday', '6', 'years', '#recovery', '#sobriety', '#sober', '#soberissexy', '#sobernative']	0
+41457	['ever', 'stayed', 'hostels', 'overseas', 'frame', 'reference', 'movie', 'hostel', 'know', 'went']	0
+41458	['thing', 'twitter', 'remember', 'tweet', 'bored', 'alone', 'comes', 'across', 'like', 'really', 'dull', 'sad', 'life']	2
+41459	['need', 'attention', 'pout']	0
+41460	['appear', 'good', 'year', '#blues']	1
+41461	['wotzupcapetown', '', 'thanks', 'sharing', 'surprise', 'guests', 'humanjurgen', 'amp', 'visiting', 'us', 'tenor', 'sax', 'cunninghamcolin', '#livemusic', '#capetown', '#blues']	0
+41462	['simonbarrett', 'will', 'watch', 'blairwitchmovie', 'opens', 'mexico', 'week', 'thank', 'making', 'discouraged']	0
+41463	['hopes', 'today', 'go', '#unhappy']	3
+41464	['henny', 'pine', 'apples', '']	0
+41465	['peteferriday', 'aww', 'rest', 'weary', 'head']	0
+41466	['loving', 'long', '#otisredding', '#blues']	0
+41467	['charlesgaba', 'probably', 'person', 'likely', 'completely', 'understand', 'gobsmacked', 'learn', 'true', '#sadly']	2
+41468	['mraminuddin', 'ejainews', 'alifh', 'ahmadfuadadnan', 'play', 'master', 'noob', 'u', 'want', 'win', '#serious']	0
+41469	['johnverdejo', 'mannn', 'count', 'many', 'times', '#prs', 'power', 'grid', 'needs', 'serious', 'updating', 'conversation']	1
+41470	['melancholy', 'hill']	3
+41471	['speech', 'bold', 'coz', 'written', 'pm', 'ns', 'bt', 'expressiontone', 'dull', 'n', 'dim']	1
+41472	['dropped', 'phone', 'sink', 'earlierno', 'sound', 'everythin', 'else', 'worksprepared', 'life', 'without', 'music', 'put', 'earphones']	1
+41473	['b', 'day', 'next', 'week', 'catch', 'sauce', 'watch', 'heaviness']	0
+41474	['grimstoyshow', 'hunnachunna', 'got', 'hacked', 'gaming', 'channel', 'grim', 'evil', 'wood', 'clowns', 'yesterday', 'september', '20', 'september', '21', 'today']	0
+41475	['long', 'will', 'mourn']	2
+41476	['mutguru', 'know', 'guys', 'sink', '1000s', 'game', 'build', 'team', 'play', 'solos', 'hear', 'make', 'nothing', 'solos']	0
+41477	['rooneys', 'fucking', 'untouchable', 'fucking', 'dreadful', 'depay', 'looked', 'decentishtonight']	1
+41478	['ibiza', 'blues', 'hitting', 'hard', 'already', 'wow']	3
+41479	['hey', 'man', 'asian', 'nah', 'man', 'hispannah', 'just', 'high', 'random', 'crackhead', 'walmart', 'parking', 'lotcmon', '#sober']	0
+41480	['really', 'need', 'pout', 'time', '', 'getting', 'nerves', '#gbbo']	2
+41481	['yet', 'another', 'night', 'shouldve', 'stayed']	1
+41482	['questions', 'get', 'twitter', 'make', 'want', 'despair', 'battered', 'complain', 'convinced', 'things', 'better']	2
+41483	['still', 'sunk', 'seeing', 'joe', 'next', 'month', 'grateful', 'excited', 'shit']	0
+41484	['modelady24', 'know', 'right', 'tinge', 'thought', 'glad', 'six', 'bsg', 'though', 'happy', 'show', 'stayed', 'consistent', 'break']	0
+41485	['rooney', '', 'oh', 'dear', 'oh', 'dear', '', 'fucking', 'dreadful', '️️']	2
+41486	['batmanofgotham', 'golden', 'brown', 'hues', 'met', 'baby', 'blues', 'arms', 'crossed', 'breasts', 'gulking', 'let', 'guess']	0
+41487	['zombieisiand', 'yeah', 'friends', 'minw', 'witnesse', 'accidents', 'road', 'near', 'like', 'cars', 'hav', 'like', 'sunk', 'ih', 'gosh', 'safe', 'okay', '']	2
+41488	['charlesgaba', 'natesilver538', 'davmicrot', 'fivethirtyeight', 'litany', 'namecalling', 'dull']	0
+41489	['start', 'season', 'open', 'show', '#show', '#them', '#how', '#dark', '#hell', '#can', '#get', '#empire']	0
+41490	['orribleives', 'say', 'anything', 'bad', 'situation', 'great', 'mate', 'believe', 'makes', 'despair', 'humanity']	2
+41491	['know', 'painted', 'quite', 'grim', 'picture', 'chances', 'simply', 'stand', 'will', 'surely', 'die']	3
+41492	['honestly', 'feel', 'nothing', 'towards', 'either', 'parents', 'pretty', 'depressing']	3
+41493	['ashleycwilson', 'mrdavidhobbs', 'indycaronnbcsn', 'glad', 'tv', 'coverage', 'successful', 'attendance', 'looked', 'pretty', 'dismal']	1
+41494	['ozellem', 'man', 'imagine', '#', 'ultra', 'promoting', 'carnival', 'think', 'u', 'need', 'chairperson', '#serious', 'cause', 'hearing', 'nothing']	2
+41495	['feminists', 'ask', 'unhappy', 'lack', 'love', 'lives', 'bc', 'fighting', 'losing', 'game']	1
+41496	['life', 'hard', 'harder', 'ur', 'stupid', '#life', '#love', '', '#sadderness', '#moreofsad', '#howdoestears', '#whatislife']	3
+41497	['life', 'hard', 'harder', 'ur', 'stupid', '#life', '#love', '#sadness', '#sadderness', '#moreofsad', '#howdoestears', '#whatislife']	3
+41498	['mollietebbatt', 'guess', 'watching', 'great', 'grandad', 'sink', 'titanic']	0
+41499	['worried', 'felt', 'safe', '#unhappy']	3
+41500	['happy', 'birthday', 'roy', 'buchanan', 'born', 'day', '1939', '#roybuchanan', '#guitar', '#blues', '#happybrithday']	0
+41501	['cmon', 'blues', '2', 'home', 'games', 'away', 'another', 'cc', 'semi', '', 'love', 'wembley', 'away', 'days', 'anyone', 'home', 'please', '']	0
+41502	['probs', 'spent', 'grand', 'total', 'five', 'minutes', 'sober', 'since', 'sunday', 'evening', '', '#freshers']	1
+41503	['wheel', 'grow', 'older', 'become', 'aware', 'individuals', 'dull', 'responsibility', 'life']	0
+41504	['childctweets', 'sad', 'people', 'sick', 'boring', '']	3
+41505	['whole', '#vanre', '', 'extradition', 'might', 'turn', 'pandoras', 'box', 'jt', 'idea', 'murky', 'corrupt', 'guanxi', 'china', 'toad', 'vs', 'dada', '']	0
+41506	['markedmurderer', 'orions', 'eyes', 'narrowed', 'gazed', 'girl', 'ice', 'cold', 'blues', 'meeting', 'softer', 'usual', 'green', 'instinct', 'told']	0
+41507	['unboxing', 'iphone', '7', 'plus', 'channel', 'november', 'sadly', 'thank', 'tmobile', 'apple', 'staten', 'island', 'ny', 'smh']	1
+41508	['realtimbooth', 'never', 'fond', 'dark', 'eyes', 'seeing', 'share']	0
+41509	['', 'huh', 'perhaps', 'dreary', 'get', 'along']	2
+41510	['crysticaro', 'yeah', 'agree', '', 'think', 'family', 'member', 'covered', '#sad']	3
+41511	['crysticaro', 'yeah', 'agree', '', 'think', 'family', 'member', 'covered', '']	0
+41512	['exaltedchampion', '', 'jest', 'kara', 'chuckle', 'instead', 'baby', 'blues', 'narrowed', 'adam', 'like', 'warning', 'brain', '']	1
+41513	['sometimes', 'support', 'network', 'causing', 'damage', 'nn#support', '#damaged', '#alone', '#tired', '#lost', '#hurt', '#nojustice', '#depression', '#surivivor', '#nomore']	3
+41514	['salteruk', 'second', 'pair', 'scales', 'bought', 'stopped', 'working', 'battery', 'change', 'issue', 'aware', '', '#unhappy']	2
+41515	['saw', 'dreams', 'dashed', 'ampamp', 'divided', 'like', 'million', 'stars', 'night', 'sky', 'wished', 'ampamp', '', 'sparkling', 'ampamp', 'broken']	2
+41516	['boy', 'oh', 'boy', 'weekday', 'schedule', 'crazy', 'matter', 'tired', 'whatever', 'takes', 'keep', 'smile', 'kais', 'face', 'frown']	0
+41517	['sussexmistress', 'sarahb45', 'msevilyne', 'missjessicawood', 'perched', 'unfortunately', 'wrapped', 'heavy', 'chains', '#sink']	1
+41518	['flybe', 'explain', 'ability', 'land', 'manchester', 'bradford', '', 'convenient', 'flybe', 'many', 'unhappy', 'travelers']	3
+41519	['fuck', 'mum', 'want', 'put', 'corn', 'curry', '#grim']	2
+41520	['aamnaa', 'drkarthikn', 'per', 'capita', 'income', 'almost', 'like', 'us', 'gini', 'coefficient', 'dismal', 'ambitions', 'high', 'output', 'zero']	2
+41521	['looking', 'nice', 'forward', 'playing', 'paper', 'dress', 'vintage', 'hackney', 'evening', '', 'get', 'early', '8pm', 'paperdressed', '#blues']	0
+41522	['winner', '#champion', '#school', '#lastyear', '#gouniversity', '#university', '#me', '#dark', '#black', '#webstagram', '#blackandwhite']	0
+41523	['itdominiccoyle', 'irishtimesbiz', 'barroso', 'going', 'goldman', 'eucommission', 'getting', 'serious', 'self', 'inflicted', 'problem']	1
+41524	['pottermore', '', 'find', 'patronus', 'website', 'work', 'even', 'see', 'questions', '#sadness']	3
+41525	['nutella', 'pine', 'green', 'forget', 'nots', 'ivory', 'frozen', 'god']	0
+41526	['made', 'world', '#empath', '#unhappy']	3
+41527	['used', 'beautiful', 'lived', 'life', 'fast', '', 'forest', 'city', 'joe', '#blues', '#blinddogradio']	0
+41528	['candice', 'constantly', 'pout', '#gbbo', '']	0
+41529	['redbusin', '#unhappy', '#redbus', 'cc', 'talked', 'week', 'still', 'initiate', 'refund', 'transaction']	2
+41530	['aceoperative789', 'pull', 'afew', 'weeks', 'ago', 'sadly', 'game', 'audio', 'sound', 'affects', 'cause', 'played', 'phone', 'tryed', 'everything']	1
+41531	['buying', 'art', 'supplies', 'debating', 'serious', 'buy', 'acrylic', 'paint']	0
+41532	['sainsburys', 'ask', 'chafford', 'hundred', 'store', 'turn', 'car', 'park', 'lights', 'bit', 'scary', 'dark', 'nights', 'thanks']	1
+2018-en-sadness-dev-1	['620wtmj', 'seriously', '620wtmj', '', 'news', '#sad', 'nnwhy', 'focus', 'important', 'issues']	2
+2018-en-sadness-dev-2	['happy', 'played', 'tgt', 'team', 'thought', 'another', 'chance', 'sadly', 'rest', 'peace', 'dear', 'friend', '']	3
+2018-en-sadness-dev-3	['selling', 'nudes', 'pics', 'vids', 'kik', 'buy', 'dirtybecca69nn#kik', '#kikme', '#kikusernames', '#snap', '#snapchat', '#findom', '#nudes', '#slut', '#kiktrade', '#horny']	0
+2018-en-sadness-dev-4	['#world', 'know', 'difference', '#drunk', '#sober', 'one', 'word', '#coherence']	1
+2018-en-sadness-dev-5	['come', 'quiet', 'behaved', 'cats', 'dogs', 'ride', 'plane', 'tiny', 'bag', 'screaming', 'small', 'humans', 'roam', 'free', '#outrage', '#teampet']	0
+2018-en-sadness-dev-6	['dirty', 'chai', 'tea', 'rumchata', 'hits', 'spot', 'gloomy', 'tuesday', 'morning', '']	0
+2018-en-sadness-dev-7	['excited', 'watch', '#stateoforigin', 'tonight', 'come', 'nsw', '#origin', '#blues', '#nsw', '#qld', '#nrl']	0
+2018-en-sadness-dev-8	['opportunity', 'move', 'away', 'gloomy', 'nihilism', 'characterizes', 'reign', 'deeply', 'patriarchal', 'dominator', 'culture']	0
+2018-en-sadness-dev-9	['got', 'woken', 'road', 'sweeper', 'trying', 'sleep', '']	1
+2018-en-sadness-dev-10	['lights', 'shut', 'turn', 'settle', 'main', 'concern']	0
+2018-en-sadness-dev-11	['virtualalien', '#frightening', 'things', 'lifenn#beyondthesphereofreasonabledoubt']	1
+2018-en-sadness-dev-12	['3lectric5heep', 'must', 'sting', 'cnn', '']	0
+2018-en-sadness-dev-13	['opebbles', 'one', 'sadly', '']	2
+2018-en-sadness-dev-14	['whocaresnvm', 'destroying', 'memory', 'goal', 'ect', 'might', 'work', 'zapper', 'thingy', 'like', 'men', 'black', 'dumbledores', 'pensive']	0
+2018-en-sadness-dev-15	['believe', 'zain', 'starting', 'secondary', 'year', '']	1
+2018-en-sadness-dev-16	['listen', '', 'golden', 'brown', 'giving', 'life', '', 'feet', 'get', 'dark', '']	2
+2018-en-sadness-dev-17	['god', 'match', 'dull', '#wimbledon']	0
+2018-en-sadness-dev-18	['imaorangepeeler', 'imagine', 'walking', 'sober', '']	0
+2018-en-sadness-dev-19	['chanlfc10', 'paulrule', 'nuttall1878', 'deadlinedaylive', 'everton', 'fuming', 'hijacked', '£8m', 'move', 'relegated', 'full', 'back', '']	1
+2018-en-sadness-dev-20	['sit', 'back', 'watch', 'amp', 'listen', 'every', 'thedemocrats', 'amp', 'dnc', 'member', 'quickly', 'learn', '#victimhood', '#racism', 'amp', '#hatred', '#woke']	2
+2018-en-sadness-dev-21	['depression', 'sucks']	3
+2018-en-sadness-dev-22	['ffigurefbust', 'thinking', 'getting', 'done', 'now', 'given', 'frighten']	2
+2018-en-sadness-dev-23	['o', 'melancholy', 'catacombs', 'quickly', 'wandered', 'rue', 'morgue', 'madman']	0
+2018-en-sadness-dev-24	['soulcrushing', 'despair', 'also', 'might', 'just', 'marshmallows', 'breakfast']	1
+2018-en-sadness-dev-25	['donaldjtrumpjr', 'thinks', 'oliver', 'north', 'defense', 'insulates', 'potus', 'make', 'realdonaldtrump', 'look', 'inept', '#nytimes', '']	0
+2018-en-sadness-dev-26	['', 'even', 'tell', 'u', 'lie', 'felt', 'like', 'u', 'special', 'till', 'realized', 'wassup', 'left', 'got', 'u', 'feeling', 'dreadful', '']	2
+2018-en-sadness-dev-27	['lighter', 'notengg', 'nkaissery', 'amp', 'total', 'man', 'rate', 'jubilee', 'losing', 'votes', '']	0
+2018-en-sadness-dev-28	['imagine', 'suffering', 'chronic', 'depression', '', 'told', 'unattractive', 'chip', 'shoulder', '#dwp', '#wrag', '#wwwgovuk', '#mentalhealth']	3
+2018-en-sadness-dev-29	['got', 'builders', 'office', 'game', 'make', 'perhaps', 'start', 'sketching', 'next', 'game', '#gamedev', '#indiedev', '']	0
+2018-en-sadness-dev-30	['maidinaustralia', 'd', 'horrid', 'hugs']	2
+2018-en-sadness-dev-31	['brownjayson', 'mylesgorham85', 'subscribe', 'philosophy', 'drafted', 'michael', 'floyd', 'anyways', '#bad']	1
+2018-en-sadness-dev-32	['head', 'hurting', '']	1
+2018-en-sadness-dev-33	['skyuk', 'impressed', 'customer', 'support', 'forcing', 'customers', 'use', 'fb', 'chat', 'sms', 'slow', 'issue', 'getting', 'sorted', '']	2
+2018-en-sadness-dev-34	['#worry', 'never', 'robs', 'tomorrow', '#sorrow', 'saps', 'today', '#strength', '', 'j', 'crown', '#faith', '#positive', '#motivation']	0
+2018-en-sadness-dev-35	['shame', 'cashback', 'mbna', 'amexuk', 'credit', 'card', 'comes', 'end', 'used', 'look', 'forward', 'end', 'year', 'bonus', 'sad', 'really', '#cashback', '']	3
+2018-en-sadness-dev-36	['please', 'ruin', 'party', 'nswrl', '#origin', '#blues']	1
+2018-en-sadness-dev-37	['posted', 'snap', 'dad', 'someone', 'thought', 'grandmother', '#crying']	0
+2018-en-sadness-dev-38	['africa', 'unique', 'tremendous', 'problems', 'war', 'overpopulation', 'starvation', 'tribalism', 'makes', 'moving', 'africa', 'forward', 'hard']	1
+2018-en-sadness-dev-39	['girls', 'masturbate', 'tooboys', 'cry', 'toon#girls', '#', 'boys', '#cry', '#masturbate']	0
+2018-en-sadness-dev-40	['makeup', 'going', 'salenbut', 'aint', 'got', 'funds', '#heartbreaking']	2
+2018-en-sadness-dev-41	['every', 'day', 'always', 'get', 'bit', 'sad', 'finished', 'lunch']	3
+2018-en-sadness-dev-42	['way', 'always', 'twitter', 'work', 'little', 'alarming', '\u200d️']	0
+2018-en-sadness-dev-43	['#ifonlypeoplewould', 'exist', '#humanity', '#life', '#ignorance', '#nature', '#mothernature', '#sad', '#disappointment', '#smh', '#personal', '#opinion', '#views', '#animals']	2
+2018-en-sadness-dev-44	['smolchika', 'ya', 'kind', 'depressing', 'think', 'itn']	1
+2018-en-sadness-dev-45	['markwontusethis', 'pine', 'love', 'one', 'day', 'crabbe']	0
+2018-en-sadness-dev-46	['emmajckson', 'awe', 'thank', '']	0
+2018-en-sadness-dev-47	['nextofficial', 'placed', 'order', 'nearly', 'grand', 'six', 'weeks', 'ago', 'called', 'yesterday', 'order', 'missing', 'call', 'back', 'today', '#shocking']	0
+2018-en-sadness-dev-48	['nah', 'governor', 'call', 'someone', 'bum', 'amp', 'love', 'calls', 'communist', 'montclair', '', '', '#crying']	0
+2018-en-sadness-dev-49	['rained', 'every', 'day', 'since', 'june', '30', '13', '#dreary', '#soggy', 'days', 'row', '#auckland']	0
+2018-en-sadness-dev-50	['skyuk', 'just', 'put', 'hold', '20', 'minutes', 'till', 'hung', '#not', 'happy', '#terribleservice', '#unhappy', 'virginmedia', 'stayed']	3
+2018-en-sadness-dev-51	['chrisyour', 'sad', 'ultimately', 'apparently', 'supported', 'completely', 'mostly', 'working', '']	0
+2018-en-sadness-dev-52	['chelsea', 'united', 'must', 'furious']	0
+2018-en-sadness-dev-53	['3', 'half', 'hour', '', '#exo']	0
+2018-en-sadness-dev-54	['smiling', 'close', 'tears']	3
+2018-en-sadness-dev-55	['everybody', 'seem', 'sp', 'serious']	0
+2018-en-sadness-dev-56	['past', 'test', 'exam', '', 'cdl', 'achieved', '']	0
+2018-en-sadness-dev-57	['jamie93lee', 'upset', '']	2
+2018-en-sadness-dev-58	['going', 'nurse', 'learn', 'nice', 'patient', 'person', 'jesus', '', '']	0
+2018-en-sadness-dev-59	['tonyposnanski', 'putin', 'told', '#pout', '#heylookatthedistraction']	1
+2018-en-sadness-dev-60	['frustration', 'dream', 'left', 'utterly', 'fking', 'furious', 'plus', 'side', 'angry', 'sleep', 'wrote', '1500', 'words', 'minus', 'side', 'still', 'raging']	1
+2018-en-sadness-dev-61	['apinknumjoo', 'hello', 'namjoo', 'unnie', 'welcome', 'paradox', 'deeply', 'sorry', 'late', 'greeting', '', 'chaey', 'wishing', 'pleasant', '']	0
+2018-en-sadness-dev-62	['nomore', 'drinking', '', '#serious']	0
+2018-en-sadness-dev-63	['believe', 'lost', 'phone', 'get', 'home']	2
+2018-en-sadness-dev-64	['garfieldlineker', 'timcroberts', 'back', 'apologies', 'retweeting', 'tweet', 'grammatical', 'error', '#mybad', '']	1
+2018-en-sadness-dev-65	['heart', 'trembling', 'just', 'thought', 'itni', 'really', 'don’t', 'know', 'love']	2
+2018-en-sadness-dev-66	['really', 'want', 'mom', 'go', 'back', 'home', '', '', '', '', '', '', '', '', '#gutted', '#crying', '#miserable', '#why']	3
+2018-en-sadness-dev-67	['mtailor', '“20', 'better', 'tailor”', 'least', 'tailor', 'know', '#navy', 'vs', '#blue', '500', '4', 'weeks', '#innacurate', 'suit', '']	0
+2018-en-sadness-dev-68	['fuck', 'just', 'saw', 'game', 'thrones', 'spoiler', 'snapchat', 'us', 'saw', 'yet', '', '#arsehole']	1
+2018-en-sadness-dev-69	['disappointed', 'e', 'portrayal', 'kylie', 'jenner', 'makes', 'look', 'fake', 'amp', 'filthy', 'rich', '', 'every', 'turn', '#disappointment', 'enews', '#lifeofkylie', '']	2
+2018-en-sadness-dev-70	['weareelektron', 'sadly', '#digitakt', 'seems', 'stock', 'europe', 'know', '', 'european', 'online', 'store']	0
+2018-en-sadness-dev-71	['okay', 'seriously', 'know', 'whole', 'twitter', 'thing', 'works', '#lost']	0
+2018-en-sadness-dev-72	['get', 'feeling', 'eurosportuk', 'itvcycling', 'might', 'reviewing', 'showing', 'stages', 'full', 'poor', 'robhatchtv', 'nedboulting', '', '', '#dull']	0
+2018-en-sadness-dev-73	['soooo', 'annoyed', 'wait', 'start', 'morning']	2
+2018-en-sadness-dev-74	['must', 'goblin', 'rains', 'every', 'time', 'effin', 'sad', 'lol']	2
+2018-en-sadness-dev-75	['moms', 'work', 'discounted', 'riot', 'fest', 'tickets', '1473', 'days', '#saddened']	2
+2018-en-sadness-dev-76	['sure', 'tequila', 'shots', 'family', 'birthday', 'meal', 'best', 'ideas', 'ever', '#grim']	1
+2018-en-sadness-dev-77	['bennymcnugget', 'sad', 'upset', 'idk', '']	3
+2018-en-sadness-dev-78	['realskipbayless', 'opinions', 'sports', 'dreadful']	1
+2018-en-sadness-dev-79	['think', 'yondu', 'amp', 'crew', 'rocket', 'amp', 'groot', '700', 'jumps', 'ego', 'planet', 'start', 'laughing']	0
+2018-en-sadness-dev-80	['know', '#speed', '#light', 'speed', '#dark']	0
+2018-en-sadness-dev-81	['rgupdate', 'tried', 'english', 'hospital', 'food', '', '#yak', '#gross', '']	0
+2018-en-sadness-dev-82	['mikeandmike', 'busterespn', 'get', 'time', 'orioles', 'buyers', 'sellers', 'going', '#panic']	1
+2018-en-sadness-dev-83	['lost', 'appetite', 'past', '5', 'days', 'swear', 'already', 'lost', '3', 'pounds', '#depressing', '#at', '#least', '#i', '#will', '#be', '#skinny', '#for', '#pride', '#weekend']	3
+2018-en-sadness-dev-84	['b4', 'get', 'bed', 'look', 'mirror', 'thankful4all', 'support', 'recieved', 'imwakinguphappynot', 'dreading', 'theday', '']	0
+2018-en-sadness-dev-85	['need', 'little', 'learning', 'live', 'happily', '', 'michel', 'de', 'montaigne', '#quote', '#philosophy', '#wisdom', '#wisewords', '#mentalhealth', '#psychology', '#anxiety']	0
+2018-en-sadness-dev-86	['come', 'conclusion', 'online', 'world', 'seriously', 'fucked', 'absolutely', 'words', 'describe', '#bleak', '', '#grim']	1
+2018-en-sadness-dev-87	['like', 'itos', 'manga', 'end', 'bleak', 'hopeless', 'endings', 'way', 'make', 'look', 'like', 'protagonist', 'lost']	1
+2018-en-sadness-dev-88	['loveisland', '#loveisand', 'next', 'time', 'dumping', 'get', '#olivia', '#dreadful', 'good', 'chris']	2
+2018-en-sadness-dev-89	['cex', 'waste', 'time', 'nothing', 'gets', 'done', 'using', '#awful']	3
+2018-en-sadness-dev-90	['beware', 'wrath', 'angry', 'frustrated', '#agile', 'grandma', 'network', '', 'just', 'sayin', '#objectlesson']	1
+2018-en-sadness-dev-91	['peplamb', 'stevenfurtick', '#comfort', '#mourn', 'console', '#mourn', '#zion', 'give', '#beauty', '#ashes', '#oil', '#joy', 'for…']	0
+2018-en-sadness-dev-92	['love', 'dark', 'gurl', 'wit', 'da', 'juicy', 'booty']	0
+2018-en-sadness-dev-93	['rainbow6game', 'felt', 'guilt', 'playing', 'game', '#horrible', '#rainbowsixsiege']	3
+2018-en-sadness-dev-94	['excuse', 'making', 'mistakes', 'twice', 'live', 'amp', 'learn', 'deal', 'consequences', 'unhappy', '#truthbomb']	2
+2018-en-sadness-dev-95	['feel', 'snapchat', 'new', 'feature', '#snapmap', '', '#twitterpoll', '#polls', '#vote', '#poll', '#snapchat', '', '#twitter', '#tech', '#technology']	0
+2018-en-sadness-dev-96	['excepted', 'eclipse', 'make', 'believe', 'omniscience', 'force', '#dissapointed']	1
+2018-en-sadness-dev-97	['julia', 'finally', 'going', 'able', 'meet', 'ptx', '#crying']	1
+2018-en-sadness-dev-98	['462', 'appearances', 'pl', '200', 'goals', '231', 'games', 'per', 'goal', 'nearly', 'goal', 'every', '2', 'games', '#crap', '', '', '#rooney']	0
+2018-en-sadness-dev-99	['sophieathertonn', 'lillynewtonx', 'actually', 'awful', 'treat', 'get', 'home', 'tho']	0
+2018-en-sadness-dev-100	['yall', 'understand', 'womans', 'wrath', 'real', '']	0
+2018-en-sadness-dev-101	['“#woe', 'unto', '#you', '#full', 'ye', 'shall', '#hunger', '#woe', 'unto', '#laugh', 'now', 'ye', 'shall', '#mourn', '#weep”nluke', '625']	0
+2018-en-sadness-dev-102	['jeong', 'su', 'easy', 'get', 'along', 'everybody', 'likes', 'intimidated', 'like', 'reminds', 'seunghoon']	0
+2018-en-sadness-dev-103	['scottadamssays', 'broke', '#snap', 'great', 'analysis', '#cnbc']	0
+2018-en-sadness-dev-104	['aleesha—kitchen', 'sink', 'twenty', 'one', 'pilots', '']	0
+2018-en-sadness-dev-105	['tgowdysc', 'wonder', 'mess', '#noloyalty', '#youcaved', '']	1
+2018-en-sadness-dev-106	['elebelfiore', 'always', 'control', 'mistrust']	0
+2018-en-sadness-dev-107	['prison', 'awfully', 'gloomy', 'mind', 'put', 'ribbons', 'bars']	2
+2018-en-sadness-dev-108	['#wyoming', 'beautiful', 'state', 'road', 'signs', 'lack', 'thereof', 'terrible', '#lost']	1
+2018-en-sadness-dev-109	['really', 'pissed', 'fuck', 'good', 'job', 'keeping', 'kid', 'like', 'see', 'sick', 'sad']	3
+2018-en-sadness-dev-110	['lovemyffajacket', 'facetime', '', 'can', 'still', 'annoy', '']	0
+2018-en-sadness-dev-111	['power', 'goes', 'shorts', 'xbox', 'since', 'day', '1', 'launch', 'course', 'breaks', 'birtday', '#birthday', '#xbox', '#sadness']	3
+2018-en-sadness-dev-112	['angrydwarf9', 'carolinesandall', 'ruins', 'frigging', 'night', 'night', '9pm', 'mrs', 'loves', 'early', 'bed', 'month', '#dreadful']	3
+2018-en-sadness-dev-113	['worst', 'dreams', '']	3
+2018-en-sadness-dev-114	['juliahb1', 'talkradio', 'culture', 'amp', 'language', 'already', 'protectedn£', 'promoting', 'welsh', 'better', 'spent', 'tourism', 'dreadful', 'schools', 'ed', 'record']	0
+2018-en-sadness-dev-115	['obviously', 'moved', 'music', 'robertcrayband', 'tonight', 'wanted', 'share', 'love', '#blues', '#concert']	0
+2018-en-sadness-dev-116	['britmerc69', 'stop', 'discourage', 'people', '']	1
+2018-en-sadness-dev-117	['disappointed', 'spending', '£50', 'outfit', 'meeting', 'boy', '#noselfcontrol', '#nervous']	2
+2018-en-sadness-dev-118	['allyiahsface', 'page', 'full', 'make', 'valid', 'question', 'probably', 'prefer', 'smashed', 'dashed']	1
+2018-en-sadness-dev-119	['hiya', 'everyone', 'want', 'please', '#retweet', 'pin', '#rt', '#help', '#romance', '#wattpad', '', '', '', '#hurt', '#tweet', '#twitter', '#thanks']	0
+2018-en-sadness-dev-120	['keithrothfus', 'silencecomplicity', 'obviously', 'problem', 'russian', 'interference', '#sad', '#russianhacking', '#treason']	2
+2018-en-sadness-dev-121	['now', 'buy', 'whole', 'new', 'computer', '']	0
+2018-en-sadness-dev-122	['damn', 'lost', 'keys', 'forgot', 'get', 'garage', 'opener']	1
+2018-en-sadness-dev-123	['sorry', 'alsofuck', '#currentfeels', '#anger', '#bpd', '#eupd', '#borderliner', '#mentalhealth', '#anxiety', '#depression', '#confused']	3
+2018-en-sadness-dev-124	['bxchpls03', 'u', 'lucky', 'ahu', '']	0
+2018-en-sadness-dev-125	['lost', 'without', 'mom', '', 'plus', 'tired', 'sick', 'full', 'cold', 'just', 'another', 'day', 'paradise', '#upset', '#unwell', '#missyoumommybear', '']	3
+2018-en-sadness-dev-126	['boy', 'play', 'n0', 'play', 'dull', 'mᴬkes']	0
+2018-en-sadness-dev-127	['kind', 'tired', 'everything', '#summer', '#heat', '#bicycle', '', '', '#videogames', '#bookwriting', '#nothavingacomputer']	2
+2018-en-sadness-dev-128	['borisjohnson', 'unhappy', 'cost', 'leaving', 'eu', '', 'published', 'letter', 'outlining', 'reasons', 'stay', 'instead', 'idiot']	2
+2018-en-sadness-dev-129	['still', '#devastated', '#sad', '#tariqs', '#tariqlive', 'channel', '#professorblacktruth', '#youtubefail', '#epicfail', '#tariqnasheed', '']	3
+2018-en-sadness-dev-130	['fuck', 'small', 'talk', 'tell', 'age', 'start', 'disappointing', 'parents']	2
+2018-en-sadness-dev-131	['newsbykatherine', 'jonkarl', 'abc', 'guys', 'sound', 'astounded', 'anyone', 'working', 'w', 'trump', 'wh', 'ethicalmoral', 'values', '']	0
+2018-en-sadness-dev-132	['shit', 'depressing', 'weather', 'wish', 'can', 'travel', 'world', 'living']	3
+2018-en-sadness-dev-133	['making', 'dark', 'darker', 'shining', 'light', 'jesus', 'darkn', '#jesus', '', '#light', '#shine']	0
+2018-en-sadness-dev-134	['mysarazaman', 'ya', 'makes', 'selfish', 'disheartened']	2
+2018-en-sadness-dev-135	['uzalu', 'veehro', 'joyless', 'cunt']	1
+2018-en-sadness-dev-136	['kylegriffin1', 'disgusting', '#sick', '']	2
+2018-en-sadness-dev-137	['uber', 'disappointing', 'support', 'responded', 'email', '#bad', '#uber', '#service']	3
+2018-en-sadness-dev-138	['just', 'know', 'go', 'next', 'life', '#lost']	2
+2018-en-sadness-dev-139	['next', 'time', 'go', 'lagos', 'will', 'gate', 'crash', 'somebodys', 'owambe', 'dressed', 'lace', 'gele', 'eat', 'amala', 'shake', 'waist']	0
+2018-en-sadness-dev-140	['goal', 'scare', 'little', 'excite', 'lot', '', 'joe', 'vitale', '#quote']	0
+2018-en-sadness-dev-141	['shouldve', 'cut', 'moment', 'started', 'hurting', 'o']	3
+2018-en-sadness-dev-142	['puddlespityp', 'made', 'happy', 'woman', 'thx', 'p', 'casey', 'sigh', '#worththewait', '#cry', '#beyootifulll']	0
+2018-en-sadness-dev-143	['freakin', 'ai', 'deleted', 'half', 'episode', 'bip', 'accident', '', '#bachelorinparadise']	0
+2018-en-sadness-dev-144	['just', 'enough', 'marmite', 'jar', 'work', '14', 'slice', 'toast', '', '#unhappy']	3
+2018-en-sadness-dev-145	['hdfcergogic', 'yr', 'customer', 'care', 'exec', 'r', 'unable', 'pull', 'information', 'lampt', 'insurance', '#horrible', '#service', '#beware', '#renewal']	2
+2018-en-sadness-dev-146	['everytime', 'think', 'life', 'getting', 'better', 'never', 'comes', '#sadly']	3
+2018-en-sadness-dev-147	['']	2
+2018-en-sadness-dev-148	['become', 'place', 'people', 'even', 'timid', 'us', 'baying', 'blood', 'around', 'every', 'corner']	0
+2018-en-sadness-dev-149	['activehours', 'need', 'someone', 'reply', 'back', 'immediately', 'happy', 'getting', 'timely', 'responses', 'app', '#help', '']	3
+2018-en-sadness-dev-150	['thelucbomber', 'etikawnetwork', 'etika', 'polneraffs', 'long', 'lost', 'brother', 'confirmed']	1
+2018-en-sadness-dev-151	['1720maryknoll', '#fuming', 'kenny']	1
+2018-en-sadness-dev-152	['totally', 'regret', 'signing', 'sprintcare', 'sprint', '']	2
+2018-en-sadness-dev-153	['#hopkinsville', '#ky', '#total', '#eclipse', '#capital', '#world', '#august', '2017', '#dancing', 'n', '#moon', '#dark', '#eclipse2017', '#eclipseacrossamerica', '#edgar', '#cayce']	0
+2018-en-sadness-dev-154	['never', 'thought', 'say', 'really', 'miss', 'todd', '']	3
+2018-en-sadness-dev-155	['hey', 'everything', 'gonna', 'okay', 'may', 'god', 'kiss', 'weary', 'face', 'everything', 'gonna', 'alright', 'let', 'peace', 'tonight']	0
+2018-en-sadness-dev-156	['love', 'seeing', 'yeahlizzy', 'reminds', 'one', 'miserable', 'work', '']	1
+2018-en-sadness-dev-157	['remember', 'everything', '#lost', 'gained', 'something', 'else', 'without', '#dark', 'never', 'see', '#stars']	0
+2018-en-sadness-dev-158	['baby', 'dancing', 'dark']	0
+2018-en-sadness-dev-159	['1ncamera', 'weehugs', 'davidyoungpa', 'pa', 'stupidity', 'part', 'proud', 'cultural', 'identity', '']	0
+2018-en-sadness-dev-160	['eben4u', '#stayed', 'youmakes', 'appreciate', 'love', 'worshipingall', 'want', 'worship']	0
+2018-en-sadness-dev-161	['hit', 'sudden', 'wave', 'sadness']	3
+2018-en-sadness-dev-162	['livedarts', 'rip', 'friend', 'get', 'head', 'round', '', '', '', '#devastated', '', '', '', 'x']	3
+2018-en-sadness-dev-163	['chopper', 'ltltdammit', 'just', 'sink', 'alreadygtgt']	0
+2018-en-sadness-dev-164	['unesco', 'remember', 'spread', '#hatred', '#fakenews', 'internet', 'abuse', '#hashtag10', 'spreading', '#arabnationalism']	1
+2018-en-sadness-dev-165	['bih', 'lock', 'shit', '#depressing']	3
+2018-en-sadness-dev-166	['f1', 'announcing', 'late', 'will', 'hard', 'make', 'manchester', 'organising', 'day', '#sad']	3
+2018-en-sadness-dev-167	['theview', 'joy', 'comedian', 'bully', 'fat', 'shaming', 'governor', 'great', 'example', 'setting', 'grandson']	1
+2018-en-sadness-dev-168	['want', 'digital', 'art', 'bad', 'dad', 'let', 'use', 'ipad', 'till', 'exams', '']	1
+2018-en-sadness-dev-169	['programmer’s', 'wisdom', 'understanding', 'difference', 'getting', 'program', 'run', 'runnable', 'program', '', '#puppy']	0
+2018-en-sadness-dev-170	['probably', 'watching', 'sad', 'bts', 'video', 'bc', 'sad', '', 'iwannacryy', 'n', 'halppp']	3
+2018-en-sadness-dev-171	['best', 'friends', 'driving', 'first', 'time', 'car', '#terrifying']	1
+2018-en-sadness-dev-172	['fabianiswailea', '']	0
+2018-en-sadness-dev-173	['timmyldn', 'looks', 'dreadful', '']	1
+2018-en-sadness-dev-174	['ryanhedderick', 'happy', 'birthday', 'big', 'fella', 'good', 'one', 'blues', 'x']	0
+2018-en-sadness-dev-175	['vivaonline', 'oh', 'schade', '']	1
+2018-en-sadness-dev-176	['can', 'certain', '#arrogance', 'think', 'fine', 'never', 'lose', '#respect', 'others']	0
+2018-en-sadness-dev-177	['kitchenaidusa', '', 'spent', '500', 'mixer', 'yet', 'dough', 'hook', 'chips', 'dough', '', 'buy', 'new', 'one', 'thing', 'happens', '#unhappy']	3
+2018-en-sadness-dev-178	['huge', 'fan', 'ryanair', 'last', 'flights', 'horrific', '#rude', '#poorservice', '#nostock', 'etc', 'etc', 'etc', '#dissapointed']	3
+2018-en-sadness-dev-179	['coffee', 'floor', 'soul', 'grew', 'furious', 'stillness', 'broken', 'little']	1
+2018-en-sadness-dev-180	['lala', 'loving', 'book', 'power', 'playit', 'serious', 'game', 'changer', 'nothing', 'else', 'dreaming', 'big', 'will', 'land', 'amongst', 'stars', '']	0
+2018-en-sadness-dev-181	['wizkidayo', 'bro', 'u', 'just', 'dey', 'burst', 'brain', 'bro', 'need', 'u', '2', 'pls', 'end', 'everything', 'rift', 'btw', 'u', 'nd', 'hommie', 'davido', 'pls', 'bro', '4', 'd', 'sake', 'luv']	0
+2018-en-sadness-dev-182	['gemmaannestyles', 'fabicelolly', 'america', 'think', '#upset', '#hurt']	2
+2018-en-sadness-dev-183	['', '#work', '#sober', '\u200d️', 'can']	1
+2018-en-sadness-dev-184	['#dmme', '#kikme', '', '#sext', '#horny', '', '#ass', '#bbw', '', '#naughty', '', '#pussy', '#kik', '', '', '#nudes', '', '', 'girls', '', '', 'horny', '', '#snap', '', '', '', 'jacobgigs']	0
+2018-en-sadness-dev-185	['hundred', 'million', 'followers', 'still', 'genuine', 'person', 'understands', 'wants', '#cantshakethis', '#sadness']	3
+2018-en-sadness-dev-186	['i’m', 'glad', 'i’m', 'like', 'sad', 'people', 'online', 'gossip', 'bully', 'others', 'entertainment', 'life']	1
+2018-en-sadness-dev-187	['sending', 'love', 'amp', 'prayers', 'families', 'usmc', 'marines', 'lost', 'c130', 'crash', 'mississippi', 'may', 'lord', 'help', 'abate', 'grief', 'sorrow']	2
+2018-en-sadness-dev-188	['counting', 'queensland', '#stateoforigin', '#broncos', '#maroons', '#blues', '#nswblues', '#qld']	0
+2018-en-sadness-dev-189	['please', 'stop', 'ruining', 'depressing', 'memes', 'positivity', 'optimism']	1
+2018-en-sadness-dev-190	['statedept', '#that', 'certainly', 'bode', '#afghan', 'woman', 'girls', '#bad', 'option']	1
+2018-en-sadness-dev-191	['presume', 'richness', 'poorness', 'will', 'bring', 'happiness', '', 'santosh', 'kalwar', '#quote', '#mentalhealth', '#psychology', '#depression', '#anxiety']	1
+2018-en-sadness-dev-192	['jeffbezos', 'amazon', 'can', 'talk', 'terminated', 'answer', 'paid', 'hours', 'worked', 'erc', 'answers', '']	1
+2018-en-sadness-dev-193	['okay', 'btstwt', 'fun', 'can', 'change', 'layout', 'back', 'something', 'goofy', 'domestic', 'usual', 'pls', 'intimidated', 'rn']	0
+2018-en-sadness-dev-194	['fangornforest1', 'brexit', 'whose', 'customers', 'love', 'imagine', 'hack', 'days', 'sing', 'tune', 'paymaster', 'calls', '#dismal']	2
+2018-en-sadness-dev-195	['thealexpeace', 'bad', 'think', 'may', 'come', 'back', 'haunt', 'yous']	0
+2018-en-sadness-dev-196	['just', 'wanna', 'sober', 'u']	0
+2018-en-sadness-dev-197	['thomasewoods', 'like', 'hear', 'podcast', 'going', 'refuting', 'entire', 'article', 'extra', 'indignation', 'please']	0
+2018-en-sadness-dev-198	['aaron0424', 'marquezmark06', 'serious', 'paranormal', 'stuff', 'going']	1
+2018-en-sadness-dev-199	['wayin', 'case', 'knowjoshuas', 'goin', 'tonightto', 'take', 'trash', 'play', 'blues', 'ever', 'us', '675']	0
+2018-en-sadness-dev-200	['4', 'hours', 'n4189', 'wordsn1', 'storyn#amwriting', '#horror', '#publishorperish']	1

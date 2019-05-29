@@ -1,0 +1,1816 @@
+30000	['just', 'got', 'back', 'seeing', 'garydelaney', 'burslem', 'amazing', 'face', 'still', 'hurts', 'laughing', 'much', '#hilarious']	3
+30001	['oh', 'dear', 'evening', 'absolute', 'hilarity', 'think', 'laughed', 'much', 'long', 'time', '']	3
+30002	['waiting', 'week', 'game', '️️️', '#cheer', '#friday', '️']	3
+30003	['gardinerlove', '', 'thank', 'much', 'gloria', 'sweet', 'thoughtful', 'just', 'made', 'day', 'joyful', 'love', '']	3
+30004	['feel', 'blessed', 'work', 'family', 'nanny', '️', 'nothing', 'love', 'amp', 'appreciation', 'makes', 'smile']	3
+30005	['today', 'reached', '1000', 'subscribers', 'yt', '', '#goodday', '#thankful']	3
+30006	['singaholic121', 'good', 'morning', 'love', 'happy', 'first', 'day', 'fall', 'make', 'awesome', '#autumnmemories', '#annabailey', '#laughter', '#smile']	3
+30007	['#bridgetjonesbaby', 'best', 'thing', 'seen', 'ages', 'funny', 'missed', 'bridget', '#love', '', '#teammark']	3
+30008	['just', 'got', 'back', 'seeing', 'garydelaney', 'burslem', 'amazing', 'face', 'still', 'hurts', 'laughing', 'much', '']	3
+30009	['indymn', 'thought', 'holidays', 'get', 'cheerful', 'met', '#thenicebot']	3
+30010	['just', 'still', '', 'happy', 'na', 'blast']	3
+30011	['meant', '#happy', '#happy']	3
+30012	['️yeah‼️', 'paul‼️️', '', '#glorious', '#bb18']	3
+30013	['morning', 'started', 'amazing', 'hopefully', 'whole', 'day', 'going', 'want', 'gon', '#greatday', '']	3
+30014	['', 'cailamarsai', '', '', 'whole', 'time', 'watching', 'blackishabc', 'lost', '#glasses', '#hilarious', 'mrbabyboogaloo']	3
+30015	['iamtinadatta', 'love', 'much', '#smile', '']	3
+30016	['wyowiseguy', 'livingvertical', 'however', 'rei', 'offer', 'job', 'today', 'believe', 'exponentially', 'freaking', 'joyous', 'feel']	3
+30017	['2', 'days', '#gopackgo', '23', 'days', '#gogipego', 'excited', '#smiling']	3
+30018	['themandymoore', 'beyond', 'wonderful', '', 'singing', 'prowess', 'phenomenal', 'damn', 'just', 'elated', 'watch', 'act', '#thisisus', '珞']	3
+30019	['luckiicharm', 'luckii', 'changing', 'many', 'ways', 'bc', 'scary', 'joyful', 'feeling', 'making', 'strong']	3
+30020	['joshnoneyabiz', 'love', 'parody', 'accounts', 'done', 'vote', '#trump', '#lol', '#hilarious']	3
+30021	['wake', 'dream', 'laughing', 'something', 'stupid', 'makes', 'laugh', '#hilarious']	3
+30022	['now', 'future', 'planned', 'feel', 'much', 'happier', '#goals', '#life', '#happy', '#igotthis', '#yay']	3
+30023	['online', 'now', '', 'day', 'come', 'play', '', 'happy', 'happy', 'horny', 'playful', 'sweet', 'sour']	3
+30024	['grahnort', 'wonderful', 'experience', 'watching', 'yesterday', 'bbcletitshine', 'thankyou', '#laughter']	3
+30025	['itsyourgirlz', 'happy', 'birthday', '', 'blessed', 'day', 'love', 'toronto', '', '#bday', '']	3
+30026	['wsjnordics', 'make', 'world', 'joyful', 'place', '#thenicebot']	3
+30027	['morning', 'course', 'sunny', 'monday', 'morning', 'cheerfully', 'welcome', 'us', 'back', 'work']	3
+30028	['singaholic121', 'good', 'morning', 'love', 'happy', 'first', 'day', 'fall', 'make', 'awesome', '#autumnmemories', '#annabailey', '', '']	3
+30029	['#firstdayoffall', 'happy', 'sipping', '#pumpkinspice', 'flavored', 'coffee', '#smiling', 'happy', 'fall', 'everyone', '#amwriting']	3
+30030	['retweeted', 'gunnysmith93', 'stephen21smithnndays', 'like', 'today', 'happy', 'alive', '#blessed', '#rejoice']	3
+30031	['adenkyirah', 'happy', 'birthday', 'hope', 'wonderful', 'day', 'filled', 'lots', 'joy', 'laughter', 'lt3', 'despite', 'tumblr', 'jerk']	3
+30032	['love', 'love', 'love', '', '#fun', '#relaxationiskey']	3
+30033	['day', 'made', 'nnlet', 'us', 'rehoi', 'rejoice', 'glad', 'nnnn#aja', 'ngood', 'morning']	3
+30034	['#love', '#laugh', 'share', '#laughter', 'way', 'share', '#joy']	3
+30035	['second', 'day', 'job', 'already', 'got', '45', 'dollar', 'tip', 'dude', 'whose', 'constantly', 'twitching', 'eye', 'lololol', '#cheering']	3
+30036	['fan', 'endless', '#laughter', '#friends', 'enjoying', '#happiness', 'together', '#fridayfeeling', '#weekend']	3
+30037	['thought', 'gets', 'day', 'thought', 'smile', 'never', 'fails', 'making', 'smile', '']	3
+30038	['today', 'reached', '1000', 'subscribers', 'yt', '#happy', '#goodday', '#thankful']	3
+30039	['getting', 'comedic', 'relief', 'w', 'sofiavergara', 'season', 'premiere', '#modernfamily', 'just', 'girl', 'needs', '#hilarious']	3
+30040	['palmtreesarah', 'worthingtheatre', 'fun', 'funniest', 'person', 'funsville', 'much', 'hilarity', 'usual', 'thank', '️']	3
+30041	['shwood', 'mpforstein', 'omd', '2', 'cracking', 'thanks', 'follow', 'brian', 'need', 'levity', 'balance', 'cynicism', 'share', 'wmichael']	3
+30042	['dorh84607784', 'oh', 'fantastic', 'bet', 'super', 'exhilarating', '', '']	3
+30043	['contourcosmetic', 'done', 'ladies', 'great', 'award', 'amazing', 'team', 'delight', 'present', 'award']	3
+30044	['vals', 'always', 'smiling', 'love', '#gbbo']	3
+30045	['great', 'time', 'skywalkers', 'open', 'gym', 'tonight', 'come', 'every', 'wednesday', '78', 'hillsboro', 'train', 'us', '#opengym', '#cheer', '#tumbling']	3
+30046	['love', 'cheery', 'adoring', 'jackhoward', 'gets', 'every', 'time', 'produces', 'new', 'content']	3
+30047	['good', 'morning', 'joyful', 'people', 'choose', 'happiness', 'great', 'day', 'today', '#morning', '#joyful', '#happiness', '#grandmercurejktkemayoran']	3
+30048	['retweeted', 'gunnysmith93', 'stephen21smithnndays', 'like', 'today', 'happy', 'alive', '#blessed', '']	3
+30049	['wishing', 'happy', 'birthday', 'awesome', 'dancer', 'ruthann', 'hope', 'day', 'magical', '#bday', '', '#eatcake']	3
+30050	['thank', 'twitter', 'balloons', 'today', '#smile', '#goodday', '#48']	3
+30051	['omg', 'got', 'watch', 'new', 'series', 'uswow', 'best', 'tv', 'show', 'seen', 'long', 'timen#tears', '#laughter', '#moretears']	3
+30052	['today', 'first', 'time', 'math', 'professor', 'let', 'us', 'live', 'early', 'class', 'time', '', '#15', 'min', '#feelsgood', '#happy', '#wednesday', '#']	3
+30053	['food', 'gets', 'delivered', '', '#cheering', '#happy']	3
+30054	['know', 'love', 'can', 'smile', 'whenever', 'talk', 'someone']	3
+30055	['#lively', '#lovely', '#shower', '', '']	3
+30056	['great', 'training', 'course', 'lots', 'photos', 'fun', 'laughter', 'photos', 'will', 'soon', '#boostercourse', '#fun', '#laughter']	3
+30057	['emmymitchell', '', 'hahahaha', 'ridiculous', 'thank', 'joyous', 'evening', 'xx']	3
+30058	['happy', 'come', 'across', 'hilltopbindery', 'notebooks', '#handmade', 'love', 'talk', '#musthave', '#want', '#need', '#happy', '#amazing', '']	3
+30059	['second', 'day', 'job', 'already', 'got', '45', 'dollar', 'tip', 'dude', 'whose', 'constantly', 'twitching', 'eye', 'lololol', '']	3
+30060	['made', 'night', 'gordonreid91', 'reid', 'included', 'tonights', 'hilarity', 'points', 'brilliant', 'thanks', 'andymurray']	3
+30061	['way', 'wearing', 'smile', 'gave', 'today', 'n', '#you', '#me', '']	3
+30062	['airvistara', 'always', 'indeed', 'wonderful', 'experience', 'flying', 'guys', 'today', '#bestinbusiness', '#delight', '#happyme']	3
+30063	['alpuzz', 'ah', 'got', 'work', 'much', 'rejoicing', 'lol', 'thanks', 'will', 'get', 'taht', 'now']	3
+30064	['getting', 'comedic', 'relief', 'w', 'sofiavergara', 'season', 'premiere', '#modernfamily', 'just', 'girl', 'needs', '']	3
+30065	['mrhenvin', 'thank', 'happy', 'birthday']	3
+30066	['really', 'love', 'customer', 'service', 'lifeproof', 'always', 'nice', 'helpful', 'cheerful', '']	3
+30067	['chrisbooker', 'theperezhilton', 'php54', '', 'though', 'kardashian', 'stuff', 'goes', 'head', 'hilarious', 'like', 'gleeful', 'little', 'boys', '']	3
+30068	['thesandragal', 'glad', 'see', 'fun', 'sun', 'water', 'sports', 'always', 'fun', 'challenging', 'exhilarating', '#happiness', '#beauty']	3
+30069	['may', 'day', 'filled', '#peace#love', 'n', '#laughter', 'nice', 'day', 'full', '#success', '#jummah', 'mubarak', '', 'good', 'morning', 'waseembadami']	3
+30070	['2', 'days', '#gopackgo', '23', 'days', '#gogipego', 'excited', '']	3
+30071	['funny', 'everyone', 'came', 'life', 'like', 'far', 'cheerful', 'self', 'confident', 'make', '3abla', 'kaml', 'fg2a', 'kda', '']	3
+30072	['happy', 'birthday', 'brooke5656', '', '#cheerchick', '#jeep', '#jeepgirl', '#idriveajeep', '#jeepjeep', '#cheer']	3
+30073	['thenicebot', 'melbjs', '', 'smile', 'wink', 'across', 'web', '#thenicebot']	3
+30074	['#smile', 'brightens', 'day', 'day', 'everyone', 'around', 'remember', '#smile', '#free', '']	3
+30075	['watching', 'joyful', 'noise', '100000000', 'time', 'cuz', 'love', 'movie', 'kekepalmer']	3
+30076	['indian', 'time', 'already', 'ur', 'birthday', 'akshaymarwah22', 'stupendous', 'birthday', 'wish', 'success', 'laughter', 'lots', 'love', 'hugs', 'x']	3
+30077	['now', 'future', 'planned', 'feel', 'much', 'happier', '#goals', '#life', '', '#igotthis', '#yay']	3
+30078	['#bridgetjonesbaby', 'best', 'thing', 'seen', 'ages', 'funny', 'missed', 'bridget', '#love', '#hilarious', '#teammark']	3
+30079	['great', 'time', 'skywalkers', 'open', 'gym', 'tonight', 'come', 'every', 'wednesday', '78', 'hillsboro', 'train', 'us', '#opengym', '', '#tumbling']	3
+30080	['jadelalaa', 'hahaha', 'u', 'da', 'best', 'bro', 'ever', 'luv', 'u', 'hearty', 'hearts']	3
+30081	['morgannbroom', 'yes', '️️', 'amp', 'cheering', 'homecoming', 'game']	3
+30082	['like', 'congratulate', 'people', 'saudi', 'arabia', 'happy', 'joyous', 'national', 'day', 'may', 'great', 'time', '#اليومالوطني']	3
+30083	['jackandjack', 'lively', 'listen']	3
+30084	['nickofferman', 'wait', '']	3
+30085	['themandymoore', 'beyond', 'wonderful', '', 'singing', 'prowess', 'phenomenal', 'damn', 'just', 'elated', 'watch', 'act', '#thisisus', '']	3
+30086	['ahtareen1', 'reginalaleman', 'krelifa', 'zamansj64', 'awiexab', 'pleasing', 'ty']	3
+30087	['zerfash', '—', 'wait', 'said', 'cheerfully', 'grinned']	3
+30088	['madisenrb', 'sweet', 'amp', 'playful', '']	3
+30089	['good', 'morning', 'trondheim', '#optimism', '#productivity', '️️']	3
+30090	['thank', 'disney', 'themed', 'episode', 'letting', 'discover', 'amazing', 'blackishwriters', '#hilarious']	3
+30091	['pet', 'store', 'worker', 'ask', 'want', 'play', 'exhilarating', 'feeling']	3
+30092	['yoshilucky', 'good', 'morninglets', 'start', 'smilenlets', 'enjoy', 'life', 'cheerful', 'wayndont', 'worry', 'happy']	3
+30093	['currently', 'listening', 'scottfoxonair', 'amp', 'katcallaghan', 'z1035toronto', 'podcasts', 'can', 'guys', 'please', 'move', '#yvr', '', '#hilarious', '#missyou']	3
+30094	['jenlee', 'mostlymartha', 'edotwoods', 'just', 'found', 'thin', 'mints', 'freezer', 'clean', 'elated']	3
+30095	['myahrissavietta', 'cheery', 'now', '']	3
+30096	['probably', 'best', 'ot', 'period', 'ever', 'seen', 'absolutely', 'exhilarating', '#wch2016', '#teamna']	3
+30097	['rewatching', 'raising', 'hope', 'hubs', 'time', 'totally', 'forgot', 'hilarious', '', '#herewego']	3
+30098	['airvistara', 'always', 'indeed', 'wonderful', 'experience', 'flying', 'guys', 'today', '#bestinbusiness', '', '#happyme']	3
+30099	['followadama', 'looking', 'back', 'recent', 'tweets', 'seen', 'one', 'right', 'great', '#perfect', '#hilarious', '#speechless', '#deal']	3
+30100	['found', '#marmite', 'australia', '', '#happy']	3
+30101	['dmcmenemy', 'itll', 'easy', 'spot', 'parade', 'tiny', 'weans', 'expensive', 'jammies', 'really', 'hilarious']	3
+30102	['wishing', 'happy', 'birthday', 'awesome', 'dancer', 'ruthann', 'hope', 'day', 'magical', '#bday', '#happy', '#eatcake']	3
+30103	['love', 'seeing', 'happy', 'women', 'glow', 'something', 'real']	3
+30104	['aw', 'young', 'fox', 'outside', 'grass', 'just', 'jumping', 'around', 'playful', 'little', 'stretch', '', 'soo', 'cute', '']	3
+30105	['north', 'america', 'vs', 'sweden', 'exhilarating', 'hockey', 'ever', 'watched', '', 'wow', '', 'mackinonns', 'mitts', 'silky', '#teamna', '#wch2016']	3
+30106	['just', '#efficient', '#great', '#smiling', 'service', 'applebelgique', 'store', 'impressive', 'team', 'geniuses', 'ready', 'redefine', 'customer', 'service']	3
+30107	['way', 'wearing', 'smile', 'gave', 'today', 'n#you', '#me', '#smile']	3
+30108	['use', 'smile', 'change', 'world', 'let', 'world', 'change', 'smile', '#quote', '#actorslife', '', '#love', '#hardworkpaysoff', '#fun']	3
+30109	['cute', 'katienolan', '#truelove', '#hilarious', 'garbagetime', '#beautiful', 'amp', '#graceful', 'never', 'heard', 'explicits', 'spoken', 'elegance', '#mingo']	3
+30110	['always', '#cheerful', '#smile', 'often', 'make', 'others', 'happy', 'care', 'others', 'help', 'feel', 'helpless', '#vulnerable', 'life', 'feels', 'good', '#leadership']	3
+30111	['great', 'training', 'course', 'lots', 'photos', 'fun', 'laughter', 'photos', 'will', 'soon', '#boostercourse', '#fun', '']	3
+30112	['love', 'love', 'love', '#smile', '#fun', '#relaxationiskey']	3
+30113	['matalan', 'lady', 'xmas', 'dept', 'answers', 'call', 'hello', 'mrs', 'xmas', 'yep', 'true', 'story', '#winning', '#xmas', '#cheer', '#goodcustomerservice', '', '']	3
+30114	['happy', 'birthday', 'iridhidogra', 'keep', 'smiling', 'alwayswishing', 'wonderful', 'year', 'ahead', 'mam']	3
+30115	['good', 'night', 'twitter', 'world', 'wish', 'good', 'sleep', '', 'productive', 'jovial', 'days', '']	3
+30116	['robriggle', 'joelmchale', 'nflonfox', 'still', 'get', 'jimmy', 'garoppolo', 'head', 'almost', '3', 'weeks', 'thanks', 'lot', '#hilarious']	3
+30117	['friend', 'just', 'messaged', 'ugh', 'hungry', 'wait', 'breakfast', '#socialmedia', '#winewednesday', '#hilarious', '#funny', '#laughing', '#happy']	3
+30118	['thank', 'disney', 'themed', 'episode', 'letting', 'discover', 'amazing', 'blackishwriters', '']	3
+30119	['stackee', 'charlie', 'attempted', 'suffocate', 'cushion', 'cheering', 'much', 'great', 'news', '']	3
+30120	['clonmacart', 'beaming', 'glee']	3
+30121	['smile', 'people', 'see', 'happens', '', 'think', 'surprised', '#smile', '#surprisepeople', '#influenceinternational']	3
+30122	['something', 'cool', 'breezy', 'fall', 'days', '']	3
+30123	['food', 'gets', 'delivered', '', '', '']	3
+30124	['artybagger', 'without', 'cake', 'seeing', 'wee', 'cheery', 'face', 'always', 'joy', 'xx']	3
+30125	['simple', 'human', 'just', 'really', 'loves', 'aliciakeys', 'like', 'truly', 'madly', 'deeply', 'rejoicing', 'existence', 'class', 'queendom']	3
+30126	['just', 'really', 'enjoy', 'bright', 'colors', 'like', 'colors', 'see', 'downtown', 'miami']	3
+30127	['thanks', 'making', 'mass', 'fr', 'vallely', 'respectful', 'meaningful', 'joyful', 'acsscrusader', 'assumptionhcdsb', '', '#seewitheyesofmercy']	3
+30128	['good', 'morning', 'joyful', 'people', 'choose', 'happiness', 'great', 'day', 'today', '#morning', '', '#happiness', '#grandmercurejktkemayoran']	3
+30129	['liamjamesvernon', 'love', 'optimism', 'blue', 'moon']	3
+30130	['#contentwiththelordsportiono', 'satisfy', 'us', 'early', 'thy', '#mercythat', 'may', '#rejoice', 'amp', 'glad', 'days#ps', '9014', '#gladness', '#joy', '#delight']	3
+30131	['realestcastiel', 'just', 'sitting', 'close', 'extended', 'period', 'time', 'exhilarating', 'beautiful', 'lively', 'lol']	3
+30132	['thenicebot', 'wsjnordics', 'make', 'world', 'joyful', 'place', '#thenicebot', '#الخفجي']	3
+30133	['priiiincessse', 'thanks', 'distracting', 'paper', 'watch', 'hilarious', 'video', '']	3
+30134	['grahnort', 'wonderful', 'experience', 'watching', 'yesterday', 'bbcletitshine', 'thankyou', '']	3
+30135	['lindseysanford', 'simplymeasured', 'makes', 'giggle', 'glee']	3
+30136	['live', 'simply', 'dream', 'big', 'grateful', 'give', 'love', 'laugh', 'lots', '', 'unknown', '#quote', '#inspiration', '#happy']	3
+30137	['#happy', '#bright', '', '#identity', '#timelesstips', '#friendship', '#family', '#forest', '#water', '#family', '#truelove', '#god', '#roadsofar', '#you', '#lifetrip']	3
+30138	['wake', 'dream', 'laughing', 'something', 'stupid', 'makes', 'laugh', '']	3
+30139	['joshnoneyabiz', 'love', 'parody', 'accounts', 'done', 'vote', '#trump', '#lol', '']	3
+30140	['zephaniah', '317', 'surely', 'rejoicing', 'us', 'singingsuch', 'romance', 'needed', 'today']	3
+30141	['imdevinlopez', 'happy', 'bday', 'bro', '']	3
+30142	['itsyourgirlz', 'happy', 'birthday', '', 'blessed', 'day', 'love', 'toronto', '', '#bday', '#smile']	3
+30143	['mate', 'thing', 'get', 'excited', 'profession', 'mad', 'client', 'said', 'opened', 'bowels', 'rejoicing']	3
+30144	['riggs', 'dumb', 'ass', 'lolol', '#hilarious', '#lethalweapon']	3
+30145	['“be', '#positive', '#cheerful', '#grateful', 'expectant”', 'nightingaleearl', '', '#success', '#leadership']	3
+30146	['elated', 'lisavol', 'sid', 'espinosa', 'dyuliharris', 'ready', 'inspire', 'innovative', 'students', '', 'knightfdn', 'microsoftsv', 'jessicaweare']	3
+30147	['nornironmaiden', 'forestfr1ends', 'hilarious']	3
+30148	['man', 'know', 'juggle', 'just', 'balls', 'itn', '#funny', '#pun', '#punny', '#lol', '']	3
+30149	['#ukedchat', 'a4', 'just', 'go', 'outside', 'gym', 'hall', 'play', 'n', '#education', '', '#learning']	3
+30150	['way', 'takerus', 'eyes', 'sparkling', 'eating', 'like', 'cutest', 'thing', 'ever']	3
+30151	['#contentwiththelordsportiono', 'satisfy', 'us', 'early', 'thy', '#mercythat', 'may', '#rejoice', 'amp', 'glad', 'days#ps', '9014', '#gladness', '#joy', '']	3
+30152	['jamienicks', 'makes', 'complete', 'sense', 'elated', 'hear', '']	3
+30153	['liamch88', 'yeah', '', 'playing', '']	3
+30154	['olajideshutti', 'lmaoo', 'will', 'joyful', 'day']	3
+30155	['thank', 'rachelplatten', 'teaching', 'live', 'long', 'since', 'amp', 'ride', 'exhilarating', 'just', 'know']	3
+30156	['day', '3', '#harvest16', '', 'listening', 'sound', 'chopper', 'working', 'way', 'closer', 'home', 'mountaindairy', 'makes', '#happy', '#farm365']	3
+30157	['dressenn', 'amerson6562', 'rosatrunk', 'iamspl', 'michaelk487', 'silau25', 'nga', 'joyful', 'day']	3
+30158	['yo', '3', 'v', '3', 'overtime', 'hockey', 'got', 'sweaty', 'damn', 'ish', 'exhilarating']	3
+30159	['exhilarating', 'last', 'minute', 'overtime', '#wch2016']	3
+30160	['day', '9', 'elated', 'taking', 'pto', 'tomorrow', 'doneeeee']	3
+30161	['ooh', '#hygge', 'candles', 'jasmine', 'tea', 'amp', '#gbbo', '']	3
+30162	['travelanswerman', 'u', 'ride', 'pile', 'salt', 'life', 'extra', 'sweet', 'always', 'salty', 'always', 'savory', '#surfing', '#aloha', '#smiling', '…']	3
+30163	['beautiful', 'day', 'today', 'cloudy', 'sunny', 'breezy']	2
+30164	['jimadair3', 'guitar', 'shop', 'owners', 'everywhere', 'rejoice']	2
+30165	['joyous', 'first', 'webiversaryweb', 'mitzvah', 'smithsonians', 'weipoints', 'brianwolly', 'jackiemansky', 'bethpylieberman', 'bilbo', 'mazeltov']	2
+30166	['lennyabrahamson', 'may', 'send', 'copy', '#herothegreyhound', 'either', 'ebook', 'real', 'paper', 'one', 'boy', 'greyhound', '#smiles', '#tears', '#laughter']	2
+30167	['look', 'forward', 'detours', 'bring', 'delightful', 'surprises', '#lifequote', '']	2
+30168	['followadama', 'looking', 'back', 'recent', 'tweets', 'seen', 'one', 'right', 'great', '#perfect', '', '#speechless', '#deal']	2
+30169	['getting', 'cable', 'hooked', 'new', 'place', 'just', 'time', 'nbcchicagopd', 'nbcchicagomed', 'premiers', 'like', 'god', 'smiling', '#onechicago']	2
+30170	['mediacrooks', 'thenewshour', 'lodhimaleeha', 'ndtv', 'indiatoday', 'hilarious', '', 'freudian', 'slip', 'eh', '']	2
+30171	['watch', 'amazing', 'lively', 'broadcast', 'izzybuzy365', '', '#musically']	2
+30172	['siblings', 'look', 'gangster', 'amp', 'look', 'cheery', '']	2
+30173	['sidviyer', 'uff', 'look', 'arsenal', 'fans', 'cheering', 'every', 'goal', 'united', 'haha']	2
+30174	['hythehighborne', 'sylvia', 'elated', 'receive', 'kisses', 'little', 'prince', 'bright', 'smile', 'clear', 'glanced', 'garrett', 'elyse', '']	2
+30175	['something', 'v', 'satisfying', '', 'opening', 'old', 'dodoc', 'file', 'able', 'check', 'things', 'done', '#smiling']	2
+30176	['ability', 'make', 'someone', 'happy', 'make', 'someone', '#smile', 'world', 'needs', 'right', 'now', '#createlove', '️']	2
+30177	['bluejayhunter', 'fine', 'near', 'future', 'just', 'want', 'go', 'bed', 'super', 'elated', 'put', 'together', 'audio', 'compilations', 'great', 'moments']	2
+30178	['time', 'go', 'hit', 'library', '', 'lovely', 'pile', 'book', 'reservations', 'collect', 'morning', '#glee', '#books', '#reading']	2
+30179	['aint', 'watching', 'sugarboy', 'hulu', 'aint', 'shit', '#hilarious', 'hahaha']	2
+30180	['tampabayray', 'cried', 'laughter']	2
+30181	['due', 'big', 'change', 'prayed', 'think', 'deserve', '#positivity', '#optimism']	2
+30182	['r1breakfast', 'totes', 'relisten', 'endless', 'hilarity', 'tom', 'odells', 'raaar', 'morning', '', 'grimmers', 'fionaradio', 'tinadaheley']	2
+30183	['finally', 'raining', 'ashland', 'oregon', 'parched', 'summer', 'amp', 'fall', 'plants', 'amp', 'people', 'rejoicing']	2
+30184	['tfw', 'enroute', 'future', '', '', 'hucjir', 'coming', 'ya', '#openhouse', '#futurecantor', '#exhilarating', '#nycletsgo']	2
+30185	['reinervshunter', 'got', 'this\uf499', '#staystrong', '#smile', '#yourebeautiful']	2
+30186	['thursday', 'means', 'greys', 'day', '#tgit', '']	2
+30187	['watch', 'amazing', 'lively', 'broadcast', 'brookebridges', '', '#musically']	2
+30188	['current', 'run', 'superman', 'continues', 'delight', 'can', 'feel', 'love', 'poured', 'everone', 'creative', 'team', '#superman']	2
+30189	['always', 'ready', '#smile']	2
+30190	['riding', 'night', 'got', 'one', 'exhilarating', 'refreshing', 'things', 'ever', 'done']	2
+30191	['lmboo', '', 'using', 'nephew', 'meme', '#hilarious']	2
+30192	['sszmata', 'pkessel81', 'blew', 'internet', 'chirp', 'lol', 'love']	2
+30193	['thinking', 'trying', 'comedy', 'youtube', 'always', 'fond', 'time', 'nut', '#laughter', '#comedy', '#maybeoneday', '#hopefullyfunny', '#lol']	2
+30194	['like', 'talking', 'someone', 'makes', 'laugh', 'laughter', 'best', 'medicine']	2
+30195	['lmboo', '', 'using', 'nephew', 'meme', '']	2
+30196	['loved', 'bethenny', 'independence', 'msg', 'wendywilliams', 'happy', 'amp', 'fulfilled', 'within', 'amp', 'positivity', 'will', 'flock', '#happy', '#independent']	2
+30197	['watch', 'amazing', 'lively', 'broadcast', 'katyymae', '#lively', '#musically']	2
+30198	['#personaldevelopmentnntoday', 'gift', 'called', 'present', '#happiness', '#optimism', '#entrepreneur', '#personaldevelopment', '…']	2
+30199	['bunk', 'ur', 'class', 'least', 'life', 'time', 'cuz', 'later', 'u', 'look', 'back', 'good', 'marks', 'will', 'make', 'u', 'happy', 'memories', 'will', '', '', '', 'apj']	2
+30200	['nikhilv95', 'lydiajanef', 'wish', 'really', 'truly', 'wish', 'just', 'modicum', 'banter', '#hilarious']	2
+30201	['watching', '#bacheloretteau', 'zoolander', '', '#hilarious', '#samvrhys']	2
+30202	['scdesc', 'yup', 'val', 'basically', 'ignoring', 'recipe', 'just', 'done', 'keep', 'bursting', 'laughter', 'x']	2
+30203	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '', '#optimism']	2
+30204	['fact', 'everyone', 'selling', 'kanye', 'tickets', 'buying', 'less', '50', 'unbelievably', 'hilarious']	2
+30205	['bradshawjp', 'sweet', '']	2
+30206	['showed', 'us', 'really', 'lively', 'performance', 'lot', 'different', 'emotions', 'just', 'sticking', 'one', 'freaking', 'awesome']	2
+30207	['nickofferman', 'wait', '#mirth']	2
+30208	['icon', 'pochamanhe', 'cute', 'easily', 'elated']	2
+30209	['crimpoop', 'adorable', 'cheerful', 'daughternalways', 'pouring', 'positivity', 'green', 'goo', 'mendare', 'hurt', 'see', 'growlsnn#pandabot']	2
+30210	['remember', 'life', 'blessing', '#god', 'make', 'joyful', 'experience', 'regardless', 'odds', 'gby']	2
+30211	['chrisrock', 'brings', 'back', 'great', 'memories', 'hilarity', '#saturdaynightlive']	2
+30212	['neighbor', 'dancing', 'clayton', 'homes', 'commercial', '#hilarious']	2
+30213	['pleasing', 'night', 'lane', '', '', '', '', '', '', 'next', 'round', 'amp', 'bring', 'liverpool', 'anfield', '#coys']	2
+30214	['albertbreer', 'jetswhispers', 'sure', 'switch', 'cable', 'news', '', 'cheery']	2
+30215	['simply', 'act', 'kindness', 'strength', 'optimism', 'today', 'will', 'best', 'day', 'ever', 'tarletonkine', 'drkaylapeak', 'jssimpson9']	2
+30216	['beingbrilliant', 'johnmurrays', 'welcome', 'genuinely', 'made', 'give', 'head', 'wobble', 'realise', 'important', 'life', '', '#smiling']	2
+30217	['liamch88', 'yeah', '', 'playing', '#optimism']	2
+30218	['just', 'started', 'watching', 'glee', 'week', 'now', 'addicted', '', '#glee', '#gleek']	2
+30219	['realkyper', 'nhl', 'watching', 'jubilant', 'scrum', 'end', 'day', 'remembering', 'still', 'kids', '#priceless']	2
+30220	['chirp', 'chirp', 'beautiful', 'white', 'red', 'bird', '']	2
+30221	['15', 'minutes', 'yoga', 'breakfast', 'routine', 'will', 'change', 'day', '#preparation', '#sunriseyoga', '#bodyawareness', '#health', '#yoga', '#smile', '#stretch']	2
+30222	['sydneyswans', '#cheer', '#cheer', '#red', '#white', 'now', '#grand', 'final', '#win', '#fight', 'thanks', 'jetstarairways']	2
+30223	['man', 'know', 'juggle', 'just', 'balls', 'itn', '#funny', '#pun', '#lol', '', '#punny']	2
+30224	['watch', 'amazing', 'lively', 'broadcast', 'iamjustinburke', '#lively', '#musically']	2
+30225	['deadlyjokester', 'let', 'playful', 'gasp', 'slowly', 'wrapped', 'arms', 'around', 'neck', 'kissing', 'back']	2
+30226	['ti', '', 'shawty', 'lo', 'beef', 'one', 'underrated', 'ones', 'hiphop', 'history', 'chockfull', 'wit', 'bravado', 'hilarity']	2
+30227	['just', 'popped', 'half', 'bottle', '2014', 'bellawines', '#sparkling', '#gamaynoir', 'westbank', 'evenin', 'folks', 'n#bcwinechat']	2
+30228	['omg', 'outside', 'making', 'beats', 'garageband', 'little', 'birds', '', 'decided', 'chirp', 'along', '（≧∇≦）']	2
+30229	['go', 'follow', 'musically', 'budderlordk1ng', 'making', 'lively', 'come', 'join', 'bffing', 'following', '', 'see']	2
+30230	['adamrodricks', 'like', 'optimism']	2
+30231	['ryan', 'gosling', 'eva', 'mendes', 'finally', '', '', 'b', 'joyful', 'funnydont', 'bossdont', 'arguedo', 'everything', 'kidsgo', 'mini', 'car', 'trips', 'focus', 'love']	2
+30232	['god', 'just', 'replaced', 'sadness', 'laughter', 'go', 'whole', 'day', 'sad', '']	2
+30233	['hearty', 'welcome', 'followed']	2
+30234	['ever', 'use', 'like', 'smiling', 'realized', 'good', 'teeth', 'look', '', 'witout', 'braces']	2
+30235	['saraandgreg', 'airbnb', 'another', 'happy', 'customer', '', '#secreteyes']	2
+30236	['just', 'heard', 'incredibly', 'transcendent', 'song', 'ever', 'amp', 'now', 'feel', 'high', 'amp', 'fucked', 'yet', 'joyful', 'amp', 'will', 'never']	2
+30237	['elinor', 'laughed', 'little', 'known', 'every', 'body', 'brilliant', 'cheerfulness', 'sweetmeats', 'fashion']	2
+30238	['geo', 'capable', 'cheering', 'up️️️']	2
+30239	['mericanmainer', 'aww', 'maine', 'coon', 'little', 'named', 'ted', 'eddy', 'wonder', 'cat', 'good', 'cats', 'playful', 'sweet']	2
+30240	['make', 'someone', 'happy', '']	2
+30241	['metro', 'lrt', 'went', 'walterdale', '', '#yeg', '']	2
+30242	['go', 'follow', '#beautiful', '#snowgang', 'amynicolehill12', '', '#princess', '#fitness', '#bodyposi', '#haircut', '#smile', '#whitegirlwednesday']	2
+30243	['felt', 'bit', 'shit', 'getting', 'high', 'blood', 'sugar', 'remembered', 'first', 'one', '15', 'week', 'incredible', '#happy']	2
+30244	['theecurrentyear', 'sargonofakkad', 'much', 'hilarity', 'one', 'day']	2
+30245	['veteran', 'just', 'totally', 'got', 'ticket', 'elated', 'right', 'now', 'close', 'call']	2
+30246	['violently', 'screams', 'four', 'winds', 'aint', 'ever', 'getting', 'older', 'cute', 'jovial', 'rhythm', 'starts', 'moves', 'hips', 'along', 'waves', 'arms', 'air']	2
+30247	['man', 'know', 'juggle', 'just', 'balls', 'n', '#funny', '#pun', '#punny', '#lol', '']	2
+30248	['something', 'v', 'satisfying', '', 'opening', 'old', 'dodoc', 'file', 'able', 'check', 'things', 'done', '']	2
+30249	['rojo', 'bad', 'hilarious']	2
+30250	['due', 'big', 'change', 'prayed', 'think', 'deserve', '#positivity', '']	2
+30251	['watch', 'amazing', 'lively', 'broadcast', 'kaylaaasartorious', '#lively', '#musically']	2
+30252	['harrystyles', 'hope', 'never', 'go', 'day', 'without', 'something', 'make', 'smile', 'deserve', 'good', 'things', 'please', 'follow', 'men️n311553']	2
+30253	['stfukohle', 'ok', 'champ', 'make', 'cheering', 'far']	2
+30254	['rojo', 'hilarious']	2
+30255	['playful', 'lol', 'need', 'somebody', 'thatll', 'joke', 'day', 'long', 'cause', 'never', 'get', 'tired']	2
+30256	['lfscott57', 'miss', 'cookie', 'sends', 'thanks', 'spry', 'used', '', 'like', 'adventures', 'young', 'pups']	2
+30257	['better', 'wetter', 'dry', '', 'rlevin91', 'certainly', 'found', 'hilarious', '#gbbo']	2
+30258	['man', 'know', 'juggle', 'just', 'balls', 'itn', '#funny', '#pun', '#punny', '', '#lol']	2
+30259	['ooh', '#hygge', 'candles', 'jasmine', 'tea', 'amp', '#gbbo', '#happy']	2
+30260	['my2k', 'aaa', 'cam', 'animated', 'proud', 'boy']	2
+30261	['safaridjh', 'aesthetically', 'pleasing', 'omg']	2
+30262	['#followback', 'quotesoup', 'happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '']	2
+30263	['peter', 'aesthetically', 'pleasing', 'look']	2
+30264	['loved', 'bethenny', 'independence', 'msg', 'wendywilliams', 'happy', 'amp', 'fulfilled', 'within', 'amp', 'positivity', 'will', 'flock', '', '#independent']	2
+30265	['thought', 'got', 'mad', 'anything', 'bf', 'gets', 'mad', 'little', 'thing', 'lmfao', 'shit', 'hilarious']	2
+30266	['kwayntjoia', 'exhilarating']	2
+30267	['happy', 'next', 'class', 'canceled', 'bcim', 'od', 'tired', '']	2
+30268	['optimism', 'leads', 'success', '', 'bill', 'kerr', 'coachkerr', '#success', '', '#goals']	2
+30269	['meant', '', '']	2
+30270	['#smile', '#respect', 'give', 'everyone']	2
+30271	['untill', 'today', 'anyone', 'ever', 'said', 'remember', '7', 'years', 'ago', 'met', 'n', 'liked', 'since', '#cutealert', '#happy']	2
+30272	['object', 'literature', 'make', 'man', 'wiser', 'happier', 'poet', 'makes', 'us', 'happy', 'tells', 'us', 'may', 'become']	2
+30273	['watching', 'avatar', 'wondering', 'took', 'long', 'watch', 'collapses', 'joyous', 'heap']	2
+30274	['duncm1981', 'pmallon72', 'risk', 'blocked', 'thought', 'video', 'wake', 'hilarious']	2
+30275	['want', 'smoky', 'clouds', 'laughter', 'swim', 'forever']	2
+30276	['cheery', 'ghost']	2
+30277	['watch', 'amazing', 'lively', 'broadcast', 'eliseawsome11', '#lively', '#musically']	2
+30278	['watch', 'amazing', 'lively', 'broadcast', 'footballrocks123456', '#lively', '#musically']	2
+30279	['watch', 'amazing', 'lively', 'broadcast', 'maisiev', '', '#musically']	2
+30280	['ajstylesorg', 'know', 'scripted', 'ego', 'maniac', 'elated', 'hear', 'devout', 'christian', 'like', 'phenomanal']	2
+30281	['alyankovic', 'really', 'wish', 'attend', 'show', 'rcmh', 'spirit', 'cheering', 'dudes', '']	2
+30282	['dubai92', 'try', 'asking', 'cheeseburger', 'onion', 'amp', 'mustard', '#mcdonalds', '#hilarious']	2
+30283	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', '#focusx10', '#motivation', '#motivationalquotes', '#quoteoftheday']	2
+30284	['watch', 'amazing', 'lively', 'broadcast', 'flydudern', '', '#musically']	2
+30285	['know', 'great', '#gbbo', '', 'contestants', 'helping', 'cheering', 'important']	2
+30286	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory']	2
+30287	['kymwhitley', 'hello', 'miss', 'lady', 'sure', 'today', 'brings', 'happiness', 'laughter', 'use', 'voice', 'also', 'make', 'us', 'laugh', '', 'god', 'knows', 'need']	2
+30288	['thank', 'twitter', 'balloons', 'today', '', '#goodday', '#48']	2
+30289	['loisjoannelane', 'wagging', 'tail', 'praise', 'paused', 'tilting', 'head', 'took', 'frisbee', 'letting', 'playful', '']	2
+30290	['kayaking', 'merriment', 'together', 'sevylor', 'inflatable', 'kayaks', 'eyggjxml']	2
+30291	['knowing', 'cook', 'invaluable', 'even', 'better', 'even', '400', 'sq', 'ft', 'place', 'wide', 'hearty', 'homestyle', 'egg', 'noodles']	2
+30292	['watch', 'amazing', 'lively', 'broadcast', 'footballrocks123456', '', '#musically']	2
+30293	['makes', 'successful', '#happy', 'now', 'forever']	2
+30294	['love', 'marys', 'undying', 'optimism', 'present', 'dog', 'shite', 'find', 'something', 'good', 'say', '#gbbo']	2
+30295	['use', 'smile', 'change', 'world', 'let', 'world', 'change', 'smile', '#quote', '#actorslife', '#smile', '#love', '#hardworkpaysoff', '#fun']	2
+30296	['#smile', 'every', 'morning', 'positive', 'head', 'start', '#clients', 'relations']	2
+30297	['moamali', 'awosss', 'arsenalman2011', 'listen', 'dnt', 'subscribe', 'team', 'coq', 'team', 'xhaka', 'stuff', 'like', 'players', 'depth', 'elated']	2
+30298	['watch', 'amazing', 'lively', 'broadcast', 'hannahmccloud', '#lively', '#musically']	2
+30299	['weather', 'breezy', 'man', 'life', 'always', 'easy']	2
+30300	['cheerfulness', 'good', 'temper', '', 'spent', 'remains']	2
+30301	['watch', 'amazing', 'lively', 'broadcast', 'mrgummyking', '#lively', '#musically']	2
+30302	['watch', 'amazing', 'lively', 'broadcast', 'rosannahill', '#lively', '#musically']	2
+30303	['recd', 'call', '2day', 'haitian', 'church', 'started', 'florida', '15yrs', 'ago', 'preparing', 'acquire', 'bldg', 'wanted', 'know', '#rejoicing']	2
+30304	['specific', 'joyous', '20', 'song', 'title', 'engiybhekayo', 'yasezayoni', 'need', 'le', 'mood']	2
+30305	['promise', 'restoration', 'nation', 'israeleverywhere', 'look', 'blessing', 'barnswine', 'overfloweverything', 'beautiful', '', '#dousee']	2
+30306	['look', 'forward', 'detours', 'bring', 'delightful', 'surprises', '#lifequote', '#delight']	2
+30307	['watch', 'amazing', 'lively', 'broadcast', 'paulzimmer', '#lively', '#musically']	2
+30308	['talk', 'mood', 'pickup', 'went', 'depressed', 'elated', 'fast']	2
+30309	['finn', 'singing', 'fight', 'feeling', 'shower', 'will', 'spying', 'one', 'best', 'scenes', 'show', '']	2
+30310	['nhlstorenyc', 'cheering', 'teamnawch', 'teameurwch', '#nhlnycsweepstakes']	2
+30311	['watch', 'amazing', 'lively', 'broadcast', 'evanhufferd', '#lively', '#musically']	2
+30312	['bradshawjp', 'sweet', '#optimism']	2
+30313	['finn', 'singing', 'fight', 'feeling', 'shower', 'will', 'spying', 'one', 'best', 'scenes', 'show', '#glee']	2
+30314	['tfw', 'enroute', 'future', '', '', 'hucjir', 'coming', 'ya', '#openhouse', '#futurecantor', '', '#nycletsgo']	2
+30315	['thursday', 'means', 'greys', 'day', '#tgit', '#rejoice']	2
+30316	['watch', 'amazing', 'lively', 'broadcast', 'kanablender', '', '#musically']	2
+30317	['ofcaldubqc', 'glad', 'gained', 'cheery', 'vibes', 'just', 'looking', 'happy', 'meal', '']	2
+30318	['found', '#marmite', 'australia', '', '']	2
+30319	['watch', 'amazing', 'lively', 'broadcast', 'huntermcaseyy', '', '#musically']	2
+30320	['5ftanomaly', 'aside', 'pleasing', 'individual', 'involved', 'pleasure', 'comes', 'pleasure']	2
+30321	['mustacheharbor', 'tiburonchamber', 'plus', 'hearty', 'pour', '#yachtrock', '#mustacheharbor', '']	2
+30322	['jaimescurr', 'team', 'world', 'totally', 'elated', 'get', 'xd']	2
+30323	['tonight', 'top', 'delight', 'skein', 'geese', 'flying', '1', 'foot', 'swam', '#windermere', 'breeze', 'dropped', 'amp', 'became', 'like', 'glass']	2
+30324	['—', 'reveal', 'broad', 'smile', 'nnyeah', 'nice', 'nnpursing', 'lips', 'stifled', 'joyous', 'expression', 'order', '—nnaviataube']	2
+30325	['the\xa0lord\xa0turn', 'face', 'toward', 'give', 'peace', 'numbers', '626', '#truth', '#trust', '#promise', '#calm', '#justice', '#great', '#mighty', '#protected', '#delight']	2
+30326	['watch', 'amazing', 'lively', 'broadcast', 'itsfinfin', '#lively', '#musically']	2
+30327	['watch', 'amazing', 'lively', 'broadcast', 'iamjustinburke', '', '#musically']	2
+30328	['rbrutti', '#happy', 'looking', '#couple', '']	2
+30329	['punchline', 'king', 'back', 'paedeezy', '', '#bright', 'city', 'lights']	2
+30330	['lawsonlynch', 'kinda', 'girl', 'pleasing', 'dick', 'right']	2
+30331	['catering', 'channels', 'height', 'technics', 'hearty', 'enjoyment', 'symptomatize', 'vrlfeyrn']	2
+30332	['watch', 'amazing', 'lively', 'broadcast', 'maisiev', '#lively', '#musically']	2
+30333	['fingers', 'slide', 'along', 'thighs', 'caressing', 'skin', 'leaning', 'first', 'lick', 'teasing', 'n', 'playful']	2
+30334	['doctorofinfo', 'just', 'introducing', 'little', 'levity', 'convo', 'yep']	2
+30335	['incindia', 'oh', 'please', 'inc', 'talking', 'looting', 'saying', '#bjp', 'pure', '#hilarious', '#irony', 'bjp4india', 'def', 'better']	2
+30336	['moment', 'found', 'smiling']	2
+30337	['globemartyk', 'drunken', 'patroons', 'make', 'whole', 'situation', 'much', 'jovial', 'though']	2
+30338	['watch', 'amazing', 'lively', 'broadcast', 'flydudern', '#lively', '#musically']	1
+30339	['persephoneod', 'cheerful', 'voice', 'echoed', 'grand', 'familiar', 'home', 'smile', 'blossoming', 'rosy', 'brims', 'mom', 'reciprocated', '']	1
+30340	['just', 'watched', 'django', 'unchained', 'people', 'may', 'frown', 'titter', 'delight', '25']	1
+30341	['future', 'must', 'bright', 'af']	1
+30342	['gave', 'playful', 'wink', 'taking', 'goggles', 'head', 'swinging', 'around', 'finger', 'never', 'verminengineer']	1
+30343	['watch', 'amazing', 'lively', 'broadcast', 'eliseawsome11', '', '#musically']	1
+30344	['live', 'simply', 'dream', 'big', 'grateful', 'give', 'love', 'laugh', 'lots', '', 'unknown', '#quote', '#inspiration', '']	1
+30345	['bright', 'side', 'music', 'theory', 'teacher', 'just', 'pocket', 'dabbed', 'said', 'know', 'hip', 'walked', 'away', '']	1
+30346	['watch', 'amazing', 'lively', 'broadcast', 'paulzimmer', '', '#musically']	1
+30347	['yoursecretsub1', 'trust', 'dear', 'want', 'make', 'anything', 'invisible', 'hang', 'wet', 'paint', 'hilarity', 'will', 'ensue']	1
+30348	['watch', 'amazing', 'lively', 'broadcast', 'swagrmanfan', '', '#musically']	1
+30349	['vacation', 'wise', 'egypt', 'offers', 'great', 'places', 'amazing', 'scenery', 'bright', 'skies', 'good', 'weather', 'good', 'affordable', 'price', 'students']	1
+30350	['gotta', 'hit', 'breezy', 'every', 'day', 'make', 'sure', 'breaking', 'boots', 'first', 'class', 'friend', 'right']	1
+30351	['watch', 'amazing', 'lively', 'broadcast', 'kaylaaasartorious', '', '#musically']	1
+30352	['15', 'minutes', 'yoga', 'breakfast', 'routine', 'will', 'change', 'day', '#preparation', '#sunriseyoga', '#bodyawareness', '#health', '#yoga', '', '#stretch']	1
+30353	['watch', 'amazing', 'lively', 'broadcast', 'jaredhorgan', '', '#musically']	1
+30354	['quotesoup', 'happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '#optimism']	1
+30355	['every', 'single', 'problem', 'ever', 'face', 'can', 'solved', 'nice', 'blend', 'patience', 'optimism']	1
+30356	['transitioning', 'new', 'job', 'hard', 'nothing', 'joyful', 'memories', 'previous', 'one', 'thanks', 'lifeteen', 'changing', 'life', '️']	1
+30357	['accept', 'challenges', 'may', 'feel', 'exhilaration', 'victorynntomiho', 'ipaglabanmo', 'tapingday2']	1
+30358	['battlesmitten', 'nnother', 'begin', 'telling', 'story', 'realized', 'making', 'attempt', 'cheering', 'sweet', '']	1
+30359	['time', 'go', 'hit', 'library', '', 'lovely', 'pile', 'book', 'reservations', 'collect', 'morning', '', '#books', '#reading']	1
+30360	['untill', 'today', 'anyone', 'ever', 'said', 'remember', '7', 'years', 'ago', 'met', 'n', 'liked', 'since', '#cutealert', '']	1
+30361	['coincidence', 'lacan', 'recorded', 'infants', 'jubilant', 'reactions', 'mirror', 'images', 'noise']	1
+30362	['happy', 'want', 'others', 'like', 'let', 'happiness', 'choice', 'life', 'pleasing', 'everybody']	1
+30363	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory']	1
+30364	['another', 'joyful', 'encounter', 'tribez', 'amp', 'castlez', 'just', 'met', 'mouchole', 'ogre', 'cook', 'want', 'know', 'download', 'game', 'find']	1
+30365	['bodwelljames', 'just', 'enliven', 'soul']	1
+30366	['nonpermissive', 'environment', 'also', 'called', 'battleground', '', '#milspeak', '#hilarious']	1
+30367	['samvirwin', 'fancy', 'never', 'put', 'also', 'vote', 'jaunty', 'angles', 'one', 'will', 'judge']	1
+30368	['sportinglifecan', 'keep', 'vest', 'sweater', 'pack', 'year', 'round', 'helps', 'chilly', 'mornings', 'breezy', 'mountain', 'tops', '#mysportinglife']	1
+30369	['bertgatti', 'much', 'cheer', 'see', '']	1
+30370	['watch', 'amazing', 'lively', 'broadcast', 'haythatjamile8', '', '#musically']	1
+30371	['man', 'know', 'juggle', 'just', 'balls', 'n#funny', '#pun', '#punny', '#lol', '#hilarious']	1
+30372	['kevinmenzel', 'annual', 'reminder', 'care', 'will', 'cheerfully', 'eat', 'anything', 'labeled']	1
+30373	['watch', 'amazing', 'lively', 'broadcast', 'huntermcaseyy', '#lively', '#musically']	1
+30374	['gypsydragoness', 'wrinkling', 'now', 'looks', 'like', 'name', 'starts', 'letter', 'g', 'eh', 'man', 'smiled', 'gave', 'hearty', '']	1
+30375	['watch', 'amazing', 'lively', 'broadcast', 'izzybuzy365', '#lively', '#musically']	1
+30376	['peterpanda', 'yes', 'bro', 'actually', 'breezy']	1
+30377	['', 'joyous', 'occasion', 'laughing', 'ostentatious', 'display', 'disrespect', 'bruce', 'just', 'scoffed', 'entire', 'scene', 'batman’s', '']	1
+30378	['robriggle', 'joelmchale', 'nflonfox', 'still', 'get', 'jimmy', 'garoppolo', 'head', 'almost', '3', 'weeks', 'thanks', 'lot', '']	1
+30379	['ardithaliti', 'gutted', 'loved', 'cheery', 'disposition']	1
+30380	['prof', 'suggest', 'pharrell', 'william', 'james', 'may', 'unlikely', 'dialogue', 'partners', 'plays', '#happy', 'video', '#wearecst']	1
+30381	['return', 'matt', 'damon', 'director', 'paul', 'greengrass', 'brings', 'back', 'exhilarating', 'rather', 'pofaced', 'entertainment', 'movie']	1
+30382	['thinking', 'trying', 'comedy', 'youtube', 'always', 'fond', 'time', 'nut', '', '#comedy', '#maybeoneday', '#hopefullyfunny', '#lol']	1
+30383	['claireblair27', 'see', 'michelle', 'cheery']	1
+30384	['watch', 'amazing', 'lively', 'broadcast', 'brookebridges', '#lively', '#musically']	1
+30385	['#lmfao', 'msnbc', 's', '#racepimp', 'tamron', 'hall', 'used', 'words', 'fscts', 'msnbc', 'sentence', '#hilarity', '#libtard', '#biasedmedia', '#neverhillary']	1
+30386	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', '', 'george', 's', 'patton']	1
+30387	['promise', 'restoration', 'nation', 'israeleverywhere', 'look', 'blessing', 'barnswine', 'overfloweverything', 'beautiful', '#joyful', '#dousee']	1
+30388	['biggerthanyuu', 'flushed', 'upon', 'hearing', 'feeling', 'reciprocated', 'elated', 'shove', 'right', 'arms', 'hug', 'tightly']	1
+30389	['just', 'started', 'watching', 'glee', 'week', 'now', 'addicted', '', '', '#gleek']	1
+30390	['aspire', 'vals', 'self', 'confidence', 'optimism', 'tbh', '', '#gbbo']	1
+30391	['can', 'depict', 'feel', 'right', 'now', 'feel', 'jubilant', 'yet', 'anxious', 'ordunno', 'seems', 'like', 'now', 'something', 'worth', 'wait', 'everyday']	1
+30392	['bijayjanandnits', 'just', 'treat', 'viewers', 'watch', 'u', 'janak', 'simply', 'treat', 'soul', 'mind', 'thoughts', '#hearty', 'respect', '']	1
+30393	['just', 'now', 'rejoicing', 'finally', 'won', 'match', 'draw', 'just', 'revealed', 'facing', 'city', 'next', 'life', 'sef']	1
+30394	['aimisyafiqahr', 'go', 'check', 'bf', 'give', 'u', 'strength', 'just', 'one', 'smile', '#topno1']	1
+30395	['charlotte', 'friend', 'just', 'climbed', 'top', 'windmill', 'think', 'view', 'easy', 'breezy', 'beautiful', 'playhollywoodu']	1
+30396	['omg', 'got', 'watch', 'new', 'series', 'uswow', 'best', 'tv', 'show', 'seen', 'long', 'timen', '#tears', '', '#moretears']	1
+30397	['watch', 'amazing', 'lively', 'broadcast', 'katyymae', '', '#musically']	1
+30398	['watch', 'amazing', 'lively', 'broadcast', 'hannahmccloud', '', '#musically']	1
+30399	['metro', 'lrt', 'went', 'walterdale', '', '#yeg', '#levity']	1
+30400	['dailymailceleb', 'kthopkins', 'katie', 'love', 'describe', 'normal', 'really', 'anything', '#hilarious', '#neverchange']	1
+30401	['watch', 'amazing', 'lively', 'broadcast', 'kanablender', '#lively', '#musically']	1
+30402	['tiburonchamber', 'plus', 'hearty', 'pour', '#yachtrock', '#mustacheharbor', '']	1
+30403	['u4uzoma', 'boss', 'see', 'someone', 'jovial', 'funny', 'tho', 'av', 'met', 'u', 'person']	1
+30404	['carysmithwriter', 'mariasavva', 'realrockandroll', 'least', 'known', 'band', 'world', 'glad', 'asked', '#muchlove', '']	1
+30405	['#talking', '#problems', 'greatest', '#addiction#break', '#habittalk', 'ur', '#joys#quote', '', '#problemsolving', '#behappy']	1
+30406	['nwautonate', 'nnshe', 'held', 'back', 'skull', 'smiling', 'kiss']	1
+30407	['watch', 'amazing', 'lively', 'broadcast', 'ittzdevin', '', '#musically']	1
+30408	['watch', 'amazing', 'lively', 'broadcast', 'mila', '#lively', '#musically']	1
+30409	['watch', 'amazing', 'lively', 'broadcast', 'swagrmanfan', '#lively', '#musically']	1
+30410	['#ukedchat', 'a4', 'just', 'go', 'outside', 'gym', 'hall', 'play', 'n#education', '#playful', '#learning']	1
+30411	['lively', 'amp', 'lovely', 'crumblepie15', 'buryprofs', 'dittobistro', '#buffnpolish']	1
+30412	['jessbr0ughton', 'shy', 'next', 'time', 'cheery', 'bunch', '', 'nnsam', 'x']	1
+30413	['insure', 'good', 'health', 'eat', 'lightly', 'breathe', 'deeply', 'live', 'moderately', 'cultivate', 'cheerfulness', 'maintain', 'interest', 'life']	1
+30414	['chr1smclaughlin', 'brilliant', 'lost', 'joyous', 'plot', 'us', 'year', 'admits', 'fan', 'now']	1
+30415	['medically', 'proven', 'laughter', 'effective', 'pain', 'killer']	1
+30416	['ashleynwinters', 'like', 'statement', 'love', 'optimism']	1
+30417	['got', 'new', 'pens', 'break', 'name', 'animated', 'series', 'draw', 'style', '']	1
+30418	['felt', 'bit', 'shit', 'getting', 'high', 'blood', 'sugar', 'remembered', 'first', 'one', '15', 'week', 'incredible', '']	1
+30419	['uklittlekitchen', 'defo', 'hearty', 'root', 'veg', 'gratin', 'nice', 'comfort', 'food', 'autumn', 'kicks']	1
+30420	['corsair', 'sparkling', 'looks', 'like', 'gay', 'vampire', '']	1
+30421	['yahweh', 'god', 'among', 'warrior', 'saves', 'will', 'rejoice', 'gladness']	1
+30422	['watch', 'amazing', 'lively', 'broadcast', 'jaredhorgan', '#lively', '#musically']	1
+30423	['always', 'emotionalhedge™', 'w', '#wpsnnim', 'elated', 'start', '', 'mentioned', 'tamu', '6']	1
+30424	['watch', 'amazing', 'lively', 'broadcast', 'thebrandonrobert', '', '#musically']	1
+30425	['watch', 'amazing', 'lively', 'broadcast', 'broitzmax', '#lively', '#musically']	1
+30426	['relive', 'vegas', 'heyday', 'rat', 'pack', 'tribute']	1
+30427	['wish', '#glee', 'version', 'shawnmendes', 'stitches', 'gleeonfox', '#gleekforever']	1
+30428	['fix', 'clever', 'ritual', 'make', 'feel', 'frolicsome']	1
+30429	['panda', 'eyed', 'jaunty', 'watching', 'jaws', 'late']	1
+30430	['watch', 'amazing', 'lively', 'broadcast', 'broitzmax', '', '#musically']	1
+30431	['cheerful', 'heart', 'unending', 'banquet\xa0proverbs', 'mishle', '1516']	1
+30432	['anyone', 'know', '#mariners', 'today', 'mood', 'seems', 'strangely', 'jubilant', 'meatloaf', 'says', '2', '3', 'aint', 'bad', 'unless', 'win', 'one']	1
+30433	['dailymailceleb', 'kthopkins', 'katie', 'love', 'describe', 'normal', 'really', 'anything', '', '#neverchange']	1
+30434	['friend', 'just', 'messaged', 'ugh', 'hungry', 'wait', 'breakfast', '#socialmedia', '#winewednesday', '', '#funny', '#laughing', '']	1
+30435	['quotesoup', 'happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '']	1
+30436	['repentance', 'trusting', 'christ', 'lowly', 'painful', 'also', 'joyous', 'peaceful', 'absolutely', 'glorious', '22']	1
+30437	['watch', 'amazing', 'lively', 'broadcast', 'brooksswaggysquad', '#lively', '#musically']	1
+30438	['aqpk', 'worse', 'expected', 'hilarious', 'one', 'will', 'even', 'remember']	1
+30439	['watch', 'amazing', 'lively', 'broadcast', 'mattboss', '#lively', '#musicallyjh']	1
+30440	['queen', 'bey', 'will', 'smiling', 'sixth', 'afternoon']	1
+30441	['carysmithwriter', 'mariasavva', 'realrockandroll', 'least', 'known', 'band', 'world', 'glad', 'asked', '#muchlove', '#hilarious']	1
+30442	['rapeseedoilfans', 'nwho', 'nose', 'scent', 'roses', 'wentnto', 'spot', 'orientnmummifiednin', 'rapeseed', 'oil', 'friedneating', 'drinking', 'amp', 'merriment']	1
+30443	['something', 'makes', 'excited', 'terrified', 'thrilled', 'nervous', 'elated', 'amp', 'like', 'kicked', 'guts', 'need', 'word']	1
+30444	['nekudere', 'oh', 'ok', 'yeah', 'felt', 'dumb', 'like', 'think', 'known', 'animated', 'least', 'lmao']	1
+30445	['lorialan1', 'seriously', 'digging', 'eyebrows', '']	1
+30446	['fulltimedevils', 'memphis', 'looking', 'bright', 'rojo', 'looking', 'like', 'rojo']	1
+30447	['espnlosangeles', 'best', 'segment', 'far', 'marcelluswiley', 'kdubblive', '', 'hilarity']	1
+30448	['taguchi', 'engineering', 'fashionable', 'hale', 'hearty', 'little', 'game', 'optimization', 'mqnaocu']	1
+30449	['watch', 'amazing', 'lively', 'broadcast', 'arbitraryvlog', '', '#musically']	1
+30450	['update', 'yet', 'hang', 'miselizajane', 'still', 'hopeful', '#optimism']	1
+30451	['aradsliff', 'know', 'nj', 'worst', 'purpose', '#laughter']	1
+30452	['zeth', 'voice', 'hit', 'target', 'n', 'holds', 'upside', 'cheering', 'towel']	1
+30453	['benefit', 'exhilaration', 'called', 'online', 'backing', 'jkuvmvqxy']	1
+30454	['optimism', 'leads', 'success', '', 'bill', 'kerr', 'coachkerr', '#success', '#optimism', '#goals']	1
+30455	['aphoticsanguine', '—but', 'little', 'playful', 'nnhe', 'hesitantly', 'pulls', 'away', 'just', 'enough', 'get', 'words', 'lips', 'brushing', 'against—']	1
+30456	['“when', 'give', 'cheerfully', 'accept', 'gratefully', 'everyone', 'blessed”―maya', 'angelou']	1
+30457	['lorialan1', 'seriously', 'digging', 'eyebrows', '#animated']	1
+30458	['taking', 'picture', 'awkward', 'smilenme', 'picture', 'day', 'awkward', 'smilenconclusion', 'stop', 'smiling', 'n', '#pictureday2016', '', '#ornot']	1
+30459	['#followback', 'quotesoup', 'happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '#optimism']	1
+30460	['watch', 'amazing', 'lively', 'broadcast', 'rosannahill', '', '#musically']	1
+30461	['assume', 'people', 'pick', 'joviality', 'coz', 'lol', 'lot', 'just', 'working', 'maybe', 'need', 'get', 'heavy', 'handed', 'emoticons', 'ha']	1
+30462	['lions', 'heartnwill', 'protect', 'stormy', 'skiesnand', 'will', 'always', 'listening', 'laughter', 'tears']	1
+30463	['lpdonovan', 'think', 'pre', 'prepped', 'debate', 'answers', 'potential', 'hilarity']	1
+30464	['watch', 'amazing', 'lively', 'broadcast', 'mila', '', '#musically']	1
+30465	['watch', 'amazing', 'lively', 'broadcast', 'mrgummyking', '', '#musically']	1
+30466	['follow', 'whether', 'ever', 'talked', 'hope', 'joyous', 'life', 'goodbye']	1
+30467	['whether', 'rejoicing', 'fighting', 'back', 'tears', 'god', 'wants', 'share', 'moment']	1
+30468	['watch', 'amazing', 'lively', 'broadcast', 'thebrandonrobert', '#lively', '#musically']	1
+30469	['watch', 'amazing', 'lively', 'broadcast', 'itsfinfin', '', '#musically']	1
+30470	['thetwattickla', 'nottrihanna', 'lol', 'sparkling', 'wine']	1
+30471	['dipstickdipper', 'nits', 'alright', 'said', 'cheerfully', 'trying', 'make', 'moment', 'fun']	1
+30472	['rosyiiph', 'glee', 'glee', 'glee', 'glee', 'glee', 'glee', 'lost', 'lost', 'lost', 'lowe', 'much']	1
+30473	['watch', 'amazing', 'lively', 'broadcast', 'evanhufferd', '', '#musically']	1
+30474	['watch', 'amazing', 'lively', 'broadcast', 'ittzdevin', '#lively', '#musically']	1
+30475	['#sparkling', 'cherebork', 'melissajoyrd', 'sarahkoszykrd', 'eat4performance', 'rustnutrition', 'jenhaugen']	1
+30476	['cheerful', 'sloth', 'annotated', 'old', 'books', 'good', 'man', 'gods', 'ended', 'evil']	1
+30477	['chenaidavid', 'easy', 'breezy', 'beautiful', 'rasta', 'mon']	1
+30478	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', 'george', 's', 'patton']	1
+30479	['give', 'cheerfully', 'accept', 'gratefully', 'everyone', 'blessedn»maya', 'angelounndrmayaangelou', '#rip', '#mayaangelou']	1
+30480	['human', 'race', 'one', 'really', 'effective', 'weapon', 'laughter', '', 'mark', 'twain']	1
+30481	['indiewire', 'cinemaeyehonors', '#waltzwithbashir', 'incredible', 'tho', 'think', '#animated', 'film', '#documentary', '#lebanon', 'war']	1
+30482	['good', 'thing', 'sick', 'coughing', 'like', 'ab', 'workout', 'maybe', 'abs', 'will', 'defined', 'time', 'better', '', '']	1
+30483	['oilersfansean', 'yup', 'feel', 'dirty', 'cheering']	1
+30484	['possible', 'magazines', 'put', 'versus', 'thy', 'joviality', 'conjunction', 'shower', 'quotient', 'sufficiently', 'bqavtja']	1
+30485	['just', 'like', 'right', 'way', 'pray', 'right', 'way', 'give', '', 'grudgingly', 'necessity', 'cheerfully', '#woficc']	1
+30486	['joshualenon', 'trust', 'know', 'appreciate', 'willingness', 'explain', 'details', 'attempt', 'levity', 'just', 'bobambrogi']	1
+30487	['check', '#film', 'robocoq', '301', '#animated', '#shortfilms']	1
+30488	['good', 'thing', 'sick', 'coughing', 'like', 'ab', 'workout', 'maybe', 'abs', 'will', 'defined', 'time', 'better', '', '#optimism']	1
+30489	['laundry', 'watching', '70s', 'show', 'bunch', 'strangers', '#happy', '#birthday', '#to', '#me']	1
+30490	['neighbor', 'dancing', 'clayton', 'homes', 'commercial', '']	1
+30491	['dktaylorwriter', 'thought', 'funny', 'maybe', 'coincidence', 'green', 'must', 'official', 'color', 'optimism']	1
+30492	['breaks', 'heart', 'seeing', 'people', 'upset', 'will', 'try', 'best', 'make', 'smile', 'cheer', '']	1
+30493	['buzzlightbeard2', 'love', 'honesty', 'best', 'policy', '#smile']	1
+30494	['philjame5', 'spokebros', 'wow', 'looks', 'bright']	1
+30495	['cheerfulness', 'good', 'temper', 'spent', 'remains', 'ralph', 'waldo', 'emerson']	1
+30496	['smoothkobra', 'heavy', '2', 'days', 'given', 'much', 'needed', 'levity', 'thanks', 'bro']	1
+30497	['never', 'make', '#decision', '#angry', 'never', 'make', '#promise', '#happy', '#wisewords']	1
+30498	['evening', 'forget', '#robinhoodhour', 'tonight', 'nn', '#bizitalk', '#bizhour', '#southyorkshire', '#mansfieldhour', '', '#sheffieldhour', '#nottshour']	1
+30499	['decent', 'sleep', 'makes', 'kurt', 'happy', 'soldier', 'spit', 'amp', 'polish', 'converse', 'men', 'chests', 'baseball', 'caps', 'jaunty', 'angle']	1
+30500	['#rejoice', 'following', 'statutes', 'one', 'rejoices', 'great', 'riches', 'psalm', '11914', '#thebible']	1
+30501	['“don’t', 'burn', 'keep', 'fueled', 'aflame', 'alert', 'servants', 'master', 'cheerfully', 'expectant', 'romans', '121112']	1
+30502	['laundry', 'watching', '70s', 'show', 'bunch', 'strangers', '', '#birthday', '#to', '#me']	1
+30503	['think', '2016', 'really', 'needs', 'round', 'cthulhu4america', 'vs', 'smod2016', 'twitter', 'debate', 'end', 'something', 'joyful', 'ya', 'know']	1
+30504	['saw', 'whose', 'countenance', 'expressed', 'mighty', 'rivers', 'monotonous', 'lively', 'conversation', 'took', 'care', 'various']	1
+30505	['really', 'hitting', 'flavors', 'sparkling', 'water', 'rap', 'know', 'tripping', 'half', 'french', 'spanish', 'flavors']	1
+30506	['twitter', 'font', 'endless', 'hilarity']	1
+30507	['tunaep', 'cheer', 'up️']	1
+30508	['maketh', '#barren', 'woman', 'keep', 'house', 'amp', '#joyful', 'mother', 'childrennpraise', 'ye', 'lordnpsa1139']	1
+30509	['watch', 'amazing', 'lively', 'broadcast', 'arbitraryvlog', '#lively', '#musically']	1
+30510	['peanutrd', 'melissajoyrd', 'sarahkoszykrd', 'eat4performance', 'rustnutrition', 'jenhaugen', '', 'hey', '#sparkling', 'word', 'just', 'picked', '4', 'biz', 'card']	1
+30511	['doubtcaspar', 'babe', '', 'remember', 'always', 'u', 'need', 'little', 'cheering', 'talk', 'ily', 'lots']	1
+30512	['hanknsno', 'ronaldkoeman', 'cheering', 'clapping', 'assume']	1
+30513	['decide', 'stop', 'afraid', 'just', 'stop', 'now', 'free', 'donn#brave', '#free', '#honest', '#healthy', '#happy', '#life', '#living', '#optimism', '#love']	1
+30514	['#arts', 'create', 'richness', 'amp', 'liveliness', 'society', 'continues', 'educational', 'amp', 'social', 'benefits', 'ends', 'economic']	1
+30515	['hey', 'u', 'never', 'know', 'channel', '4s', 'version', '#gbbo', 'might', 'actually', 'quite', 'good', 'adverts', 'end', 'world', '']	1
+30516	['melsey6', 'oh', 'good', 'girl', 'hope', 'cheerful']	1
+30517	['fault', 'observant', 'thought', '', '', 'sorry', '', '#wisdom', '#laughter', '#observingyou', '#allthetime', '#becareful', '']	1
+30518	['top', 'seed', 'johnson', 'chases', 'double', 'delight', 'tour', 'championship']	1
+30519	['incetown', 'age', '23', 'joyful', 'elevated', 'hope']	1
+30520	['88palouseriver', 'abc', 'nra', 'rejoice', 'everything', 'time', 'moron', 'taken', 'genetics', 'pool']	1
+30521	['delon03', 'can', 'least', 'just', 'walk', 'past', 'break', 'laughter']	1
+30522	['day', '3', '#harvest16', '', 'listening', 'sound', 'chopper', 'working', 'way', 'closer', 'home', 'mountaindairy', 'makes', '', '#farm365']	1
+30523	['might', 'pay', 'health', 'insurance', 'like', 'sparkling', 'water', 'brussels', 'sprouts', 'now', 'think', 'adult']	1
+30524	['cazualwear', 'scottinsc', 'looks', 'like', 'book', 'shaped', 'like', 'gun', '#optimism', '#itsagunalright']	1
+30525	['always', 'ready', '']	1
+30526	['point', 'living', 'optimist', 'foolish', 'enough', 'believe', 'best', 'yet', 'come', '', 'peter', 'ustinov', '', '#quote']	1
+30527	['intermit', 'animatedncaa', 'pittsburgh', 'vs', 'mississippi', 'sprightly', 'shiny', 'bbva', 'level', 'peg', 'varsity', 'football', 'telly', 'scra']	1
+30528	['turkish', 'exhilaration', '30', 'shade', 'irruptive', 'russian', 'visitors', 'twelvemonth', 'gobbler', 'nephalism']	1
+30529	['#thisisus', 'messed', 'mind', 'amp', 'now', 'anticipating', 'next', 'episode', '#apprehension', 'amp', '#delight', '#isthereahelplineforthis']	1
+30530	['now', 'back', 'wxpnfm', 'elated', 'record', 'mannequinpussy', 'fucking', 'shit', 'studio', 'evening']	1
+30531	['quarterback', 'wrecks', 'every', 'time', '#glee']	1
+30532	['cheerful', 'heart', 'good', 'medicine', 'crushed', 'spirit', 'dries', 'bones', 'wicked', 'man', 'accepts', 'bribe', 'secret', 'pervert', '', 'justice']	1
+30533	['watch', 'amazing', 'lively', 'broadcast', 'mattboss', '', '#musicallyjh']	1
+30534	['cheerful', 'heart', 'good', 'medicine', 'crushed', 'spirit', 'dries', 'bones', 'proverbs', '1722']	1
+30535	['thenotoriousmma', 'looking', 'like', 'mickeyrourkefp', 'heyday']	1
+30536	['see', 'hovering', 'block', 'button', 'today', 'much', 'glee']	1
+30537	['watching', '#bacheloretteau', 'zoolander', '', '', '#samvrhys']	1
+30538	['started', 'glee', 'beginning', 'n', 'crying', 'babies', 'love', 'children']	1
+30539	['decide', 'stop', 'afraid', 'just', 'stop', 'now', 'free', 'donn', '#brave', '#free', '#honest', '#healthy', '', '#life', '#living', '', '#love']	1
+30540	['#thisisus', 'messed', 'mind', 'amp', 'now', 'anticipating', 'next', 'episode', '#apprehension', 'amp', '', '#isthereahelplineforthis']	1
+30541	['find', 'way', 'top', '#glee']	0
+30542	['know', 'proactively', 'playful', 'want', 'press', 'boobs', 'face', 'tatenashi', 'saying', 'though', '3']	0
+30543	['lol', 'mention', 'pak', 'pm', 'even', 'speech', 'international', 'news', 'channel', 'pakis', 'rejoicing', 'world', 'stands']	0
+30544	['veggiesausage', 'happensu', 'will', 'ok', 'tomorrow', 'cheer', 'updont', 'give']	0
+30545	['update', 'yet', 'hang', 'miselizajane', 'still', 'hopeful', '']	0
+30546	['“the', 'essential', 'saltes', 'animals', 'may', 'benarkham’s', 'large', 'outfit', 'effects', 'heni', 'rejoice', 'continue', 'ye']	0
+30547	['warmneutrals', 'passenger', 'car', 'next', 'u', 'cheerfully', 'asks', 'cigarette', 'directions']	0
+30548	['etherealmystic', '', 'felt', 'like', 'control', '—', 'giving', 'much', 'selflessly', 'pleasing', 'groans', '']	0
+30549	['tchudhry', 'fasiranjha', 'lol', '', 'ur', 'caste', 'even', 'whole', 'village', 'dies', 'massali', 'like', 'chaudhry', 'cheer', 'massali', '']	0
+30550	['will', 'ever', 'get', 'nerve', 'quit', 'restaurant', '', 'find', 'tonite', 'glee']	0
+30551	['#rip30', 'heaven', 'rejoicing', 'gained', 'angel', 'keifer', 'family', 'prayers', '']	0
+30552	['danlanthier', 'exhilarating', 'hockey', 'still', 'russia', 'wins', 'regulation', 'reading', '#fuck']	0
+30553	['boss', 'likes', 'stand', 'office', 'amp', 'smile', 'like', 'shark', 'maliciously', 'gleeful', 'ask', 'secret', 'tell']	0
+30554	['cross', 'party', 'group', 'crofting', 'meeting', 'tonight', 'scotparl', 'suspect', 'going', 'lively', 'meeting']	0
+30555	['watch', 'amazing', 'lively', 'broadcast', 'brooksswaggysquad', '', '#musically']	0
+30556	['riggs', 'dumb', 'ass', 'lolol', '', '#lethalweapon']	0
+30557	['footballmcd', 'agreed', 'memphis', 'looks', 'lively', 'also']	0
+30558	['hey', 'nascar', 'fans', 'going', 'race', 'loudon', 'weekend', '', 'stop', 'new', 'day', 'diner', 'great', 'hearty', 'breakfast', 'go']	0
+30559	['coworker', 'look', 'phone', 'say', 'cheerfully', 'oh', 'look', 'kaps', 'getting', 'death', 'threats', 'now', '', 'goes', 'say', '49ers']	0
+30560	['hey', 'u', 'never', 'know', 'channel', '4s', 'version', '#gbbo', 'might', 'actually', 'quite', 'good', 'adverts', 'end', 'world', '#optimism']	0
+30561	['prospect', 'getting', 'choked', 'hot', 'daddy', 'tonight', 'sorta', 'cheering', 'also', 'kinda', 'just', 'wanna', 'watch', 'new', 'ahs', 'episode', 'lol']	0
+30562	['“set', 'goal', 'achieve', 'something', 'big', 'exhilarating', 'excites', 'amp', 'scares', 'time”', 'n―', '#bobproctor']	0
+30563	['zinabukvic', 'cheer']	0
+30564	['two', 'older', 'boys', 'elated', 'toddler', 'terrified', 'pics', 'poor', 'little', 'face', 'peeping', 'hole', 'basket']	0
+30565	['socalvalerie', 'one', 'apples', 'attempt', 'make', 'muslims', 'happy', '']	0
+30566	['tom', 'phillips', 'jovial', 'start', 'weeks', 'show', 'joe', 'strutting', 'video', 'package', 'quite', 'juxtaposition']	0
+30567	['bring', 'back', 'heyday', '#nominatebunkface']	0
+30568	['regular', 'cheerfulness', 'emotion', 'supper', 'give', 'ladies', 'soon', 'entirely']	0
+30569	['blake', 'lively', 'flawless']	0
+30570	['every', 'time', 'new', 'anthony', 'weiner', 'revelation', 'breaks', 'bill', 'clinton', 'says', 'prayer', 'thanks', 'textingdming', 'exist', 'heyday']	0
+30571	['finkowska', 'just', 'rejoice', 'get', 'paid']	0
+30572	['want', 'playful', 'relationshipnme', 'kicks', 'couch']	0
+30573	['#talking', '#problems', 'greatest', '#addictionnn#break', '#habitnntalk', 'ur', '#joysnn#quote', '#optimism', '#problemsolving', '#behappy']	0
+30574	['rewatching', 'glee', 'break', 'tears', '', '#glee']	0
+30575	['#food', '', '#деньги', '#smile', '', '', 'microsoftnetframework451fullplusbygora']	0
+30576	['tip', '5', 'worry', 'pleasing', 'everyone', '#titanwisdom']	0
+30577	['finkowska', 'pigletparker', 'happen', 'expect', 'thumbs', 'place', 'glee', 'interpreting', 'double', 'negative']	0
+30578	['go', 'follow', '#beautiful', '#snowgang', 'amynicolehill12', '', '#princess', '#fitness', '#bodyposi', '#haircut', '', '#whitegirlwednesday']	0
+30579	['devilligan', 'beautifully', 'sincere', 'balancing', 'act', 'grief', 'hilarity']	0
+30580	['allredmd', 'kerrycallen', 'thismanthispete', 'kirbys', 'black', 'panther', 'cool', 'animated', 'panel']	0
+30581	['bookselenaxxx', 'hustler', 'bookselenaxxx', 'hustler', 'nthat', 'hot', 'pussy', 'unappetizing', 'delight']	0
+30582	['cover', 'smile', 'maybe', 'itll', 'get', 'better']	0
+30583	['currently', 'listening', 'scottfoxonair', 'amp', 'katcallaghan', 'z1035toronto', 'podcasts', 'can', 'guys', 'please', 'move', '#yvr', '', '', '#missyou']	0
+30584	['fordays14', '', 'chewing', '#smile', '#arcdental', '#turlock']	0
+30585	['laudrup', 'evil', 'white', 'companions', 'rejoice']	0
+30586	['ukulele', 'bag', 'fallen', 'apart', '', 'welll', 'least', 'life', 'yet', '#joysnn#quote', '', '#problemsolving', '#behappy']	0
+30587	['johndotwhite', 'remember', 'heyday', 'ladies', 'range', 'age', 'say', 'mid30s', 'early', '70s']	0
+30588	['point', 'living', 'optimist', 'foolish', 'enough', 'believe', 'best', 'yet', 'come', '', 'peter', 'ustinov', '#optimism', '#quote']	0
+30589	['elenayip', 'random', 'guesses', 'potential', 'amelie', 'kenneth', '30', 'rock', 'ya', 'instead', 'tv', 'amp', 'maybe', 'w', 'optimism', 'lara', 'jean']	0
+30590	['sloantheotaku', 'betelgeusesloth', 'lively', 'dedicated', 'tenacious', 'regulusgreed', 'humbly', 'content', 'leygluttony', 'starving', 'hungry']	0
+30591	['tomstarling86', 'many', 'chances', 'show', 'can', 'looked', 'lively', 'good', 'shot', 'tipped', 'bar', 'end']	0
+30592	['gnrailuk', 'gonna', 'street', 'parties', 'lot', 'leave', 'spontaneous', 'rejoicing', 'clowns']	0
+30593	['iamnotatwit', 'lie', 'cut', '5', 'years', 'age', 'young', 'spry', 'hireable', 'hollywood', '#thegoldbergs']	0
+30594	['cohends', 'yell', 'bye', 'garbage', 'cheerfully']	0
+30595	['happened', 'breezy']	0
+30596	['love', 'cheerful', 'woman', 'storing', 'someone', 'elses', 'furniture', 'eternity', 'sold', 'now', '#granddesigns']	0
+30597	['•daysnhe', 'itching', 'fightitching', 'exhilaration', 'battle', 'almost', 'getting', 'defeated', 'adrenaline', 'pumping•nrojinhitto']	0
+30598	['the\xa0lord\xa0turn', 'face', 'toward', 'give', 'peace', 'numbers', '626', '#truth', '#trust', '#promise', '#calm', '#justice', '#great', '#mighty', '#protected', '']	0
+30599	['free', 'open', 'breezy', 'enjoy', 'things', 'get', 'better', 'get', 'used']	0
+30600	['lil', 'reminder', 'private', 'account', 'delight', 'shittalking', 'occasionally', 'nsfw', 'stuff', 'angryarchosaur']	0
+30601	['every', 'day', 'think', 'mind', 'will', 'pleasing', 'god', 'decision', 'making', 'way', 'react', 'treat', 'ppl', 'speak', 'pleasing', 'god']	0
+30602	['trying', 'loveee', 'somebody', 'just', 'wanna', 'love', 'somebody', 'right', 'now', 'guess', 'just', 'pleasing']	0
+30603	['follow', 'instagram', '107', '#love', '#tagsforlikes', '#tflers', '#tweegram', '#photooftheday', '#20likes', '#amazing', '#smile', '#follow4follow', '#like4like', '#look', '…']	0
+30604	['put', 'famous', 'dex', 'tweet', 'breezy', 'lol', 'chris', 'guy', 'dex', 'bitch', 'lmao', 'n', 'music', 'ass']	0
+30605	['athenian', 'mirth', 'order', 'day', 'honoured', 'gives', 'mirth', 'greatest', 'number', 'laws']	0
+30606	['birds', 'chirp', '', 'sun', 'shines', 'wind', 'chimes', 'chime', 'smile', 'face']	0
+30607	['rantking', 'just', 'adding', 'little', 'levity']	0
+30608	['fordays14', '', 'chewing', '', '#arcdental', '#turlock']	0
+30609	['merenthaprophet', '', 'hunter', 'way', 'content', 'joyous', 'simple', 'domestic', 'bliss', 'wait', 'word', 'truly', '']	0
+30610	['haye', 'optimism', 'lose', 'actually', 'compromise', 'p']	0
+30611	['misery', 'loves', 'company', 'church', 'place', 'finds', 'nonenpastor', 'kris', 'theobald', '#joy', '#rejoice']	0
+30612	['brightpigseo', 'brightpigseo', 'provide', 'dignified', 'professional', 'funerals', 'prices', 'families', 'can', 'afford', '#satisfied', 'clients', '#bright', 'pig']	0
+30613	['#talking', '#problems', 'greatest', '#addiction#break', '#habittalk', 'ur', '#joys#quote', '#optimism', '#problemsolving', '#behappy']	0
+30614	['#hate', 'going', 'doctor', 'many', 'levels', 'least', 'can', 'go', 'sleep', '#smile', 'just', 'watched', '#dwight', 'live', 'nation']	0
+30615	['truck', 'delight', 'delight', 'truck']	0
+30616	['blancalanka96', 'thought', 'itd', 'fun', 'fun', 'bright', 'side', 'fight', 'parking']	0
+30617	['miami', 'proficiency', 'like', 'pleasing', 'name', 'miami', 'beaches', 'pikxb']	0
+30618	['suavecitamay', 'sparkling', 'water', 'nice', 'know', 'tried', 'day']	0
+30619	['gatewaypundit', 'mostly', 'animated', 'audience', 'betgreen', 'sceen', 'folkthe', 'ones', 'need', 'air']	0
+30620	['todays', 'realisation', 'last', 'time', 'watch', 'swimming', 'lesson', 'cos', 'go', 'back', 'work', 'next', 'week', 'lead', 'joyous', 'bedtime', '#worstoneyet']	0
+30621	['pinterest', 'one', 'dessert', 'next', 'thing', 'know', 'pinning', 'make', '27', 'different', 'visually', 'pleasing', 'mouth', 'watering', 'never', 'gonna', 'make', 'sweets']	0
+30622	['worried', 'someday', 'yelling', 'kids', 'confused', 'serious', 'nnim', 'damn', 'playful']	0
+30623	['petespencer007', 'always', 'relentlessly', 'positive', 'constantly', 'cheerful', 'optimistic', 'disposition', 'starts', 'grate']	0
+30624	['mind', 'tag', 'along', 'asked', 'cheerfully', 'sweeping', 'lock', 'hair', 'behind', 'ear', 'want', 'see', 'really', 'got', '•', 'ditheringwizard']	0
+30625	['preprepare', 'direction', 'plays', 'hale', 'hearty', 'situation', 'childs', 'evolvement', 'cmmyd']	0
+30626	['time', 'ever', 'cheering', 'johnny']	0
+30627	['jackcurryyes', 'just', 'luckybad', 'pitchers#whateverelkracken', '#legit', '#future', '#bright', '#gottawearshades', '#letsgoyankees']	0
+30628	['playful', 'shit']	0
+30629	['final', 'night', 'shift', 'coming', '', 'miss', 'will', 'miss', 'work', 'pals', 'hysterical', 'laughter', 'gets', 'us', 'night']	0
+30630	['colmorrisdavis', 'rolling2', 'realdonaldtrump', 'pbump', 'jubilant', 'hear', 'word', 'probably', 'uses', 'secret', 'heard', 'loud']	0
+30631	['blackeyedsusie', 'aint', 'going', 'away', 'want', 'see', 'hurt', 'changing', 'heartsminds', 'really', 'option', '#optimism']	0
+30632	['love', 'dog', 'playful', 'really', 'just', 'scratched', 'face', 'flailing', 'paws', 'excitement', 'almost', 'tore', 'nose', 'ring']	0
+30633	['fillegrossiere', 'peasparsley', 'tombrodude', 'bobs', 'burgers', 'animated', 'show', 'maybe', 'bob', 'looks', 'like', 'cast', 'based', 'voice']	0
+30634	['take', 'strange', 'delight', 'seeing', 'mark', 'hughes', 'struggle']	0
+30635	['malyoung', 'angelicamcd', 'hope', 'now', 'see', 'levity', 'light', 'romance', 'happiness', 'come', 'stitch', 'abbys', 'way', 'long', 'hard', 'road']	0
+30636	['bright', 'side', 'youtube', 'heroes', 'leafy', 'will', 'finally', 'get', 'banned']	0
+30637	['despite', 'absolute', 'delight', 'children', 'feel', 'kitten', 'home', 'misery', 'husband', 'feel']	0
+30638	['colmjoconnor', 'heyday', 'afraid', 'expecting', '1st', 'baby', 'reckon', 'now', 'aged', '15', 'gulps', 'old', '']	0
+30639	['kmunie7', 'karanesch', 'helluva', 'lot', 'animated', 'actual', 'game', 'gtlt']	0
+30640	['backed', 'pats', '25', '1011', 'just', '#pleasing']	0
+30641	['backed', 'pats', '25', '1011', 'just', '']	0
+30642	['loading', 'mirth', 'trusted', 'websites', 'lkskqufke']	0
+30643	['foxtv', 'use', 'warblers', 'set', 'glee', 'bonesonfox', 'episode', 'acapella', 'college', 'kids']	0
+30644	['assured', 'eventual', 'destruction', 'interests', 'public', 'cheerfully', 'accept', 'sherlock', 'holmes']	0
+30645	['gkn', 'lively', 'mad', 'quick']	0
+30646	['adamcimmering', 'boro', 'os', 'give', 'stewards', 'good', 'work', 'chelsea', 'will', 'get', '8k', 'will', 'lively']	0
+30647	['jackcurryyes', 'just', 'luckybad', 'pitchers#whateverelkracken', '#legit', '#future', '', '#gottawearshades', '#letsgoyankees']	0
+30648	['mean', 'guess', 'mean', 'ones', 'treated', 'like', 'playful', 'want', 'support', 'yoosung', 'without', 'dating', '']	0
+30649	['method', 'thin', 'assault', 'corridor', 'thine', 'liveliness', 'chd']	0
+30650	['niceonewern', 'alottapain', 'gleesome', 'threesome']	0
+30651	['eachus', 'least', 'willing', 'discuss', 'better', 'keep', 'insults', 'light', 'occasional', 'levity', 'creative', 'bsing']	0
+30652	['flutterpolitely', 'heyday', '80s', 'go', 'either', 'way', 'writing', 'stronger', 'know', 'will', 'sacrificed', 'first']	0
+30653	['stack', 'porthole', 'way', 'heyday', 'worthy', 'faith', 'bullseye', 'transportation', 'services', 'mom']	0
+30654	['bet', 'dat', 'dog', 'eating', 'name', 'brand', 'cheerios', 'relate', 'eat', 'cheery', 'os']	0
+30655	['look', 'bright', 'side', 'found', 'use', 'rope', '#tipstosurviveapoweroutage']	0
+30656	['hoemanda69', 'wtf', 'tenacious', 'jubilant']	0
+30657	['dark', 'dense', 'exhilarating', 'come', 'finale', '#hellorhighwater', 'gripping', 'watch']	0
+30658	['wish', 'unlimited', 'glee', 'episodes', 'watch', 'forever', '#gleegoodbye']	0
+30659	['young', 'man', 'compiled', 'info', 'smiling', 'baby', 'mattress', 'created', 'new', 'evil']	0
+30660	['question', 'cheerleaders', 'ages', 'outnhow', 'make', 'senior', 'year', 'cheer', 'memorable']	0
+30661	['kdddd', 'drop', '1133', 'cheery']	0
+30662	['always', 'leads', 'kind', 'hilarity', 'average', 'people', 'will', 'never', 'experience', '', 'especially', 'breakups']	0
+30663	['hms', 'pinafore', 'timenni', 'need', 'mirth']	0
+30664	['orbsofjoy', 'plan', 'date', 'like', 'date', 'u', 'find', 'pleasing', 'smth', 'fuckignnn1010', 'child', 'will', 'grow', 'ten', 'ten']	0
+30665	['johnwintertweet', 'dudes', 'wanna', 'play', 'bass', 'buy', 'bass', 'rejoice']	0
+30666	['lennyabrahamson', 'may', 'send', 'copy', '#herothegreyhound', 'either', 'ebook', 'real', 'paper', 'one', 'boy', 'greyhound', '#smiles', '#tears', '']	0
+30667	['cnbcfastmoney', 'harwood', 'gleeful', 'new', 'numbers', 'bet', 'money', 'reportinglook', 'lose', 'ithillaryclinton', 'liarthiefscoundrel']	0
+30668	['assured', 'eventual', 'destruction', 'interests', 'public', 'cheerfully', 'accept', 'sherlock', 'holmes']	0
+30669	['mehnazt', 'melharder', 'live', 'life', 'devoid', 'mirth', 'come', 'think', 'enough', 'taco', 'bowls', 'life', 'either']	0
+30670	['watch', 'amazing', 'lively', 'broadcast', 'haythatjamile8', '#lively', '#musically']	0
+30671	['markslifer', 'actually', 'maybe', 'supposed', 'die', 'donation', 'saved', 'lives', '#optimism']	0
+30672	['jsa', 'switch', 'steve', 'carrell', 'put', 'kurt', 'glee', 'accurate']	0
+30673	['just', 'try', 'drown', 'gifts', 'someone', 'makes', 'truly', 'happy', 'without', 'materialistic', 'things']	0
+30674	['draw', 'scum', 'must', 'rubbing', 'hands', 'glee', 'typical', 'draw', 'woolwich', 'lot', '#jammygunnerscum']	0
+30675	['fans', 'wanted', 'man', 'utd', 'home', 'next', 'roundnare', 'cheering', 'northampton', 'man', 'utd', 'right', 'nown#lufc']	0
+30676	['flanneljedi', 'drink', 'watch', 'worst', 'way', 'cheer']	0
+30677	['sometimes', 'likes', 'ride', 'arround', 'peoples', 'shoulders', 'drop', 'unexpectedly', 'vents', 'doorjambs', 'like', 'big', 'gleeful', 'spider']	0
+30678	['crumpledlinen', 'chirp']	0
+30679	['find', 'way', 'top', '']	0
+30680	['cluck', 'cluck', 'cluck', 'wolf', 'wolf', 'wolf', '', 'chirp', 'chirp', 'chirp', 'ever', 'hear']	0
+30681	['lebatardshow', '#heyday', 'race', 'war', '2016']	0
+30682	['buzzlightbeard2', 'love', 'honesty', 'best', 'policy', '']	0
+30683	['listening', 'oblivion', 'score', 'drinking', 'coffee', 'researching', 'new', 'scifi', 'animated', 'project']	0
+30684	['lilymooregrant', 'u', 'used', 'chirp', 'drinking', 'u', 'hoe']	0
+30685	['cnn', 'amp', 'donlemon', 'must', 'rejoicing', 'ovet', '#charlotte', 'protests', 'n#northcarolina']	0
+30686	['342147', 'waxen', 'mirth', 'neeze', 'swearna', 'merrier', 'hour', 'never', 'wasted', 'theren#amndbots']	0
+30687	['sxmurbanview', 'karenhunter', 'cousinsyl', 'wrong', 'thisneeded', 'levity', 'recording']	0
+30688	['smiling', 'stress', '', '', '', '', '', '', '', '', '', '', '', '', '']	0
+30689	['honevbee', 'close', 'shots', 'ugly', 'mug', 'continue', 'talk', 'blaine', 'years', 'glee', 'dead']	0
+30690	['recd', 'call', '2day', 'haitian', 'church', 'started', 'florida', '15yrs', 'ago', 'preparing', 'acquire', 'bldg', 'wanted', 'know', '']	0
+30691	['just', 'suck', 'real', 'someone', 'try', 'exhilarate', 'every', 'ounce', 'see']	0
+30692	['positive', '#psychology', 'research', 'shows', 'salespeople', 'score', 'top', '10', '#optimism', '88', 'gt', 'sales', 'top', '10', 'pessimism']	0
+30693	['tend', 'sick', 'lord', 'christ', 'give', 'rest', 'weary', 'bless', 'dying', 'soothe', 'suffering', 'pity', 'afflicted', 'shield', 'joyous']	0
+30694	['never', 'make', '#decision', '#angry', 'never', 'make', '#promise', '', '#wisewords']	0
+30695	['nonpermissive', 'environment', 'also', 'called', 'battleground', '', '#milspeak', '']	0
+30696	['just', 'tweet', 'pictures', 'four', 'fictional', 'characters', 'describe', 'one', 'animated', 'character', 'sunshinessp411']	0
+30697	['israelradioguy', 'wearingwelcome', 'skipbaylesssux', 'u', 'blocking', 'diminish', 'hilarity', 'observationor', 'childlike', 'response']	0
+30698	['meanwhile', 'socalled', 'm’s', 'fans', 'sit', 'knitting', 'sleeping', 'sure', 'certainly', 'aren’t', 'cheering', 'like', 'teams', 'fans']	0
+30699	['musicfae15', 'grumbled', 'sat', 'atop', 'sushi', 'bar', 'stool', 'crossing', 'arms', 'defiantly', 'playful', 'gesture', 'though', 'gave', 'anyone', 'gt']	0
+30700	['one', 'time', 'saw', 'rachel', 'glee', 'tell', 'someone', 'job', 'pole', 'said', '5th', 'grade', 'boy', 'look', 'confused']	0
+30701	['dubai92', 'try', 'asking', 'cheeseburger', 'onion', 'amp', 'mustard', '#mcdonalds', '']	0
+30702	['fee', 'otherwise', 'tricks', 'palm', 'oil', 'delegation', 'mt', 'jaunty', 'resident', 'tzxchldaq']	0
+30703	['thebarmyarmy', 'optimism']	0
+30704	['bounty', 'hunter', 'things', 'bit', 'lively']	0
+30705	['spottedh0rse', 'spry', 'though']	0
+30706	['mirana', 'told', 'shut', 'singing', 'along', 'glee']	0
+30707	['quarterback', 'wrecks', 'every', 'time', '']	0
+30708	['former', 'diplomat', 'quite', 'gleeful', 'situation', 'pakistan', 'timesnownnot', 'quite', 'stiff', 'upper', 'lip', 'diplomacy', 'seen', 'normally']	0
+30709	['ryanwilson2015', 'compatibility', 'key', 'lowers', 'hedonic', 'volatility']	0
+30710	['halfway', 'work', 'realize', 'forgot', 'put', 'underwearits', 'going', 'one', 'days', '#mombrain', '#toomuchgoingon', '#longday', '#breezy']	0
+30711	['god', 'facebooks', 'design', 'started', 'remind', 'myspace', 'heyday']	0
+30712	['halfway', 'work', 'realize', 'forgot', 'put', 'underwearits', 'going', 'one', 'days', '#mombrain', '#toomuchgoingon', '#longday', '']	0
+30713	['three', 'days', 'month', 'two', 'ex', 'wives', 'home', 'worse', 'know', '#oilandgas', '#optimism']	0
+30714	['engrnabeeel', 'rejoicing', 'now', 'lil', 'bit', 'prematured', 'think']	0
+30715	['breezy', 'today', 'go', 'back', 'school', 'night', 'bare', 'legs', 'like', 'day']	0
+30716	['jellzybean', 'cheer', 'punkin']	0
+30717	['apkrawczynski', '', '', 'possibly', 'kg', 'bought', 'player', 'can', 'buy', 'glen', 'minority', 'owner', '']	0
+30718	['saw', 'dreams', 'dashed', 'ampamp', 'divided', 'like', 'million', 'stars', 'night', 'sky', 'wished', 'ampamp', '', 'sparkling', 'ampamp', 'broken']	0
+30719	['educatednpetty', 'white', 'pricks', 'laughing', 'use', 'language', 'crying', 'coffin', 'rejoicing', 'another']	0
+30720	['light', 'day', 'per', 'heyday', 'popularization', 'backfire', 'cinematography', 'xucqb']	0
+30721	['peachkellipop', 'whole', 'thread', 'jovial', 'fun', 'comment', 'like', 'full', 'misogyny']	0
+30722	['nikhilv95', 'lydiajanef', 'wish', 'really', 'truly', 'wish', 'just', 'modicum', 'banter', '']	0
+30723	['markslifer', 'actually', 'maybe', 'supposed', 'die', 'donation', 'saved', 'lives', '']	0
+30724	['misery', 'loves', 'company', 'church', 'place', 'finds', 'nonenpastor', 'kris', 'theobald', '#joy', '']	0
+30725	['spacekatgal', 'outmagazine', 'okay', 'trans', 'just', 'rejoice', 'trans', 'trans', 'way', 'way', 'business', 'care']	0
+30726	['berniedole', 'looks', 'way', 'think', 'rohan', 'last', 'week', '', '#optimism']	0
+30727	['1201', 'tumblr', 'became', 'sentient', '102', 'tumblr', 'posted', 'gn', 'animated', 'gif', '1203', 'tumblr', 'shipped']	0
+30728	['#lmfao', 'msnbc', 's', '#racepimp', 'tamron', 'hall', 'used', 'words', 'fscts', 'msnbc', 'sentence', '', '#libtard', '#biasedmedia', '#neverhillary']	0
+30729	['research', 'determined', '70', '#laughter', 'actually', '#anxiety']	0
+30730	['nebulajoker', 'episodes', 'animated', 'week', 'air']	0
+30731	['iyaycruz', 'see', 'chirp']	0
+30732	['val', 'far', 'cheery', 'liking', '']	0
+30733	['pity', '', '#lively']	0
+30734	['rewatching', 'glee', 'break', 'tears', '', '']	0
+30735	['anyone', 'remember', 'movie', 'animated', 'late', '70s', 'called', 'shame', 'jungle', 'john', 'bulushi', 'wild', 'taste']	0
+30736	['itwontcostmuch', 'bed', 'done', 'floor', 'will', 'done', 'last', 'curtains', 'ahah', 'tried', 'sound', 'happy', 'cheery', 'really']	0
+30737	['weebtard', 'sparkling', 'water', 'wyd']	0
+30738	['#house', 'longer', 'echoes', '#laughter', 'light', '#memories', '#home', 'sit', 'cold', '#waiting', '#amwriting', '#nostalgia']	0
+30739	['blackeyedsusie', 'aint', 'going', 'away', 'want', 'see', 'hurt', 'changing', 'heartsminds', 'really', 'option', '']	0
+30740	['#onesimplechange', 'drink', 'sparkling', 'water', 'instead', 'soft', 'drinks', 'steer', 'clear', 'fructose', 'still', 'getting', 'refreshing', 'carbonation', 'kick']	0
+30741	['dear', 'everyone', 'hssu', 'stop', 'walking', 'phones', 'can', 'smile', 'wave', 'can', 'smile', 'wave', 'back', '']	0
+30742	['srpt', 'etep', 'patients', 'amp', 'moms', 'advocate', 'drug', 'work', 'anyone', 'listen', 'etep', 'mds', '', 'adcomm', 'elated']	0
+30743	['gas', 'prices', 'hilarious', 'cause', 'simultaneously', 'super', 'subsidised', 'taxed']	0
+30744	['potus', 'obama', 'describes', 'temperament', 'steady', 'amp', 'buoyant', 'side']	0
+30745	['early', 'morning', 'cheerfulness', 'can', 'extremely', 'obnoxious', '#aldub62ndweeksary']	0
+30746	['check', '#film', 'robocoq', '301', '', '#shortfilms']	0
+30747	['rap', 'will', 'cut', 'rapers', 'throat', 'said', 'paedeezy', '#badd', '#wicked', '#bright', 'city', 'lights']	0
+30748	['actually', 'chooses', 'drink', 'sparkling', 'water', '']	0
+30749	['f', 'breezy']	0
+30750	['bearing', 'asshole', 'made', 'sexually', 'attacked', 'animated', 'bear', 'p']	0
+30751	['hey', 'applesupport', 'nice', '“click', 'pause”', '“pause', 'window', 'inactive”', 'animated', 'gifs', 'macos', 'messages', 'app']	0
+30752	['cazualwear', 'scottinsc', 'looks', 'like', 'book', 'shaped', 'like', 'gun', '', '#itsagunalright']	0
+30753	['haters', 'like', 'crickets', 'chirp', 'day', 'walk', 'past', 'shut', 'fuck', 'dritadavanzo', 'idol']	0
+30754	['thedemocrats', 'dilemma', 'blaiming', 'everything', 'bushes', 'acting', 'gleeful', 'endorsement', '#election2016', '#trump']	0
+30755	['rubeseatsinfo', 'short', 'step', 'biweekly', 'community', 'meetings', 'hearty', 'meal', 'soy', 'flakes']	0
+30756	['joyful', 'tambourines', 'ceased', 'noise', 'jubilant', 'stopped', 'joyful', 'lyre', 'ceased', 'isaiah', '248']	0
+30757	['noah', 'fence', 'want', 'harley', 'quinn', 'blake', 'lively', 'layout']	0
+30758	['truly', 'believe', 'heart', 'right', 'now', 'satan', 'rejoicing', 'one', 'another']	0
+30759	['gloriosa', 'bazigaga', '#rwanda', 'work', 'lost', 'relatives', 'genocide', '15', 'yrs', 'peacebuilding', 'given', 'optimism', 'within', 'power']	0
+30760	['hillaryclinton', 'see', 'gleeful', 'look', 'realdonaldtrump', 's', 'face', 'criminal', 'don', 'king', 'used', 'n', 'word', 'denigrate', 'blacks']	0
+30761	['thevulcansalute', '', 'just', 'saw', 'save', 'day', 'psa', 'obvious', 'tears', 'thought', 'cheerful', 'self']	0
+30762	['cheering', 'na', 'team', 'now', 'just', 'want', 'gaudreau', 'comes', 'back', 'one', 'piece', 'getting', 'way', 'risky']	0
+30763	['alphavenger', 'chuck', 'seasons', 'one', 'bright', 'spot', 'dan', 'allowed', 'smart', 'kind', 'fashionable']	0
+30764	['bbeautifulsoul', 'u', 'always', 'gotta', 'attitude', 'tho', '', '', 'cheer']	0
+30765	['oh', 'cheery', 'fucking', 'note', 'good', 'night', 'shit', 'heads', 'x']	0
+30766	['categ', 'gen', 'ampobc', 'cost', '100', 'nill', 'reservation', 'support', 'itsir', 'minimize', 'fees', '#bright', 'fut', 'pmoindia']	0
+30767	['clvlndk8', 'sad', 'always', 'optimism', 'new', 'year', 'isnot', 'good', 'buckshotbandit1', 'dapostrophearcy']	0
+30768	['shanghais', 'chief', 'distracting', 'levity', 'pampa', '', 'proper', 'dingle', 'carry', 'away', 'uudqujcia']	0
+30769	['govph', 'like', 'know', 'source', 'presidents', 'optimism', 'running', 'country', 'wonder', 'can', 'answer', 'curiosity']	0
+30770	['unixware', 'skydrivecokie', 'hearty', 'exactment', 'blame', 'online', 'hephxho']	0
+30771	['dayo', 'yall', 'feel', 'bad', 'rejoicing', 'itnis', 'always', '#coltsnation', 'even', '6th', 'string', 'dbs', 'playing', '']	0
+30772	['harking', 'back', '2012', '', 'dts', 'challenge', 'potusi', 'will', 'givedt', 'hearty', 'thank', 'youif', 'will', 'release', 'tax', 'returns']	0
+30773	['much', 'news', 'pakistan', 'afghanistan', 'etc', 'need', 'cheery', 'news', 'frybread', 'stands', 'everyone', 'media', 'just', 'grim']	0
+30774	['remember', 'glee', 'take', 'leave', 'cover', 'two', 'girls', 'even', 'friends']	0
+30775	['need', 'bit', '#gbbo', 'cheer', 'terrible', 'day']	0
+30776	['logically', 'speaking', 'worst', 'ever', 'felt', 'even', 'passing', 'will', 'still', 'joyous', 'occasion']	0
+30777	['hate', 'try', 'playful', 'get', 'shut', 'lol', 'serious']	0
+30778	['photographer', 'portrait', 'shooting', 'mode', 'iphone', '7', 'plus', 'going', 'frustrate', '75', 'time', 'delight', '25', 'time']	0
+30779	['apparently', 'money', 'world', 'buy', 'single', 'person', 'tell', 'give', 'waist', 'hearty', 'twohanded', 'pinch', 'onstage']	0
+30780	['people', 'always', 'tell', 'expect', 'anxiety', 'generally', 'cheerful', 'act', 'way', 'expect']	0
+30781	['inquiries', 'alleged', 'abuses', 'uk', 'troops', 'afghanistan', 'iraq', 'data', 'suggesting', 'buoyant', 'postbrexit', 'economy', 'makes', 'front', 'pages']	0
+30782	['pinky', 'funny', 'n', 'jovial', 'bt', 'got', 'emotional', 'n', 'just', 'brought', '2', 'tears', 'felt', 'bad', '#ishqbaaaz']	0
+30783	['faithstrust', 'theecurrentyear', 'imagine', 'stupid', 'trying', 'chirp', 'racist', 'prick']	0
+30784	['wonder', 'gleeful', 'dumb', 'af', 'see', 'world', 'rose', 'tinted', 'glasses']	0
+30785	['sparkling', 'still', '#terribledebatequestions']	0
+30786	['life', 'iznt', 'pleasing', 'othersnn#hell', '#with', '#pleasing']	0
+30787	['debutemma', 'sit', 'take', 'u', 'spry', 'young', 'children']	0
+30788	['smile', 'say', 'love', 'love']	0
+30789	['iamglenn35', 'forth', 'character', 'gleeful', 'enough']	0
+30790	['emilyycos', '26', 'last', 'night', '2am', 'watched', 'balls', 'animated', 'bounce', '20', 'minutes', 'figuring', 'wrong']	0
+30791	['meet', 'new', 'people', 'grow', 'reality', 'people', 'can', 'desgusting', 'fake', 'lost', 'cheerfulness', 'started']	0
+30792	['feelings', 'got', 'cheated', 'mistook', 'sparkling', 'ribena', 'normal', 'ribena']	0
+30793	['davidgarrett', 'quite', 'saddenedno', 'us', 'dates', 'joyous', 'anticipation', 'attending', 'dg', 'concert', 'since', '2014', 'happy', 'keeping', 'busy']	0
+30794	['aradsliff', 'know', 'nj', 'worst', 'purpose', '']	0
+30795	['turns', 'even', 'anything', 'concerned', 'happy', 'bit', 'frustrated', 'took', 'long', 'get', 'answer']	0
+30796	['berniedole', 'looks', 'way', 'think', 'rohan', 'last', 'week', '', '']	0
+30797	['half', 'day', 'tuhday', 'nah', 'glee', '']	0
+30798	['three', 'days', 'month', 'two', 'ex', 'wives', 'home', 'worse', 'know', '#oilandgas', '']	0
+30799	['laurenbrierley2', 'sparkling', 'water', '', 'death']	0
+30800	['birds', 'begin', 'chirp', 'try', 'sleep', '#jetlag']	0
+30801	['u', 'talk', '2', 'ask', 'r', 'things', 'just', '2', 'get', '2', 'say', 'something', 'u', 'want', '4give', 'elated', '2', 'start', 'conversation', 'u']	0
+30802	['wanted', 'get', 'cake', 'sparkling', 'candles', 'like', 'cake', 'ruins', 'everything']	0
+30803	['adsbyflaherty', 'cheerfully', 'defending', 'group', 'unchecked', 'armed', 'thugs', 'whove', 'shown', 'history', 'racism', 'violence', 'lies']	0
+30804	['sometimes', 'watch', 'shitty', 'tv', 'reinforce', 'never', 'giving', 'cuz', 'something', 'fucking', 'awful', 'tv', 'still', 'stand', 'chance', '#optimism']	0
+30805	['onision', 'eugeniacooney', 'annoyed', 'good', 'loving', 'fans', 'onision', 'including', 'really', 'annoyed', 'people', 'just', 'cheerful']	0
+30806	['jovial', 'trump', 'ass', 'don', 'king', 'just', 'publicly', 'told', 'crowd', 'need', 'will', 'always', 'nigger', '', '#fucktrump']	0
+30807	['glee', 'filled', 'normy', 'dry', 'humping', 'recent', 'high', 'profile', 'celebrity', 'break', 'pathetic', 'amp', 'wrong', 'world', 'today']	0
+30808	['torbalan', 'still', 'shred', 'optimism', 'rapidly', 'disappearing', 'however']	0
+30809	['studying', 'phases', 'oscillation', 'jovial', '']	0
+30810	['maxvenator', 'foreign', 'policy', 'goofy', 'secretary', 'state', 'john', 'kerry', 'devil', 'may', 'care', 'pose', 'jaunty', 'blue', 'scarf']	0
+30811	['fucking', 'bright', 'amp', 'fucking', 'hot', 'outside']	0
+30812	['quinns', 'short', 'hair', 'makes', 'sad', '']	0
+30813	['pity', '', '']	0
+30814	['sometimes', 'watch', 'shitty', 'tv', 'reinforce', 'never', 'giving', 'cuz', 'something', 'fucking', 'awful', 'tv', 'still', 'stand', 'chance', '']	0
+30815	['abysmal', 'ignorance', 'frivolity', 'levity', 'italian', 'priests', 'stupefied', '', 'roland', 'bainton', 'luther', '#reformationday']	0
+30816	['senjohnmccain', 'wsj', 'honorable', 'senator', 'cheering', 'cease', 'fire', 'hold', 'people', 'die', 'cheer', 'genocide', 'support', 'good']	0
+30817	['seriously', 'marksandspencer', 'sick', 'grumpy', 'thing', 'gonna', 'cheer', 'ordering', 'xmas', 'food', 'going', '']	0
+30818	['just', 'lack', 'company', 'liveliness', 'makes', 'bored']	0
+30819	['quinns', 'short', 'hair', 'makes', 'sad', '#glee']	0
+30820	['hate', 'overthinking', 'e', 'v', 'e', 'r', 'y', 't', 'h', 'n', 'g', 'like', 'jus', 'wanna', 'happy', 'pls']	0
+30821	['people', 'cheer', 'sports', 'teams', 'completely', 'outside', 'new', 'jersey', 'pa', 'piss']	0
+30822	['damnpatriot', 'pos', 'rejoicing', 'someones', 'death']	0
+30823	['theclobra', 'lol', 'thought', 'maybe', 'decide', 'levity']	0
+30824	['nawaz', 'sharif', 'getting', 'funnier', 'kapilsharmak9', 'day', 'day', '#laughter', '#challenge', '#kashmir', '#baloch']	3
+30825	['nawaz', 'sharif', 'getting', 'funnier', 'kapilsharmak9', 'day', 'day', '', '#challenge', '#kashmir', '#baloch']	2
+30826	['tomderivan73', 'just', 'people', 'watch', 'enjoy', 'rare', 'show', 'optimism']	1
+30827	['love', 'family', 'much', '#lucky', '#grateful', '#smartassfamily', '', '#love']	3
+30828	['love', 'family', 'much', '#lucky', '#grateful', '#smartassfamily', '#hilarious', '#love']	3
+30829	['casper10666', 'assure', 'laughter', 'increasing', 'anger', 'costs', 'arrogance', 'westminster']	0
+30830	['trump', 'supporters', 'hillary', 'haters', 'wanna', 'chirp', 'weak', 'minded', 'pandering', 'liberals', 'just', 'tweet', 'emmya2', 'snickerfritz04']	0
+30831	['google', 'caffeinean', 'sprightly', 'lengthening', 'corridor', 're', 'seo', 'wgj']	0
+30832	['tweet', 'dedicated', 'back', 'pain', 'understand', 'youthful', 'spry', 'full', 'life', 'vivacious']	0
+30833	['bluebelle89', 'lsmith855', 'liking', 'optimism']	2
+30834	['rainy', 'day', 'cheerful', 'sunshine', 'prussian', 'want', 'nothing', 'prussian']	0
+30835	['gronnhair', 'buryprofs', 'dittobistro', 'indeed', 'lovely', 'team', 'incredibly', 'attentive', 'ball', 'cheese', 'lively', 'gesture']	2
+30836	['geminiak', 'londonnpc', 'welcome', '#wordgeek', 'nalso', 'good', 'put', 'face', 'twitter', 'feed', 'even', 'cheery', 'hello', '']	2
+30837	['age', 'heyday', 'blood', 'tame', 'theartofcharm', '#shakespeareaninsults', '#hamlet', '#elizabethan', '#williamshakespeare']	0
+30838	['embarrassed', 'saw', 'us', 'like', 'knvfkkjg', 'thinks', 'stalkers', 'n', 'starts', 'waving', 'cheerfully', 'inviting', 'us', '']	0
+30839	['good', '#cx', 'often', 'require', 'much', '#smile', '#care', '#relate', '#helpful', 'thanks', 'lakis', 'court', 'hotel', '#cyprus']	2
+30840	['42', 'canada', 'final', 'tomorrow', '#wch', '#predictions', '#optimism', '#canadian', '']	1
+30841	['turn', '25', 'two', 'weeks', 'happy', '24', 'darkest', 'year', 'yet', 'elated', 'survived']	3
+30842	['thenicebot', 'indymn', 'thought', 'holidays', 'get', 'cheerful', 'met', '#thenicebot', '#الخفجي']	3
+30843	['smell', 'freshly', 'cut', 'grass', 'even', 'cheer', 'upboy', 'oh', 'boy']	0
+30844	['nateblol', 'clear', 'american', 'naturally', 'flavored', 'sparkling', 'water']	0
+30845	['cheerful', 'heart', 'good', 'medicine', 'broken', 'spirit', 'saps', 'persons', 'strength', 'proverbs', '1722', '#wednesdaywisdom']	0
+30846	['somebody', 'braved', 'storm', 'brewing', '#cheerful']	1
+30847	['somebody', 'braved', 'storm', 'brewing', '']	0
+30848	['ready', 'nice', 'breezy', 'calm', 'sunshine', 'weather', '#autumn']	2
+30849	['gets', 'better', 'without', 'explanation', 'just', 'wake', 'one', 'morning', 'you’re', 'just', 'happy', 'totally', 'utterly', 'elated']	3
+30850	['imagine', 'sad', 'la', 'fans', 'gona', 'get', 'eliminatedman', 'gonna', 'nirvana', 'religious', 'experience', 'rejoicing', 'misery']	0
+30851	['heather', '#hilarious', 'msheatherbates', 'pattonoswalt', 'chrishansen', '#anthonyweiner', '#15gets20', '#nyc']	3
+30852	['val', 'reminds', 'one', 'cheerful', 'witches', 'looks', 'aurora', 'disney’s', 'sleeping', 'beauty', '#gbbo']	1
+30853	['gamegrumps', 'thank', 'much', 'coming', 'detroit', 'going', 'sob', 'joyful', 'rainbows', 'now', 'brb']	3
+30854	['far', 'greet', 'raised', '£250', 'hgatchristmas', 'come', '#sparkling', 'cllrjohnfox', 'simoncotton69']	2
+30855	['day', 'make', '#goals', '#challenges', '#business', '#goals', '', '', '#success', '#photographer', '#photography', '#thursdaythoughts']	2
+30856	['day', 'make', '#goals', '#challenges', '#business', '#goals', '#optimism', '#happy', '#success', '#photographer', '#photography', '#thursdaythoughts']	1
+30857	['respond', 'email', 'within', '7', 'fays', 'wifl', 'killed', 'animated', 'gif', 'girl', 'ring']	0
+30858	['#hobbitday', 'nhobbits', 'give', 'gifts', 'birthdays', 'sharing', 'gift', '#glee', 'today', 'find', 'something', 'makes', 'happy']	3
+30859	['incredible', 'anthony', 'weiner', 'caught', 'chasing', 'busty', 'milkmaid', 'across', 'park', 'double', 'speed', 'jaunty', 'music', 'plays']	0
+30860	['lensnart', 'mick', 'nods', 'like', 'went', 'back', 'food', 'smiling', 'finished']	2
+30861	['yungdoujin', 'basically', 'sparkling', 'water']	0
+30862	['absolutely', 'love', 'laurie', 'hernandez', 'adorable', 'always', 'cheerful']	3
+30863	['hunterdean', 'gives', 'gleeful', 'squeak', 'wraps', 'around', 'mine']	3
+30864	['diehimbeertonis', 'developed', 'forced', 'smile', 'can', 'force', 'describe', 'little', 'hearty', 'maybe', 'sanki', 'biraz']	0
+30865	['give', 'cheerfully', 'accept', 'gratefully', 'everyone', 'blessed', '»maya', 'angelou']	3
+30866	['#new', 'day', '#live', '#smile', 'hope', '#followers', 'nice', '#night', '#day', 'd']	3
+30867	['docbellsswan', 'peers', 'eyes', 'crinkling', 'mirth', 'affection', 'love', 'ye', 'bonnie', 'belle']	2
+30868	['bruins514', 'gorddownie', 'thehipdotcom', '#tragicallyhip', 'can', '#help', 'toysforasmile', 'make', '#hospitalized', '', '#sick', '#kids', '#smile', '']	1
+30869	['chris', 'take', 'full', 'responsibility', 'want', 'us', 'rejoice', 'memories']	0
+30870	['communismkills', 'get', 'subway', 'melt', 'make', 'sure', 'hearty', 'italian', 'bread', 'black', 'olives', 'must', 'though']	0
+30871	['hesham786', 'spirit', '#optimism']	0
+30872	['hesham786', 'spirit', '']	0
+30873	['yiu', 'respond', 'o', 'email', 'within', '7', 'days', 'willxbe', 'killed', 'animated', 'gif', 'girl', 'froa', 'rig']	0
+30874	['harrietemmett', 'great', 'minds', 'think', 'alike', '#rejoice']	1
+30875	['harrietemmett', 'great', 'minds', 'think', 'alike', '']	1
+30876	['dolores', 'thin', 'lipped', 'smile', 'graced', 'glossed', 'lips', 'let', 'blues', 'peer', 'woman', '', 'constant', 'delight', 'always']	2
+30877	['airtelindia', 'issues', 'broadband', 'bill', 'charged', 'month', 'signed', 'airtel', '#hilarious']	0
+30878	['airtelindia', 'issues', 'broadband', 'bill', 'charged', 'month', 'signed', 'airtel', '']	0
+30879	['bridgetjones', 'joyous', 'worried', 'disappointed', 'definitely', '#chickflick', '#giggles', '#comethefuckonbridget']	3
+30880	['metal', 'keeps', 'young', 'spry', 'keeps', 'hair', 'luxuriousnnyesnnshut', 'listen']	1
+30881	['hate', 'singing', 'idiot', 'thinks', 'can', 'just', 'join', 'likethis', 'fcking', 'glee', '#meanrikonabot']	0
+30882	['chencouture', 'lmao', 'slutty', 'hater', 'girl', 'video', 'hilarious', '']	3
+30883	['michiganbromo', 'good', 'optimism', 'sir', '']	1
+30884	['billie21806', 'cnnbrk', 'tell', 'bodies', 'cheering', 'deaths', 'black', 'people', 'cops', 'fear', 'killing', 'us']	0
+30885	['macdsmash', 'get', 'ssbswedish', 'delight']	1
+30886	['kwelbyroberts', 'will', 'come', 'will', 'rejoice', 'arrival']	1
+30887	['moment', 'levity', 'b41', 'baby', 'want', 'isis', 'give', 'isisnmom', 'shhnbaby', 'want', 'isisnwest', 'indian', 'woman', 'wants', 'whatnmom', 'ices']	1
+30888	['tomlinmayniac', 'starting', 'new', 'challenge', '', 'glee', 'poll', 'every', 'day', '']	2
+30889	['can', 'l', 'rule', 'mind', '', 'nits', 'hilarious', '']	0
+30890	['lifetime', 'laughter', 'expense', 'death', 'bachelor']	0
+30891	['tone', 'voice', 'like', 'one', 'direction', 'thoughtful', 'timid', 'yet', 'playful']	1
+30892	['sioux', 'valley', 'wins', 'home', 'competitive', '#cheer', 'invite', 'score', '158', 'dell', 'rapids', 'second', '138']	2
+30893	['tutoring', 'gives', 'exhilarating', 'feeling', 'love', 'helping', 'people', '']	3
+30894	['philglutting', 'hey', 'phil', 'glutting', 'thank', 'following', 'us', 'appreciated', '', '#smile']	3
+30895	['philglutting', 'hey', 'phil', 'glutting', 'thank', 'following', 'us', 'appreciated', '', '']	2
+30896	['feels', 'good', 'get', 'outside', 'minute', 'get', 'fresh', 'air', '', 'hard', 'stay', 'cooped', 'inside', 'day', '#breezy']	3
+30897	['feels', 'good', 'get', 'outside', 'minute', 'get', 'fresh', 'air', '', 'hard', 'stay', 'cooped', 'inside', 'day', '']	2
+30898	['r0ils', 'ppl', 'get', 'triggered', 'u', 'smiling', 'irrelevant']	0
+30899	['gigafag', 'pipertownsend', 'snapchat', 'new', 'beg', 'differ', '#optimism']	0
+30900	['gigafag', 'pipertownsend', 'snapchat', 'new', 'beg', 'differ', '']	0
+30901	['hearty', 'jonza', 'friends', 'follower']	3
+30902	['must', 'knowing', '#blithe', 'means', 'adj', '', 'happy', 'cheerful']	2
+30903	['old', 'saying', '#smile', 'shared', 'one', 'gained', 'another', 'day', 'yeglifer', 'scottmckeen']	1
+30904	['bridget', 'jones', 'baby', 'bloody', 'hilarious', '', '#bridgetjonesbaby']	3
+30905	['elaminova', 'sparkling', 'water', 'makes', 'life', 'sparkly']	1
+30906	['tired', 'everybody', 'telling', 'chill', 'everythings', 'ok', 'fuck', 'tired', 'faking', 'fucking', 'smile']	0
+30907	['#gbbo', 'can', 'cheer', '️']	1
+30908	['amp', 'much', 'hate', 'dude', 'cheat', 'women', 'forego', 'pleasing', 'man', 'get', 'lazy', 'amp', 'men', 'get', 'lazy', 'amp', 'just', 'pointless']	0
+30909	['got7official', 'jrjyp', 'happy', 'birthday', 'jin', 'young', '#princejinyoungday', '#happyjinyoungday', '#got7', '', '#birthday']	3
+30910	['got7official', 'jrjyp', 'happy', 'birthday', 'jin', 'young', '#princejinyoungday', '', '#happyjinyoungday', '#got7', '#happy', '#birthday']	3
+30911	['race', 'advances', 'extra', 'achievements', 'individual', 'individual', 'charles', 'townen', '#optimism', '#inspire']	0
+30912	['race', 'advances', 'extra', 'achievements', 'individual', 'individual', 'charles', 'townen', '', '#inspire']	0
+30913	['watching', 'football', 'matches', 'without', 'commentary', 'something', 'rejoice', 'found', 'transmission', 'city’s', 'match', 'like', 'today', 'joyful']	3
+30914	['#twd', 'comes', 'soon', '#happy']	3
+30915	['#twd', 'comes', 'soon', '']	0
+30916	['taudeltaphidk', 'thank', 'obama', 'cut', 'elated', 'back', 'home']	3
+30917	['ddogsscout', 'oh', 'almost', 'odd', 'cheerfulness', 'big', 'boss', 'offers', 'muzzle', 'flash', 'blinding', 'accidental', 'guy', 'became', 'best', 'friend']	0
+30918	['gemma', 'simmons', 'bright', 'spot', 'premiere', 'far', '#agentsofshield']	1
+30919	['beautiful', 'day', 'lord', 'made', 'will', 'rejoice', 'glad']	3
+30920	['watch', 'amazing', 'lively', 'broadcast', 'kellipeterson', '#lively', '#musically', '', '', 'come', 'watch']	1
+30921	['sometimes', 'like', 'talk', 'sadness', '', 'times', 'just', 'want', 'distracted', 'friends', 'laughter', 'shopping', 'eating', '', 'nn#mhchat']	0
+30922	['oi', 'thewiggymess', 'absolutely', 'fucking', 'killed', '30', 'mins', 'later', 'still', 'crying', 'laughter', 'grindah', 'grindah', '', '', 'hahahahahahaha']	3
+30923	['happy', 'live', 'nyc', 'see', 'tomorrow', 'samheughan', 'barbour']	3
+30924	['accept', 'challenges', 'may', 'feel', 'exhilaration', 'victory']	0
+30925	['beautiful', 'day', '#elated']	3
+30926	['beautiful', 'day', '']	2
+30927	['langstonhunter', 'yeah', 'bro', 'eas', 'hella', 'exhilarating']	2
+30928	['sometimes', 'sad', 'remember', 'margaret', 'thatcher', 'dead', 'rejoice']	0
+30929	['brown', 'nosing', 'listened', 'lots', 'housing', 'ministers', 'gavinbarwellmp', '#nhf16', 'impressed', '']	0
+30930	['brown', 'nosing', 'listened', 'lots', 'housing', 'ministers', 'gavinbarwellmp', '#nhf16', 'impressed', '#optimism']	0
+30931	['apkrawczynski', '', '', 'possibly', 'kg', 'bought', 'player', 'can', 'buy', 'glen', 'minority', 'owner', '', '#optimism']	0
+30932	['martin', 'roth', 'leaving', 'vampa', 'shoes', 'effects', '#brexit', 'bright', 'talented', 'foreigners', 'made', 'feel', 'unwelcome', 'leaving', 'uk', '#c4news']	0
+30933	['one', 'thing', 'can', 'say', 'kept', 'smiling']	2
+30934	['#blackish', 'always', '#rollin', '#hilarious']	3
+30935	['#blackish', 'always', '#rollin', '']	2
+30936	['toddler', 'coping', 'new', 'arrival', 'tried', 'killing', 'yet', 'cheerfully', 'ask']	0
+30937	['american', 'schools', 'lively']	2
+30938	['drawing', 'minicomics', 'joyful', 'folding', 'minicomics', 'meditative', 'relaxing', 'think', 'need', 'just', 'halloween']	2
+30939	['malkarii', 'korgoth', 'barbaria', 'brutality', 'king', 'julian', 'hilarity', 'ariel', 'hot']	1
+30940	['love', '#memories', 'randomly', 'popninto', 'head', '', '#smiling', 'like', 'ann#idiot', 'ages', '\U000fe334']	3
+30941	['turtletitan2003', 'laughed', 'bit', 'course', 'aria', 'shook', 'head', 'calming', 'mirth', 'listen', 'mikey', 'actually', '']	1
+30942	['ireneestry', 'wait', 'see', 'hun', '#cuddles', '#gossip', '#laughter']	3
+30943	['ireneestry', 'wait', 'see', 'hun', '#cuddles', '#gossip', '']	2
+30944	['god', 'hears', 'voice', 'optimism', 'moment', 'think', 'everything', 'failed', '']	0
+30945	['bf', 'drove', 'way', 'long', 'day', 'just', 'spend', '15', 'min', 'holding', 'make', 'feel', 'better', 'howd', 'get', 'lucky', '#lucky', '#happy']	3
+30946	['bf', 'drove', 'way', 'long', 'day', 'just', 'spend', '15', 'min', 'holding', 'make', 'feel', 'better', 'howd', 'get', 'lucky', '#lucky', '']	3
+30947	['love', 'laughing', 'crying', 'works', '#katherinemansfield', '#failure', '#laughter', '#dealingwithfailure']	2
+30948	['love', 'laughing', 'crying', 'works', '#katherinemansfield', '#failure', '', '#dealingwithfailure']	2
+30949	['tend', 'loosen', 'bit', 'drunk', 'can', 'seem', 'pretty', 'cheerful']	1
+30950	['', 'god', 'chirp', 'burp', '']	1
+30951	['elated', 'celebrated', 'like', 'obama', 'waited', 'last', 'day', 'office', 'tell', 'nation', 'brothers', 'getting', 'reparations']	1
+30952	['angel', 'delight', 'everything']	2
+30953	['just', 'want', 'let', 'everyone', 'know', 'wonderful', 'people', '#beyourself', '#happy', '#cheerful', '#latenight', '#compliment', '#behappy']	3
+30954	['just', 'want', 'let', 'everyone', 'know', 'wonderful', 'people', '#beyourself', '', '', '#latenight', '#compliment', '#behappy']	3
+30955	['#terribledebatequestions', 'given', 'many', 'laughs', 'afternoon', 'thanks', 'twitter', '#hilarious', '#cleverpeople']	3
+30956	['#terribledebatequestions', 'given', 'many', 'laughs', 'afternoon', 'thanks', 'twitter', '', '#cleverpeople']	3
+30957	['paraplyene', 'soupper', 'just', 'read', 'fun', 'lighthearted', 'cheerful', 'right', 'double', 'cavity']	2
+30958	['point', 'life', 'playing', 'christmas', 'music', 'room', 'need', 'winter', 'joyful', 'times', 'rn']	0
+30959	['luis', 'ortiz', 'ducked', 'ustinov', 'means', 'fights', 'left', 'goldenboyboxing', 'future', 'looking', 'bright', 'ortiz', '#boxing']	0
+30960	['another', 'joyful', 'encounter', 'tribez', 'amp', 'castlez', 'just', 'met', 'bartolomeo', 'want', 'know', 'download', 'game', 'find']	2
+30961	['carolyntopol', 'ciara', 'asks', 'scifi', 'movie', 'julie', 'amp', 'jen', 'just', 'stare', 'claire', 'phone', 'joey', 'bolts', 'cab', 'honks', 'lmao', '#hilarious']	3
+30962	['carolyntopol', 'ciara', 'asks', 'scifi', 'movie', 'julie', 'amp', 'jen', 'just', 'stare', 'claire', 'phone', 'joey', 'bolts', 'cab', 'honks', 'lmao', '']	2
+30963	['happy', 'birthday', 'brooke5656', '#cheer', '#cheerchick', '#jeep', '#jeepgirl', '#idriveajeep', '#jeepjeep', '#cheer']	3
+30964	['little', 'sniffle', 'end', 'song', 'gets', 'every', 'time', '#rejoice']	2
+30965	['little', 'sniffle', 'end', 'song', 'gets', 'every', 'time', '']	0
+30966	['mean', 'supposed', 'seem', 'joyous', 'talking', 'rodrigo', 'duterte', 'isis', 'american', 'economy', 'etc', 'think', 'saying']	0
+30967	['xenostateofmind', 'yesnnmake', 'smile', 'happynshe', 'deserves', 'happiness']	3
+30968	['keep', 'smiling', '']	2
+30969	['ever', 'wake', 'instantly', 'feel', 'happy']	2
+30970	['jpodhoretz', 'still', 'respect', 'suppose', 'little', 'gleeful', 'days', 'take', 'can', 'good']	1
+30971	['amstradocpc', 'shittysufanart', 'single', 'tear', 'joyous', 'deleted', 'monster', 'brought', 'generations', 'despair']	0
+30972	['#quoteofthedayrrif', '#wild', 'things', 'young', 'nothing', '#smile', 'oldrr#dailyquote', '#quotes']	1
+30973	['bright', 'places', '']	0
+30974	['honored', 'take', 'role', 'joyous', 'day', 'hopefully', 'fuck']	1
+30975	['reason', 'smile', 'everyday', '']	3
+30976	['noorbazzi14', 'lowkey', 'want', 'go', 'just', 'chirp', 'anna', 'lol', 'say', 'hi', 'atkins', 'one', 'favourite', 'coaches', 'smart', 'caring']	2
+30977	['#redwine', '#glee']	1
+30978	['#redwine', '']	0
+30979	['tabstamlyn', 'larahunt1', 'will', 'next', 'time', 'make', 'sure', 'everything', 'sparkling', 'clean']	0
+30980	['take', 'kindness', 'weakness', 'acting', 'silly', 'keeping', '100', 'aint', 'forté', '', '#chrisbrown', '#teambreezy']	0
+30981	['take', 'kindness', 'weakness', 'acting', 'silly', 'keeping', '100', 'aint', 'forté', '#breezy', '#chrisbrown', '#teambreezy']	0
+30982	['envy', 'relentless', 'cheerful', 'smile', 'aimed', 'pouring', 'rain', 'positive', 'attitude', 'art', 'continually', 'mastered']	1
+30983	['moving', 'weekend', 'amp', 'sugar', 'daddy', 'will', 'replace', 'niggas', 'still', 'happy']	1
+30984	['anyone', 'drinks', 'sparkling', 'water', 'demon']	0
+30985	['modern', 'family', 'never', 'fails', 'cheer', 'especially', 'phil']	3
+30986	['#smile', '#instagramers', '', '#selfie#bestmeselfie#me#smile#bestmecameraisgreat#emojigrid#likeforlike#friend#girl#boy#tattoos#family#6pack#g']	1
+30987	['authorlb', 'awesome', '9', 'yr', 'old', 'grandson', 'runs', 'cross', 'country', 'simon', 'whitfield', 'still', 'lot', 'fun', 'cheering']	3
+30988	['18', 'nmichael', 'carrick', 'struck', 'back', 'net', 'much', 'delight', 'pressure', 'man', 'u', 'fanz', 'mou']	1
+30989	['ruthwalford95', 'may', 'right', 'since', 'year', 'bad', 'events', 'begin', 'b', 'privately', 'hoping', 'got', 'least', 'cz', 'go', '1st', '#optimism']	0
+30990	['ruthwalford95', 'may', 'right', 'since', 'year', 'bad', 'events', 'begin', 'b', 'privately', 'hoping', 'got', 'least', 'cz', 'go', '1st', '']	0
+30991	['ditzkoff', 'jpodhoretz', 'there’s', 'metaphor', 'world', 'will', 'get', 'hilarity', 'jpod', 'pronouncing', 'humor']	2
+30992	['successful', 'people', 'always', 'two', 'things', 'lips', '#silence', 'nd', '#smile', 'smile', 'avoid', 'problems', 'nd', 'silence', 'avoid', 'problems']	0
+30993	['geometry', 'today', 'hannah', 'started', 'crying', 'laughter', 'ms', 'canning', 'said', 'pp', 'lol']	2
+30994	['whufchub', 'westhamtransfer', 'thehammers', 'see', 'reason', 'optimism', 'point', 'just', 'stringing', 'together', 'bad', 'performances']	0
+30995	['yall', 'shabazzs', 'name', 'phone', 'easy', 'breezy', 'beautiful', 'amp', 'will', 'apologize']	0
+30996	['day', 'jeffprobst', 'jovial', '#tribalcouncil', 'different', '', 'darker', 'fellow', '', 'still', 'simply', 'smiles', '#survivor']	0
+30997	['', 'time', 'joyous', 'celebration', '']	3
+30998	['filthyfrank', 'first', 'time', 'watching', 'vids', 'died', 'laughter', 'keep', 'dude']	3
+30999	['dumteedum', 'think', 'ian', 'knew', 'pavel', 'knew', 'charlie', 'bet', 'rob', 'will', 'cackle', 'glee', 'heard', 'happened', '#thearchers']	0
+31000	['mou', 'jovial', 'trying', 'impress', 'players', 'much', 'player', 'bigger', 'manutd', 'saf', 'tolerate', 'bs', 'manutd']	0
+31001	['#smile', 'messenger', 'good', 'will']	2
+31002	['imagine', 'teppu', 'got', 'animated', 'madhouse', 'tho', 'gtlt']	0
+31003	['highly', 'animated', 'even', 'though', 'decomposing']	0
+31004	['jk', 'started', 'week', 'strong', 'still', 'going', 'strong', '#optimism']	3
+31005	['jk', 'started', 'week', 'strong', 'still', 'going', 'strong', '']	2
+31006	['\uf631', 'cailamarsai', '\uf602', '\uf602', 'whole', 'time', 'watching', 'blackishabc', 'lost', '#glasses', '#hilarious', 'mrbabyboogaloo']	3
+31007	['town', 'lively', 'something', 'happen']	0
+31008	['today', 'un', 'armed', 'silence', 'lungs', 'rejoice', 'freedom', 'insides', 'color', 'woman', 'counted', 'jawbone', 'became', 'razor', 'free']	2
+31009	['sqlbek', 'liver', 'elated', 'us']	2
+31010	['symmetry', 'key', 'everything', 'must', 'aesthetically', 'pleasing', 'possible', 'hold', 'twin', 'pistols', '#deaththekid', '#bot']	0
+31011	['oii', 'oiii', 'louistomlinson', '', '', 'nthank', 'always', 'making', 'smile', '', 'birthday', '16', 'days', '', 'mind', 'following', 'gift', '', '', 'x225884']	3
+31012	['steeeevie', 'breezy', 'luvvvv']	2
+31013	['timehop', 'literally', 'cracks', 'see', 'posts', '2', 'years', 'ago', 'later', '', '']	3
+31014	['timehop', 'literally', 'cracks', 'see', 'posts', '2', 'years', 'ago', 'later', '', '#hilarious']	3
+31015	['byekandace', 'cheer', 'jigaboo']	0
+31016	['daveweigel', 'laurel', 'hearty', 'handshake']	1
+31017	['bhavnay', 'mind', 'much', 'smoother', 'thicker', 'texture', 'makes', 'hearty', 'also', 'glad', 'iced', 'coffee', 'thing', 'uk', 'now']	1
+31018	['leejarvis10', 'following', 'u', 'pal', 'smiling']	0
+31019	['love', 'play', 'underlord', 'listening', 'cheery', 'anime', 'music']	2
+31020	['exhilarating', 'feeling', 'working', 'hard', 'feeling', 'accomplished', 'whether', 'notice', 'feel', 'fuking', 'good', '']	3
+31021	['starting', '22', 'minutes', 'weeks', 'bestshow4life', 'straightup', 'paradigm', 'shift', 'level', 'mirth']	1
+31022	['someone', 'teach', 'cheer', 'someone']	0
+31023	['greatdismal', 'bencjacobs', 'it’s', 'gleeful', 'they’re', 'inspired', 'convinced', 'they’re', 'winning', 'last', 'strongman']	2
+31024	['avoiding', 'hearty', 'basset', 'hound', 'time', 'presenttime', 'american', 'brave', 'ydxef']	0
+31025	['alternate', 'reality', 'poetryfound', 'comments', 'section', 'can', 'give', 'poems', 'cheery', 'thumbs', 'disappointed', 'thumbs']	0
+31026	['thatbritishdude', 'okay', 'need', 'going', 'way', 'make', 'sure', 'pleasing', 'everyone', 'makes', 'happy']	0
+31027	['think', 'spiritually', 'weighty', 'experiences', 'came', 'counterintuitively', 'recognized', 'hindsight', 'levity', 'daily', 'grace']	1
+31028	['thegoatshow', 'gamegrumps', 'now', 'sucked', 'wormhole', 'hilarity', 'escape', 'can', 'say', 'weird', 'accurate']	2
+31029	['pdortch7', 'make', 'sacrifices', 'make', 'happy']	0
+31030	['ever', 'cheerful']	3
+31031	['markdice', 'agreedso', 'tired', 'nonsense', '', 'soros', 'must', 'elated']	0
+31032	['getquenched16', 'attempts', 'western', 'degenerates', '2', 'imply', 'dprk', 'stoops', 'levity', 'will', 'met', 'devastating', 'nuclear', 'retaliation']	0
+31033	['girlfriends', 'cooking', 'dinner', 'spag', 'blow', 'sure', 'need', 'help', '', '#girlfriends', '#happy']	3
+31034	['girlfriends', 'cooking', 'dinner', 'spag', 'blow', 'sure', 'need', 'help', '', '#girlfriends', '']	3
+31035	['hannah', 'week', 'survivor', 'find', 'buoyant', 'gen', 'x', 'millenials', '#survivor']	1
+31036	['happier', '#happy']	3
+31037	['happier', '']	3
+31038	['joemrusso', 'happy', 'birthdayyyyyy', 'pretty', 'miss']	3
+31039	['#life', 'shows', 'hundred', 'reasons', 'cry', 'show', 'hundred', 'one', 'reasons', '#smile', '', '#quotes', 'mindconsole']	2
+31040	['#smile', 'can', 'mean', 'thousand', 'words', 'can', 'also', 'hide', 'thousand', '#problems', '#fact', '#teamfollowback']	0
+31041	['gen', '821', 'niv—the', 'lord', 'smelled', 'pleasing', 'aroma', 'said', 'heart', '“never', 'will', 'i…', 'lifelong', 'depravity']	0
+31042	['merriment', 'amp', 'laughter', 'dadwroteaporno', 'kingsplace', 'amp', 'instructional', 'powerpoint', 'presentationwell', 'done', 'concerned', 'amp', 'thanks']	2
+31043	['uncle', 'buck', 'tho', '', '#unclebuck', '#hilarious']	1
+31044	['uncle', 'buck', 'tho', '', '#unclebuck', '']	1
+31045	['every', 'time', 'people', 'push', '#prescription', 'pot', 'prohibitionists', 'rub', 'hands', '#glee', 'u', 'hand', '#cannabis', 'amp', '#slavery']	0
+31046	['chrisloesch', 'dloesch', 'modern', 'day', 'bookburning', 'without', 'awful', 'guilt', 'oh', 'now', 'gleeful', 'social', 'sharing', 'ahats']	0
+31047	['make', 'happy', 'ethandolan', 'graysondolan']	3
+31048	['#ifiwerepresident', 'nmy', 'goal', 'us', 'miserable', 'yet', 'jovial', 'co', 'others', 'u', 'know', 'civil', 'realization', 'self']	0
+31049	['learning', 'key', 'converting', 'leaning', 'someone', 'else', 'door', 'will', 'open', 'door', 'successnn#x33', '#smile']	2
+31050	['learning', 'key', 'converting', 'leaning', 'someone', 'else', 'door', 'will', 'open', 'door', 'successnn', '#x33', '']	1
+31051	['iniesta', 'still', 'one', 'player', 'idolize', 'barcaa', 'delight', 'watch', 'tell']	2
+31052	['every', 'time', 'hear', 'jtkantors', 'organ', 'kick', 'new', 'sayswhopodcast', 'break', 'goofiest', 'smile']	3
+31053	['cheery', '#mrrobot']	2
+31054	['gennneral', 'thanks', 'gen', 'love', 'miss', 'happy', 'birthday', 'natong', 'duha', '']	3
+31055	['#survivor', 'back', '#survivormillennialsvsgenx', 'happy', 'see', 'jeffprobst', '']	2
+31056	['#survivor', 'back', '#survivormillennialsvsgenx', 'happy', 'see', 'jeffprobst', '#happy']	2
+31057	['essdotx', 'jovial', 'forgiving', 'negro', 'always', 'pressed', 'upon', 'act', 'hisher', 'selfinterest', 'favor', 'oppressor']	0
+31058	['reginaltsquirge', 'add', 'jaunty', 'bownor', 'bells']	1
+31059	['tweet', 'tweet', 'chirp', 'chirp', 'losers']	0
+31060	['content', '', 'life', 'short', '#smiling']	3
+31061	['content', '', 'life', 'short', '']	0
+31062	['npagliaro1', 'awesome', '', 'ps', 'ok', 'odds', 'swapping', 'neighborhoods', '#hilarious']	3
+31063	['npagliaro1', 'awesome', '', 'ps', 'ok', 'odds', 'swapping', 'neighborhoods', '']	1
+31064	['excited', 'see', 'nat', 'tonight', '', 'happy', 'cheery', 'amp', 'even', 'excited', 'get', 'social', 'media', '', '#bb18']	3
+31065	['“set', 'ideal', 'facing', 'reality', 'honestly', 'cheerfully', 'possible”', '', 'karl', 'menninger', '', '', '', '', '#2ndhalfwealth']	0
+31066	['nicest', 'way', 'tell', 'someone', 'cheerfully', 'whistling', 'outside', 'apartment', 'door', 'will', 'end', 'continue', 'whistle']	0
+31067	['xiankiefer', 'thelincoln', 'book', '5', 'sprightly', 'amp', 'fun', 'cuz', 'reinvigorated', 'harry', 'potter', 'series', 'kidding']	2
+31068	['possible', 'go', 'cheery', 'earlier', 'worst', 'mood', 'possible', 'now']	0
+31069	['3', 'styles', 'love', 'now', 'zales', '', 'three', 'sparkling', 'styles', 'love', 'stop', 'shop', 'store', 'today']	1
+31070	['kinda', 'wished', 'watched', 'mischievous', 'kiss', 'playful', 'kiss']	1
+31071	['accept', 'challenges', 'life', 'may', 'feel', 'exhilaration', 'victory']	1
+31072	['mariamveiszadeh', 'sick', 'rejoicing', 'half']	1
+31073	['tjsotomayor', 'snow', 'pig', '', 'hilarious', 'lmaooo']	3
+31074	['“set', 'goal', 'achieve', 'something', 'big', 'exhilarating', 'excites', 'scares', 'time”', 'n―', 'bob', 'proctor']	1
+31075	['red', 'sox', 'team', 'equivalent', 'tiger', 'woods', 'heyday', 'mercy']	1
+31076	['wanna', 'always', 'reason', 'behind', 'happiness', 'always', 'keep', 'smiling', 'matter', 'happens']	3
+31077	['u', 'laugh', 'today', 'laugh', 'hard', 'hope', 'sowe', 'need', 'laughter', 'now', '', '#love']	2
+31078	['u', 'laugh', 'today', 'laugh', 'hard', 'hope', 'sowe', 'need', 'laughter', 'now', '#smile', '#love']	2
+31079	['peregrinator1', 'admittedly', 'went', 'series', 'thinking', 'see', 'jedi', 'heyday', 'dysfunctional', 'un', 'peacekeepers', 'space']	0
+31080	['taking', 'picture', 'awkward', 'smilenme', 'picture', 'day', 'awkward', 'smilenconclusion', 'stop', 'smiling', 'n#pictureday2016', '#smile', '#ornot']	1
+31081	['wishing', 'ipswich', 'tigers', 'good', 'luck', 'games', 'throughout', 'homecoming', 'week', 'cheering', 'city', 'office', 'go', 'tigers']	3
+31082	['ukulele', 'bag', 'fallen', 'apart', '\uf610', 'welll', 'least', 'life', 'yet', '#joysnn#quote', '', '#problemsolving', '#behappy']	0
+31083	['exhilarating', 'taking', 'challenge', 'demonstrating', '', 'explaining', '#jamesjoyces', '#ulysses', 'endearing', 'amp', 'wonderful']	2
+31084	['yesterday', '', '21', 'sept', '2016', '', 'installed', 'new', 'stratagem', 'including', 'audacity', 'rejoicing', 'harbour', 'toweri', 'will', 'tenaciously', 'follow']	0
+31085	['partydelightsuk', '5679787', 'dm', 'follow', '#delight', '#party', '#fail', '#letdown']	0
+31086	['partydelightsuk', '5679787', 'dm', 'follow', '', '#party', '#fail', '#letdown']	0
+31087	['joyful', 'hope', 'patient', 'affliction', 'faithful', 'prayer', 'romans', '1212']	0
+31088	['wahrbear', 'marinarchy', 'diam0ndsapph1re', 'hilarity', 'someone', 'literally', 'openly', 'antiscience', 'calling', 'others', 'antiscience']	0
+31089	['smoking', 'weed', 'watch', '12', 'pull', 'somebody', 'else', 'joyous', 'thing', 'ever']	2
+31090	['girl', 'love', 'perfume', 'something', 'bout', '', '']	3
+31091	['girl', 'love', 'perfume', 'something', 'bout', '', '#breezy']	2
+31092	['watching', 'melissamccarthy', '#spy', 'one', 'favorite', 'actresses', 'last', 'night', 'watching', '#theboss', '#hilarious', 'just', 'want', 'meet']	3
+31093	['bjerkedanielle', 'funnysayings', 'lol', 'hilarious']	3
+31094	['ninaturner', 'mine', 'happening', 'country', 'needed', 'moment', 'levity', 'bernblade', 'lisavikingstad']	0
+31095	['manchester', 'united', 'v', 'manchester', 'city', '#happy', 'days', '#efl']	3
+31096	['lostgermain', '', 'want', 'spar', 'prince', 'smiles', 'reaches', 'hilt', 'icy', 'eyes', 'keep', 'aaron', 'playful', 'look', 'eyes']	1
+31097	['accept', '#challenges', 'can', 'feel', 'exhilaration', 'victory']	0
+31098	['yes', 'mourinho', 'really', 'stop', 'speaking', 'refs', 'try', 'cheering', 'bit']	0
+31099	['thenicebot', 'wsjnordics', 'make', 'world', 'joyful', 'place', '#thenicebot', '#mpn', '#demilovato']	3
+31100	['sevechambers', 'elated', 'thank', 'help', 'can', 'apply', 'verified']	3
+31101	['world', 'needs', 'laughter', 'love', 'little', '', 'rm', 'drake']	1
+31102	['#bcwinechat', 'common', 'method', 'used', 'make', 'bc', '#sparkling', '#wine']	0
+31103	['#bcwinechat', 'common', 'method', 'used', 'make', 'bc', '', '#wine']	0
+31104	['davuuwart', 'hilarious', '']	3
+31105	['kermischocolate', 'tried', 'cheerful', 'upbeat', 'piece', 'walking', 'history', 'usually', 'artydocu', 'types', 'find', 'trace']	0
+31106	['wrath', 'one', 'kill', 'laughter', '', 'friedrich', 'nietzsche', '#friedrichnietzsche']	0
+31107	['#happiness', '#recipe', 'open', 'mind', '#laughter', 'kind', '#heart', 'amp', '#optimism']	3
+31108	['#happiness', '#recipe', 'open', 'mind', '#laughter', 'kind', '#heart', 'amp', '']	2
+31109	['zabuhmaid', 'happy', 'birthday', 'sweety', '', 'sweet', '21', 'hun', 'hope', 'u', 'wonderful', 'day', 'wondrful', 'joyful', 'year', 'better', 'last', 'one', 'luv', 'u', '']	3
+31110	['black', '43', 'read', 'books', 'pu', 'kids', 'schoolmy', 'prayer', 'u', 'wl', 'lv', 'long', 'fulfilling', 'joyous', 'peaceful', 'godpleasing', 'life']	2
+31111	['#smile', 'always', 'mean', 'person', '#happy', '', 'sometimes', 'simply', 'means', '#strong', 'enough', 'face', '#problems', '']	0
+31112	['needed', 'levity', 'hubs', '', 'talking', 'wearetyphoon', 'kyles', 'new', 'solo', 'album', '7', 'yo', 'says', 'kyleclark', 'loves', 'ur', 'news', 'show', '#9news', '9news', 'lolz']	2
+31113	['ankitaverma45', 'honey5991', 'rejoicing', 'someones', 'sadness', 'bad', '#karma', '', 'cencerned', 'definitely', 'people', 'deserve']	0
+31114	['#siguemeytesigo', '#happy', '#snapchat', 'manuellynch99', '#venezuela']	2
+31115	['jessicaz00', 'zrlondon', 'ditto', 'amazing', 'atmosphere', '#philippplein', '#cheerleaders', '#stunt', '#londonevents', '']	3
+31116	['jessicaz00', 'zrlondon', 'ditto', 'amazing', 'atmosphere', '#philippplein', '#cheerleaders', '#stunt', '#londonevents', '#cheer']	3
+31117	['delight', 'lane', 'tonight', 'witness', 'debuts', 'young', 'talent', 'backbone', 'club', '#coys']	2
+31118	['tweetfaver', 'reaper', 'became', 'reaper', 'can', 'find', 'stories', 'wiki', 'thru', 'comics', 'animated', 'shorts']	0
+31119	['remember', 'joe', 'quinn', 'thing', 'glee']	0
+31120	['still', 'laughing', 'bitch', 'took', 'pillow', 'line', '#glee', '#kurt']	3
+31121	['still', 'laughing', 'bitch', 'took', 'pillow', 'line', '', '#kurt']	2
+31122	['nothing', 'lovelier', 'great', 'mate', 'sending', 'joyful', 'sweet', 'pic', '', 'thankyou', '#amy', 'artburstltd', 'xxxx']	3
+31123	['cedricyarbrough', 'love', '#hilarious', '', '', 'looking', 'forward', 'much', '', '#kudos', '#pilot', 'speechlessabc', '#speechless']	3
+31124	['eve', 'izzy', 'paige', 'cheerfully', 'sing', 'songs', 'together']	2
+31125	['jeffbridg', 'man', 'great', 'job', 'happy', 'success', 'short', 'time', '', 'mom', 'amp', 'dad', 'smiling', 'heaven', '', 'love', 'bro']	3
+31126	['jovial', 'laughter', 'trump', 'lackeys', 'showed', 'don', 'king', 'used', 'n', 'word', 'truly', 'bizarre', 'sight']	0
+31127	['raygemini', 'got', '8', 'coming', 'back', 'week', 'joyous', 'haha']	2
+31128	['just', 'spent', '40', 'big', 'little', 'sis', 'tomorrow', 'beyond', 'happy', '#saw', '#mirth', '#mums']	3
+31129	['just', 'spent', '40', 'big', 'little', 'sis', 'tomorrow', 'beyond', 'happy', '#saw', '', '#mums']	3
+31130	['bribing', 'parents', 'hearty', 'laughter', 'giggles', '', '#loveet']	3
+31131	['harrystyles', 'smile', 'face', 'beat', 'heart', 'thanks', 'kind', 'much', 'can', 'mind', 'following', '96127']	3
+31132	['#most', 'wasteful', 'day', '#day', 'without', '#laughter']	1
+31133	['#most', 'wasteful', 'day', '#day', 'without', '']	0
+31134	['good', 'morninglets', 'start', 'smilenlets', 'enjoy', 'life', 'cheerful', 'wayndont', 'worry', 'happy']	3
+31135	['skiving', '#freshers2016', 'day', '#nails', '#sunbeds', '#gym', '', '#priorities', '#student', '#studentnurse', '#pampered', '#happy']	3
+31136	['skiving', '#freshers2016', 'day', '#nails', '#sunbeds', '#gym', '', '#priorities', '#student', '#studentnurse', '#pampered', '']	2
+31137	['half', 'past', 'midnight', 'loud', 'banging', 'front', 'door', 'told', 'new', 'rape', 'cases', 'edinburgh', 'today', '', '#nosleep']	0
+31138	['half', 'past', 'midnight', 'loud', 'banging', 'front', 'door', 'told', 'new', 'rape', 'cases', 'edinburgh', 'today', '#joyful', '#nosleep']	0
+31139	['matildaswish', 'great', 'see', 'matilda', 'happy', 'new', 'chair', 'will', 'provide', 'access', 'lots', 'new', 'experiences', '#smiling']	3
+31140	['matildaswish', 'great', 'see', 'matilda', 'happy', 'new', 'chair', 'will', 'provide', 'access', 'lots', 'new', 'experiences', '']	3
+31141	['pakis', 'applauding', 'sharifs', 'speechi', 'wonder', 'many', 'really', 'understood', 'saidnthey', 'much', 'excited', 'happy']	1
+31142	['wonderful', 'see', 'show', 'token', 'man', '#glasgowgirls', 'uproarious', 'gleeful', 'important', 'amp', 'uplifting', 'go', 'see', 'stratfordeast']	2
+31143	['night', 'sparkling', 'let', 'go', 'wonderstruck', 'blushing', 'way', 'home', '#valeriebot']	2
+31144	['person', 'manage', 'get', 'bright', 'pink', 'lipstick', 'brand', 'new', 'white', 'dress', '']	0
+31145	['life', 'iznt', 'pleasing', 'othersnn', '#hell', '#with', '']	0
+31146	['gave', 'u20', 'rugby', 'bet', 'roosters', '#cheering', '#nrl']	0
+31147	['gave', 'u20', 'rugby', 'bet', 'roosters', '', '#nrl']	0
+31148	['dee5479', 'electro', 'set', 'pure', 'enjoyment', 'amp', 'exhilarating', 'captivating', 'amp', 'poetic', 'raw', 'exciting', '']	3
+31149	['sharpened', 'pencil', 'today', 'sharpened', 'since', '1999', '️', '#exhilarating']	1
+31150	['sharpened', 'pencil', 'today', 'sharpened', 'since', '1999', '️', '']	1
+31151	['travelanswerman', 'possibilities', 'r', 'endless', 'becca', 'u', 'unplug', 'matrix', 'stay', 'salty', '#happy', '#surfing', '#sunset', '#aloha', '…']	2
+31152	['feel', 'grateful', 'grateful', 'written', '', '', 'things', 'work', 'together', 'good', '', 'love', 'god', '#cheerful']	2
+31153	['feel', 'grateful', 'grateful', 'written', '', '', 'things', 'work', 'together', 'good', '', 'love', 'god', '']	0
+31154	['want', 'successful', 'cheerful', 'happy', 'dominichussein']	1
+31155	['loving', '', '#pitch', 'far', '', '', 'pitchonfox', 'globaltv', '', '#chills', '#smiling']	3
+31156	['loving', '', '#pitch', 'far', '', '', 'pitchonfox', 'globaltv', '#chills', '']	3
+31157	['sad', 'rejoicing', '72', '#collegekills']	0
+31158	['banger', 'sit', '2013', 'reason', 'great', 'doings', 'alias', 'rejoice', 'kzfqr']	1
+31159	['beautyfulliami', 'guy', 'back', 'picture', 'hilarious']	2
+31160	['literally', 'feels', 'sg', 'happy', 'sam']	3
+31161	['jasperino', '', 'buoyant', '', 'sessionsix']	0
+31162	['class', 'canceled', 'due', 'funeral', 'sure', 'appropriate', 'happy', 'sad', '']	1
+31163	['class', 'canceled', 'due', 'funeral', 'sure', 'appropriate', 'happy', 'sad', '#happy']	1
+31164	['cscheiwiller', 'stop', 'smiling', '']	3
+31165	['amount', 'laughter', 'ready', 'leave', 'body', 'united', 'lose', 'unreal']	1
+31166	['whoisthiscaleb', 'leap', 'feet', 'dramatically', 'plant', 'one', 'foot', 'seat', 'chair', 'let', 'jaunty', 'tune']	2
+31167	['things', 'grind', 'gears', 'people', 'drawing', 'gideon', 'gleeful', 'skinny']	0
+31168	['book', 'can', 'start', 'improving', 'relationship', 'tonight', '', 'taking', 'journey', '#fun', '#laughter', '#romance', '#metaphysics', '', 'htt…']	1
+31169	['nice', 'idea', 'collect', 'relevant', 'socialmedia', 'onebut', 'automatic', 'pls', '#worldsapp', '⬅️', '#chirp', '#appsworld', '#socialmedia', 'danielfeuer', 'merci']	1
+31170	['excited', '#usernameregenerated', '', 'wait', 'wish', 'get', 'signed', 'copy', 'happy', 'joesugg']	3
+31171	['man', 'know', 'juggle', 'just', 'balls', 'itn#funny', '#pun', '#lol', '#hilarious', '#punny']	3
+31172	['man', 'know', 'juggle', 'just', 'balls', 'itn#funny', '#pun', '#punny', '#lol', '#hilarious']	3
+31173	['man', 'know', 'juggle', 'just', 'balls', 'itn#funny', '#pun', '#punny', '#hilarious', '#lol']	3
+31174	['niggas', 'never', 'changedeven', 'kid', '29', 'year', 'old', 'interviews', 'seems', 'jovial', 'happy', 'death', 'sisterhe']	1
+31175	['gets', 'crushes', 'fictional', 'animated', 'characters', 'instead', 'real', 'people']	0
+31176	['missrbberry', 'blainehale', 'kurtstilinski', 'beaconscott11', 'sstilinski24', 'brought', 'sparkling', 'ciderholds', 'know', 'much']	0
+31177	['best', 'quote', '7', 'german', '', 'almost', '#happy']	0
+31178	['best', 'quote', '7', 'german', '', 'almost', '']	0
+31179	['love', 'new', 'show', 'driverminnie', '', '#hilarious']	3
+31180	['joyannreid', 'totally', 'understood', 'point', 'need', 'better', 'messenger', 'laughter', 'just', 'pissed', '']	0
+31181	['walterdonovanss', 'mrbridesagain', 'evil', 'rich', 'white', 'men', 'fucking', 'cronies', 'intelligencegovacademia', 'using', 'blithe', 'blacks', 'fodder']	0
+31182	['rheafraserx', 'took', 'awfy', 'long', 'time', 'spot', 'goal', 'disallowed', '️', '#pleasing']	0
+31183	['rheafraserx', 'took', 'awfy', 'long', 'time', 'spot', 'goal', 'disallowed', '️', '']	0
+31184	['proverbs', '', '279', 'ointment', 'perfume', 'rejoice', 'heart', 'doth', 'sweetness', 'mans', 'friend', 'hearty', 'counseln#truthfmdawnbreak']	2
+31185	['better', 'second', 'half', 'team', 'season', '#optimism']	1
+31186	['better', 'second', 'half', 'team', 'season', '']	0
+31187	['function', 'regard', 'camshaft', 'exhilaration', 'companies', 'cqhshjsi']	0
+31188	['close', 'end', 'revisiontaking', 'story', 'love', 'new', 'direction', 'exhilarating', '#endlesspossibilities', '#amwriting']	2
+31189	['countryside', 'day', 'pleasing']	2
+31190	['pi6ie', 'want', 'achieve', 'level', 'optimism']	0
+31191	['come', 'join', '#cakeclubhour', 'tomorrow', 'afternoon', '3pm', '#bizhour', '#chirp']	1
+31192	['come', 'join', '#cakeclubhour', 'tomorrow', 'afternoon', '3pm', '#bizhour', '']	1
+31193	['always', 'smiling', 'always', 'happy', '']	3
+31194	['barbarasgarden', 'thank', 'oh', 'much', 'many', 'challenges', 'much', 'rejoicing', '']	3
+31195	['something', 'opening', 'mail', 'justvery', 'pleasing']	2
+31196	['happy', '#internationaldayofpeace', 'everyone', 'hoping', 'world', 'becomes', 'better', 'place', 'less', 'division', 'happiness', 'keep', 'smiling', '️']	3
+31197	['yeldarbkered', 'got', 'quite', 'cheery', 'young', 'souls', 'fan', '']	3
+31198	['b4caferacer', 'see', 'things', '', 'clouds', 'others', 'see', 'can', '#elate']	2
+31199	['b4caferacer', 'see', 'things', '', 'clouds', 'others', 'see', 'can', '']	0
+31200	['jmomahony', 'thank', 'support', 'attempt', 'levity']	0
+31201	['ahh', 'voice', 'gets', 'better', 'asked', 'play', 'd', '#happy']	3
+31202	['harrystyles', 'nheart', 'pure', 'smilenso', 'bright', 'love', 'younmore', 'numbernof', 'stars', 'nightnkindly', 'follow', 'pleasenharryn—90127']	3
+31203	['jackevans711', 'best', 'whiney', 'jerkass', 'heel', 'since', 'iamjerichos', 'heyday', 'wcw', 'n', '#luchaunderground']	1
+31204	['took', 'yr', 'school', 'proud', 'say', 'got', 'accepted', 'yo', 'girl', 'going', 'finish', '']	3
+31205	['took', 'yr', 'school', 'proud', 'say', 'got', 'accepted', 'yo', 'girl', 'going', 'finish', '#happy']	3
+31206	['better', 'wetter', 'dry', 'thanks', 'tip', 'val', 'first', '#gbbo', 'hearty', 'guffaw', 'week']	2
+31207	['alicereidy', 'hearty', 'italian', 'man']	2
+31208	['hearing', 'parent', 'say', 'proud', 'elicits', 'infinite', 'waves', 'unconceivable', 'glee']	3
+31209	['bother', 'tweeting', 'poor', 'mens', 'nwhat', 'good', '', 'unable', 'cheery', '', 'go', 'quiet', '', 'missed', '', 'btw']	0
+31210	['lord', 'thy', 'god', 'midst', 'thee', 'mighty', 'will', 'save', 'will', 'rejoice', 'thee', 'joy', 'nzephaniah', '317', 'kjv']	2
+31211	['airingoutmyscro', 'nnwell', 'see', 'drinks', 'nna', 'playful', 'wink', 'passed', 'pull', 'small', 'lot', '']	1
+31212	['omg', 'nol', 'love', 'u', 'much', 'love', 'ur', 'cheery', 'face', 'hugs', '', 'crazymac17']	3
+31213	['squishyjiminie', 'aww', 'thank', 'definitely', 'feeling', 'much', 'better', 'today', 'messages', 'cheer', '️']	3
+31214	['atrumping', 'hahahahahaha', 'oh', 'gosh', 'hilarious', 'black', 'man', 'trying', 'keep', 'racism', 'alive', 'get', 'man']	1
+31215	['happiness', 'choice', 'life', 'pleasing', 'everybody', '#aldub62ndweeksary']	1
+31216	['#chirp', 'look', 'cars', 'coming', 'wesszzz']	0
+31217	['watching', 'driven', 'food', 'andrewzimmern', 'going', 'devon', 'ave', 'eat', 'nihari', 'makes', 'gleeful', 'af']	3
+31218	['️yeah‼️', 'paul‼️️', '#joyous', '#glorious', '#bb18']	3
+31219	['forgot', 'bring', 'extra', 'boxers', 'y', 'currently', 'commando', 'starbucks', 'exhilarating', 'feel', 'liberated', 'angelina', 'jolie']	2
+31220	['#peaceispossible', 'party', 'accept', 'one', 'another', 'rejoice', 'together', '#ondogubernov26', 'jciondokingdom', 'cuttiedove', 'lekibeat']	1
+31221	['brennan', 'cook', 'breezy', 'get', 'back', 'together']	2
+31222	['way', 'rejoicing', 'pulpit', '', 'park', 'city', 'baptist', 'church', 'surrey', 'bc', 'midweek', 'service']	2
+31223	['good', 'master', 'vernon', 'welcome', 'nephews', 'bellario', 'nthere', 'lord', 'thou', 'interruptst', 'merriment']	0
+31224	['luke', '114nhe', 'will', 'joy', 'delight', 'many', 'will', 'rejoice', 'birth']	2
+31225	['“the', 'lord', 'thy', 'god', 'midst', 'thee', 'mighty', 'will', 'save', 'will', 'rejoice', 'thee', 'joy”nzephaniah', '317']	1
+31226	['loving', 'speechlessabc', 'far', 'just', 'hilarious', 'driverminnie', 'wonderful', '#hilarious', '#bravo', '']	3
+31227	['seangrandillo', 'beg', 'never', 'stop', 'smiling', 'deserve', 'happy', 'know', 'beautiful', 'things', 'life', 'can', 'offers']	2
+31228	['lbccharlotte', 'just', 'watched', 'great', 'wall', '#hilarious', '']	3
+31229	['yall', 'talkin', 'know', 'know', 'yall', 'talkin', 'bout', 'new', 'shitchuckin', 'ma', 'deuces', '#kanye', '#breezy']	0
+31230	['yall', 'talkin', 'know', 'know', 'yall', 'talkin', 'bout', 'new', 'shitchuckin', 'ma', 'deuces', '#kanye', '']	0
+31231	['great', 'meet', 'brightonchoir', 'mjparanzino', 'tonight', 'lively', 'enthusiastic', 'bunch', 'look', 'forward', 'working']	3
+31232	['best', 'part', 'day', 'jesus', 'snuggle', 'embraceto', 'rest', 'arms', 'know', 'love', '#sweetembrace', '']	3
+31233	['best', 'part', 'day', 'jesus', 'snuggle', 'embraceto', 'rest', 'arms', 'know', 'love', '#sweetembrace', '#delight']	3
+31234	['mrfisher81', 'just', 'attempt', 'levity', '']	1
+31235	['forgot', 'thank', 'jusdee', 'djolder', 'sharing', 'therealpeelas', 'daymaking', '#happy', 'video']	2
+31236	['lucina', 'fantastic', 'feel', 'cheery', 'feel', 'cheery']	3
+31237	['may', 'optimism', 'tomorrow', 'foundation', 'today']	2
+31238	['exhilarating', 'know', 'goosebumps', '2', 'hrs', '5m', 'straight']	2
+31239	['bluecouture', 'hilarity', 'people', 'realising', 'racism', 'racism', 'regardless', 'whether', 'one', 'uses', 'choice', 'words', 'hilarious']	0
+31240	['1barkcom', 'thank', '#follow', 'looking', 'forward', 'tweets', 'look', 'entertaining', '#smile', '#socialmedia']	2
+31241	['1barkcom', 'thank', '#follow', 'looking', 'forward', 'tweets', 'look', 'entertaining', '', '#socialmedia']	2
+31242	['jayroseee', 'new', 'breezy', 'amp', 'tiller', '']	1
+31243	['feeling', 'taking', 'someones', 'life', 'either', 'scarring', 'exhilarating', 'people', 'need', 'realize', 'going', 'die']	0
+31244	['miss', 'lil', 'caramel', 'delight', '']	1
+31245	['say', 'lover', 'pale', 'green', 'lightnhe', 'hovers', 'high', 'moon', 'shines', 'bright']	1
+31246	['alohajonathan', 'atlantafx', 'seen', 'clip', 'jail', 'scene', 'sexuality', 'part', 'hilarious']	2
+31247	['greggdoyelstar', 'sure', 'heyday']	1
+31248	['certain', 'hilarity', 'people', 'angry', 'protests', 'national', 'anthem', 'flag', 'acts', 'covered', '1st', 'amendment']	0
+31249	['breezy', 'breezy', 'breezy', 'breezy', 'buzzinnnnnn']	1
+31250	['ryan', 'murphy', 'create', '#ahs', '#glee', 'nso', 'different']	0
+31251	['lady', 'store', 'said', 'nice', 'eyelashes', 'good', 'right', '#optimism', 'verizon']	0
+31252	['love', 'looking', 'old', 'statuses', 'facebook', 'one', 'four', 'years', 'ago', 'day', '#glee', 'many', 'opinions']	2
+31253	['hi', 'luke', 'hemmingsnnnnif', 'flower', 'every', 'time', 'made', 'smile', 'garden', 'please', 'follow', 'nnni', 'love', 'x16092']	3
+31254	['ellioteastwick', 'just', 'play', 'rappers', 'delight', '15', 'minute', 'kip']	0
+31255	['occasionalgod', 'reason', 'horror', 'popular', 'exhilaration', 'comes', 'discomfort', 'enjoyable', '', 'watch', 'green', 'room', 'd']	1
+31256	['true', 'way', 'render', '#happy', 'love', 'work', 'find', 'pleasure', 'francoise', 'de', 'motteville']	1
+31257	['ryuredwings2', 'discovered', 'can', 'now', 'send', 'animated', 'gifs', 'updated', 'imessage']	0
+31258	['evening', 'forget', '#robinhoodhour', 'tonight', 'nn#bizitalk', '#bizhour', '#southyorkshire', '#mansfieldhour', '#chirp', '#sheffieldhour', '#nottshour']	1
+31259	['friends', 'send', 'ballons', 'fireworks', 'text#amazing', '#smiling']	3
+31260	['friends', 'send', 'ballons', 'fireworks', 'text', '#amazing', '']	3
+31261	['every', 'wednesday', 'like', 'visit', 'inmates', 'arkham', 'deliver', 'fruit', 'basket', 'cheery', 'bouquet', 'enhanced', 'interrogation']	1
+31262	['7we4k', 'lordderply', 'like', 'yugioh', 'animated', 'shows']	1
+31263	['ok', 'seems', 'still', 'hope', 'bsnl', 'nnow', 'bb', 'speed', 'ok', 'nbut', 'thank', 'elate', 'much', 'lest', 'gone', 'like', '']	0
+31264	['weathers', 'breezy', 'man', 'life', 'always', 'easy']	1
+31265	['news', 'supposed', 'damn', 'happy', 'rejoicing', 'like', '']	0
+31266	['sophierblake', 'skyspeedway', 'kelvintatum', 'chrislouisiwsc', 'wonder', 'kelvin', 'chris', 'smiling', '']	3
+31267	['', 'blood', 'mucus', 'chokes', 'swallow', 'mirth', 'cut', 'short', 'wrong', 'answer', 'takes', 'awkward', 'movements', '', 'persuasivefuck']	0
+31268	['gifs', 'ios10', 'messaging', 'app', 'hilarious']	2
+31269	['#educate', 'child', '#rich', 'educate', '#happy', 'grow', 'know', '#value', 'things', 'price']	0
+31270	['strictlysimilak', 'something', 'english', 'sparkling', 'wine', 'good', 'farmhouse', 'cider', 'italian', 'cocktails', 'thanks']	0
+31271	['johngdryden', 'gud', 'morning', 'sirkeep', 'smiling']	3
+31272	['maureenkamash', 'good', 'question', 'really', 'know', 'slowly', 'losing', 'optimism']	0
+31273	['traditionalists', 'say', 'bored', 'bored', 'bored', 'rule', 'cheerfully', 'ignored']	0
+31274	['lilymacintyre', 'favourite', 'joyful', 'soul']	1
+31275	['#ff', 'manihaaamir', 'adrence', 'keep', '#smiling', '…\xa0']	1
+31276	['wanna', 'get', 'dance', 'everyone', 'bed', 'sucks', 'everyone', 'wake', '', '#hyper', '#happy', '#letsdance', '#dirtydancinginthemoonlight']	3
+31277	['wanna', 'get', 'dance', 'everyone', 'bed', 'sucks', 'everyone', 'wake', '', '#hyper', '', '#letsdance', '#dirtydancinginthemoonlight']	3
+31278	['pm', 'nawaz', 'sharif', 'adressed', 'uno', 'produced', 'mirth', 'among', 'kashmires', 'done', 'pak', 'wel', 'done', 'nawaz', 'want', 'demilterization']	1
+31279	['got', 'see', 'last', 'lively', 'talkative', 'able', 'tell', 'loved', 'matters']	0
+31280	['go', 'one', 'extra', 'mile', 'just', 'see', 'smiling']	2
+31281	['nflonfox', 'thedoctorcarson', 'foxsports', 'easy', 'breezy', 'beautiful']	2
+31282	['everyone', 'sparkling', 'water', 'bomb', 'drink', 'mix', 'stuff']	0
+31283	['nerdist', 'cool', 'stephenbyrne86', 'animated', 'scene']	1
+31284	['nhlstorenyc', '', 'cheering', 'teamnawch', 'hcmen']	2
+31285	['steenfox', 'feeling', 'exact', 'way', 'also', 'read', 'akons', 'voice', 'provided', 'hearty', 'chuckle']	2
+31286	['yet', 'read', 'dutch', 'drivers', 'happy', 'theory', 'quit', 'driving', 'still', 'great', 'transpo', 'options']	1
+31287	['#chiropractor', 'makes', '#happy']	3
+31288	['#chiropractor', 'makes', '']	0
+31289	['swear', 'got', 'playful', 'ass', 'bf', 'ever', '']	3
+31290	['tf', 'broke', 'boys', 'keep', 'tryna', 'find', 'gfs', 'get', 'ur', 'fuckin', '', 'right', 'b4', 'smack', 'yo', 'bitchass', 'deserves', '2be', 'happy', 'amp', 'u', 'deserve', 'ass']	0
+31291	['1xfly', 'sir', 'hilarious']	2
+31292	['otherkinok', 'paradisoadam', 'nice', 'show', 'guys', 'now', 'supported', 'expect', 'cheering', 'dublinmarathon', 'oct', '30th', '']	3
+31293	['give', 'cheerfully']	1
+31294	['really', 'hate', 'mel', 'sue', 'think', 'hilarious', 'just', 'awful']	0
+31295	['just', 'died', 'laughter', 'seeing']	3
+31296	['stephaliciousd', 'afternoon', 'delight']	2
+31297	['910', 'character', 'woman', 'man', 'fat', 'jovial', 'woman', 'fat', 'useless', 'maybe', 'evil', 'amirite']	0
+31298	['watched', 'screamqueens', '2nd', 'seasons', '1st', 'episode', 'twice', 'already', 'still', 'joyful', 'planning', 'watching']	3
+31299	['joy', 'makes', 'us', '#grateful', '', '#gratitude', 'makes', 'us', '#joyful', 'n', '', 'david', 'rast']	2
+31300	['obfuscated', 'magazines', 'passage', 'unite', 'order', 'thine', 'mirth', 'conjunction', 'treat', 'quotient', 'sufficiently', 'leaqiwy']	0
+31301	['coffeeking12', 'jsavite', 'injecting', 'little', 'levity', 'person', 'tweeted', 'cokerape', 'tweet', 'obviously', 'idiot']	0
+31302	['idc', 'predicts', '2020', 'term', 'cloud', 'will', 'longer', 'usednnit', 'managers', 'administrators', 'everywhere', 'will', 'rejoice']	0
+31303	['fucking', 'playful']	0
+31304	['lilpowwow', 'jweiler0528', 'fat', '', 'buoyant', 'day', '1', 'water', 'stuff']	0
+31305	['pummeling', 'cheerfully', 'jauntily', 'utterly', 'onesidedly', 'makes', 'us', 'harder', 'better', 'faster', 'stronger']	2
+31306	['cheriefitz', 'extremely', 'playful']	1
+31307	['tweetermeyer', 'animated', 'version', 'better']	0
+31308	['job', 'interview', 'tomorrow', '', '#bright', 'side']	2
+31309	['stock', 'finished', 'amp', 'listed', 'living', 'room', 'moved', 'around', 'new', 'editing', 'done', 'amp', 'fitted', 'visit', 'inlaws', '#productivityatitsfinest', '#happy']	3
+31310	['stock', 'finished', 'amp', 'listed', 'living', 'room', 'moved', 'around', 'new', 'editing', 'done', 'amp', 'fitted', 'visit', 'inlaws', '#productivityatitsfinest', '']	2
+31311	['alooftroye', 'mean', 'tell', 'glee', 'getting', 'less', 'gleeful']	0
+31312	['davidplotz', 'commentary', 'writes', 'sort', 'playful', 'cynicism', '']	2
+31313	['branch', 'will', 'closed', 'sunday', '925', 'honor', 'ironman', '703', 'happening', 'downtown', 'come', 'cheer', 'race', 'participants']	2
+31314	['millieetylerx', 'thought', 'everyday', 'glee', 'day']	0
+31315	['remember', 'reflect', 'reginald', 'denny', 'night', 'much', 'like', 'like', '#charlotte', 'think', 'gun', 'lobby', 'must', 'rejoicing']	1
+31316	['aiseelanhe', 'will', 'rejoice', 'gladness', 'nhe', 'will', 'renew', 'love', 'nhe', 'will', 'rejoice', 'singing']	2
+31317	['zeph', '317', 'lordis', 'midst', 'mighty', 'one', 'will', 'save', 'will', 'rejoice', 'gladness', 'will', 'quiet', 'love']	2
+31318	['yesterday', 'history', 'tomorrow', 'amystery', 'today', 'gift', 'call', 'present', '#livelife', '#humbleness', '', '#live']	1
+31319	['yesterday', 'history', 'tomorrow', 'amystery', 'today', 'gift', 'call', 'present', '#livelife', '#humbleness', '#smile', '#live']	1
+31320	['itriborg', '—', 'make', 'feel', 'vigorous', 'fine', 'can', 'kill', 'now', 'said', 'hestia', 'display', 'despair', 'rather', 'joyful', '—']	0
+31321	['girls', 'playful', 'childlike', 'seem', 'lovely', 'relationships', 'imagine', 'serious', 'convos', 'cute', '', '']	3
+31322	['keep', '#smiling', 'life', 'beautiful', 'thing', 'much', '#smile', '#marilynmonroe', '#keepsmiling']	2
+31323	['birds', 'chirp', 'cows', 'moo', 'need', 'listen', 'sound', 'nature', 'ensure']	1
+31324	['pain', 'hips', 'squats', 'sign', 'youthfulness', 'spry', 'right', '']	0
+31325	['leons', 'cheerfulness', 'always', 'big', 'help']	2
+31326	['know', 'sparkling', 'letters', 'super', 'mario', 'galaxy', 'spell', 'u', 'r', 'mr', 'gay']	0
+31327	['headed', 'montalvo', 'wjaxster3—bring', '#mirth', 'bitchesndbnnickoffermannmeganomullallyn#summerof69tour2016']	1
+31328	['mcharlesworth7', 'forget', 'hair', 'salon', 'looks', 'light', 'amp', 'cheery', 'go', 'coffee', 'amp', 'read', 'book']	3
+31329	['ages', 'since', 'shawarma', 'stomach', '#rejoicing']	2
+31330	['ages', 'since', 'shawarma', 'stomach', '']	1
+31331	['breezy', 'love', '️']	2
+31332	['lord', 'jesus', 'don’t', 'want', 'prison', 'want', 'free', 'entice', 'heart', 'beauty', 'truth', 'amp', 'allow', 'rejoice', 'amen']	0
+31333	['viquintis', 'oh', 'yeah', 'never', 'showed', 'part', 'session', 'plop', 'discord', 'pure', 'hilarity']	2
+31334	['lizbon', 'anomalily', 'gerikkransky', 'sorry', 'levity', 'inappropriate', 'combined', 'love', 'charlotte', 'reminds', 'rn']	0
+31335	['hearty', 'thank', 'joining', 'tonight', 'delicious', 'british', 'dishes', 'menus', '#beerclub']	2
+31336	['y2jake85', 'yessir', 'also', 'cheering', 'sweden', 'bc', 'lundqvist']	1
+31337	['tiller', 'breezy', 'collab', 'album', 'rapping', 'singing', 'prolly', 'fire']	2
+31338	['fieldyates', 'matthewberrytmr', 'stephaniaespn', 'mikeclaynfl', 'frankcaliendo', 'goddamnthe', 'celebrity', 'draft', 'end', 'classic', '#hilarious']	2
+31339	['fieldyates', 'matthewberrytmr', 'stephaniaespn', 'mikeclaynfl', 'frankcaliendo', 'goddamnthe', 'celebrity', 'draft', 'end', 'classic', '']	1
+31340	['jtkola', 'danmericacnn', 'still', 'younger', 'spry', 'trump']	0
+31341	['get', 'astrosas', 'game', 'going', 'already', '', 'going', 'need', '5', 'attendance', 'cheer', 'victory']	2
+31342	['morning', 'started', 'amazing', 'hopefully', 'whole', 'day', 'going', 'want', 'gon#greatday', '#optimism']	3
+31343	['let', 'go', 'need', 'need', 'find', 'joyous', 'path', 'richness', 'extends', 'every', 'direction']	0
+31344	['may', 'man', 'live', 'longenough', 'leave', 'many', 'joyful', 'widows', 'behind']	2
+31345	['reinervshunter', 'got', '#staystrong', '#smile', '#yourebeautiful']	3
+31346	['reinervshunter', 'got', '#staystrong', '', '#yourebeautiful']	2
+31347	['miss', 'naivety', 'blind', 'optimism']	0
+31348	['stevestratford9', 'paultowheyjr', 'classicdrwho', 'bbc', 'bbcdoctorwho', 'will', 'get', 'animated', 'imo', 'companion', 'changesmonstersclassics']	0
+31349	['communitysleepcoach', 'look', '#narcoleptic', '#puppies', 'make', '#smile', 'human', 'amp', 'find', 'odd', 'positions', 'seek', '#th…']	2
+31350	['fun', 'pizza', 'night', 'last', 'night', 'performerscoll', 'crew', 'gorgeous', 'bunch', 'newbies', '️', '#lively', '#exciting', '']	3
+31351	['solange', 'aesthetically', 'pleasing', 'fave']	1
+31352	['irenelove83', 'can', 'get', 'brock', 'sable', 'tag', 'team', 'mr', 'mrs', 'awol', 'watch', 'glee']	1
+31353	['give', 'rise', 'eternal', 'home', 'aico', 'things', 'immolation', 'succeed', 'mother', 'country', 'exhilaration', 'akt']	1
+31354	['always', 'full', 'joy', 'lord', 'say', 'rejoice', 'philippians', '44']	1
+31355	['teamgrout', 'glee']	1
+31356	['congress', 'attended', 'midterm', 'liveliness', 'differently', 'constraints', 'qmiv']	0
+31357	['batman', 'animated', 'series', 'gift', '90s', 'animation', 'gods']	2
+31358	['icyemmax', 'lt', 'took', 'another', 'sip', '“we’ve', 'earth', 'shattering', 'soul', 'exhilarating', 'sex', 'think', 'black', 'souls', 'can', 'kind', 'gt']	1
+31359	['x', 'x', 'hear', 'darn', 'optimism', 'led', 'demise', '', 'lilive', '#zerobot']	0
+31360	['warm', '#smile', 'universal', 'language', 'kindness', 'william', 'arthur', 'ward', '#love', '#kindness']	2
+31361	['people', 'hate', 'nothing', 'happy', 'confident', 'person', 'never', 'mind', '#happy', '#confident']	0
+31362	['people', 'hate', 'nothing', 'happy', 'confident', 'person', 'never', 'mind', '', '#confident']	0
+31363	['today', 'answered', 'call', 'college', 'rep', 'realize', 'got', 'hear', 'part', 'lively', 'debate', 'evolution', 'real']	0
+31364	['wenniss', 'cheering', 'team', 'sweden', 'today', 'team', 'north', 'american']	0
+31365	['okashohime', '', 'returned', 'joyous', 'focus', 'pastelhaired', 'girl', 'wawas', 'okay', 'tooooo', 'squealed', 'raising', 'eyebrows', '']	2
+31366	['headfirstdom', 'often', 'imagine', 'hoe', 'moon', 'feel', 'meeting', 'jovial', 'moons', 'special']	1
+31367	['sardesairajdeep', 'narendramodi', 'u', 'seem', '2', 'b', 'happy', 'abt', 'dvlpt', 'nything', 'dat', 'fails', 'modi', 'make', 'u', 'elated', 'even', 'cost', 'de', 'country']	0
+31368	['jstors', 'lingua', 'obscura', 'articles', 'always', 'delight']	2
+31369	['reflection', 'grind', 'real', 'working', '2', 'jobs', 'amp', 'school', '#ksudsm', '#ksu', '#recruiter', '#instructor', '#tumble', '#cheer', '#gradschool']	0
+31370	['reflection', 'grind', 'real', 'working', '2', 'jobs', 'amp', 'school', '#ksudsm', '#ksu', '#recruiter', '#instructor', '#tumble', '', '#gradschool']	0
+31371	['johncrookshanks', 'elizabeth', 'smith', 'said', 'cheery', 'smile', 'pleasure', 'meet', 'sir', 'travelled']	2
+31372	['#taurus', 'females', 'beautiful', 'sparkling', 'jewels', 'glowing', 'moonlight']	2
+31373	['jimrichmoriarty', '', 'life', 'yells', 'surprise', 'surpriiise', 'chirps', 'cheerfully', 'wicked', 'grin', 'lips']	2
+31374	['coworker', 'happened', 'friend', 'mine', 'guns', 'instead', 'babies', '#workplace', '#hilarity']	0
+31375	['coworker', 'happened', 'friend', 'mine', 'guns', 'instead', 'babies', '#workplace', '']	0
+31376	['love', 'hearty', 'negro', 'laugh', 'jade', 'xavierdleau', 'let', 'relochte', '']	3
+31377	['howcaniapply', 'radioscarboro', 'much', 'delight']	3
+31378	['lethbridgecity', 'love', 'playful', 'guys', 'becoming', '', 'offline', '', '', '', '#beepbeep']	2
+31379	['love', 'new', 'show', 'driverminnie', '']	3
+31380	['', 'lit', 'class', 'great', 'person', 'good', 'cheer']	3
+31381	['gingernaylor', 'connie', 'came', 'back', 'hey', 'seem', 'bit', 'lively']	1
+31382	['fear', 'united', 'bottle', 'heart', 'actually', 'collapse', 'laughter']	3
+31383	['brianabanksxoxo', 'send', 'ya', '#playful', 'nibbles', '']	3
+31384	['toystoriesint', 'look', 'fab', 'made', 'big', 'screencant', 'wait', 'see', 'evolve', 'amp', 'bright', 'future', 'little', 'toy', 'people']	2
+31385	['lunatic', 'asylum', 'place', 'optimism', 'flourishes']	1
+31386	['good', 'morning', 'welcome', 'new', 'day', 'life', 'heart', '#mindfulness', '#smile', '#zen']	3
+31387	['good', 'morning', 'welcome', 'new', 'day', 'life', 'heart', '#mindfulness', '', '#zen']	3
+31388	['lord', 'god', 'midst—a', 'warrior', 'bringing', 'victory', 'will', 'create', 'calm', 'love', 'will', 'rejoice', 'singing']	1
+31389	['wednesdaychild', 'need', 'cheer']	0
+31390	['pakallman', 'get', 'going', 'tag', 'link', 'please', 'lot', 'friends', 'love', 'following', 'unintentional', 'hilarity']	2
+31391	['mistersalesman', 'thinkpostsdaily', '#smiling', 'necessary', 'means', 'happysometimes', 'just', 'means', 'strong']	0
+31392	['wildrovertours', 'thank', 'follow', 'good', 'website', 'cheering', 'hassle']	3
+31393	['iongroadhome', 'aesthetically', 'pleasing', 'every', 'single', 'day', 'even', 'pretty', 'just', 'woke', 'tired', 'just', 'always']	0
+31394	['eleanorbinks', 'least', 'blake', 'lively', 'ryan', 'reynolds', 'still', 'together', 'god', 'bless', 'beaut', 'couple']	1
+31395	['macengelprof', 'fact', 'levity', 'movie', 'theaters', 'post', 'actually', 'play', 'na', 'served', 'best', 'part', 'movies', 'like', 'thehulk']	0
+31396	['melissa', 'benoist', 'grant', 'gustin', 'musical', 'crossover', 'episode', '#glee', 'origins', '#arrowverse']	2
+31397	['readanerd', 'cheer', 'chuck']	0
+31398	['love', 'barberceleste', '', 'insta', '#hilarious']	3
+31399	['love', 'barberceleste', '', 'insta', '']	3
+31400	['presentations', 'propensity', 'hilarity', 'plays', 'large', 'part', 'determining', 'funnyoffensive', 'ratio', 'thoughts', 'will', 'go']	1
+31401	['pochettino', 'buoyant', 'complimentary', 'young', 'players', 'says', 'now', 'attention', 'turns', 'middlesbrough', '#thfc', 'bbclondonsport']	0
+31402	['incredible', 'nawaz', 'sharif', 'said', 'pakistan', 'victim', 'terrorism', 'amp', 'talked', 'abt', 'development', 'pak', 'incredible', 'controlled', 'laughter']	0
+31403	['comforting', 'amp', 'jubilant', 'place', 'find', 'joy', 'best', 'passionate', 'abt', 'company', 'keep']	1
+31404	['breezyweekes', 'hey', 'breezy', 'wanna', 'give', 'coffee', 'posted', 'snap', 'please']	0
+31405	['crying', 'msleamicheles', 'snapchat', 'bringing', 'serious', '#glee', 'feels', '']	1
+31406	['future', 'bright', '#remember']	2
+31407	['doubt', '#smiling', 'best', '#medicine', '']	3
+31408	['always', 'hurting', 'somewhere', 'always', 'tired', 'lively', '']	0
+31409	['vile', 'piece', 'scum', 'rejoicing', 'fact', 'dead', 'children', 'inhuman', 'say', 'worse', 'still', 'hope', 'karma', 'knocks']	0
+31410	['attitude', 'toward', 'struggles', 'equally', 'important', 'actions', 'work', '#optimism']	1
+31411	['attitude', 'toward', 'struggles', 'equally', 'important', 'actions', 'work', '']	0
+31412	['moment', 'levity', 'n', 'charlotte', 'dude', 'rollerblades', 'goes', 'skating', 'protesters', 'better', 'wearing', 'short', 'shorts', 'amp', 'blowing', 'whistle']	0
+31413	['profitable', 'fx', 'money', 'manager', 'clients', 'mind', 'high', 'profit', 'share', 'take', 'since', '#happy', 'returns', 'make']	1
+31414	['vbadawey', 'every', 'day', 'need', 'choose', 'hope', 'fear', 'diversity', 'division', '', 'justin', 'missed', 'optimism', 'change', 'sunniness', 'love']	1
+31415	['msdhoni', '#dhoni', 'bcoz', 'calmness', 'nd', 'match', 'winning', '', 'finishers', 'nd', 'proud', '#miltirian', '#dad#husband', 'nd', 'wonderful', 'humanbeing', 'nd', '#smile']	2
+31416	['msdhoni', '#dhoni', 'bcoz', 'calmness', 'nd', 'match', 'winning', '', 'finishers', 'nd', 'proud', '#miltirian', '#dad#husband', 'nd', 'wonderful', 'humanbeing', 'nd', '']	2
+31417	['#piersgough', 'thoroughly', 'lively', 'imaginative', 'developers—“sager', 'always', 'challenged', 'us', 'better', 'better”', 'islingtonsq']	0
+31418	['sophtulig', 'personally', 'prefer', 'happy']	1
+31419	['finally', 'braces', 'stop', 'smiling', '']	3
+31420	['outlanderhome', 'filming', 'tobiasmenzies', 'smile', 'please', '']	2
+31421	['beastfiretimdog', 'gaming', 'sites', 'leaned', 'ps2', 'heyday', 'leaned', '360', 'last', 'gen', 'gen', 'started', 'vitriolic', 'mostly']	0
+31422	['hard', 'cheer', 'team', 'north', 'america', 'since', 'us', 'got', 'taken']	0
+31423	['wanna', 'go', 'blithe', 'read', 'w', 'goats', '']	0
+31424	['urclassless', 'think', 'yawning', 'actor', 'died', 'drug', 'overdose', '#glee']	0
+31425	['urclassless', 'think', 'yawning', 'actor', 'died', 'drug', 'overdose', '']	0
+31426	['want', 'highlight', 'bright', 'ever', 'get', 'lost', 'someone', 'looking', 'dark', 'find']	0
+31427	['want', 'others', '#happy', 'practice', '#compassion', 'want', 'happy', 'practice', 'compassion', 'dalai', 'lama']	2
+31428	['menglishmusic', 'thank', 'fantastic', 'evening', 'brilliant', 'show', 'truly', '#sparkling', 'talent', 'night', 'quickly']	3
+31429	['lot', 'positives', 'tonight', 'clean', 'sheet', 'payet', 'got', 'free', 'kick', 'practice', 'zaza', 'looked', 'lively', 'made', 'lot', 'good', 'runs']	3
+31430	['look', 'us', 'smiling', 'photograph', 'can', 'see', 'secrets', 'behind', 'fake', 'smiles', '・ω・', '©fact「a', 'fact', 'life」']	1
+31431	['impractical', 'jokerspractically', 'genius', '', 'bqquinn', '', '#good4thesoul', '#impracticaljokers', '#bingewatching']	3
+31432	['impractical', 'jokerspractically', 'genius', '', 'bqquinn', '#laughter', '#good4thesoul', '#impracticaljokers', '#bingewatching']	3
+31433	['#ilofitt', '#laughter', '#happiness', '#spiritual', '#mental', '#physical', '#pizza', 'just', 'kidding', 'pizza', 'work', 'hard', 'facets', 'fitlife']	3
+31434	['somongmgmt', 'need', '2', 'bust', 'elites', 'dc', 'need', 'jobs', '4', 'need', 'clean', 'blithe', 'inner', 'cities', 'rebuild', 'housingcont2']	0
+31435	['pixelmonsteryt', 'teamge0', 'izedeptic', 'ztumtum', 'crimtidetv', 'ltgrandslam', 'slinkercorn', 'bahahahaha', 'dean', 'looks', 'hilarious', 'damn', 'got', 'fat']	1
+31436	['accept', 'challenges', 'can', 'literally', 'even', 'feel', 'exhilaration', 'victory', '', 'george', 's', 'patton', '']	1
+31437	['sowerash007', 'great', 'hear', 'one', 'thing', 'makes', 'feel', 'like', 'hearty', 'chicken', 'noodle', 'soup', 'right']	1
+31438	['woah', 'overtime', 'exhilarating', 'seat', 'hands', 'mackinnon', 'wow', '#wch2016']	3
+31439	['irony', 'hilarity', 'making', 'taylor', 'lautner', 'super', 'cold', 'time', 'lost', 'god', 'missed', 'show', '#screamqueens']	3
+31440	['bet', 'pawpaw', 'good', 'time', 'rejoicing', 'heaven', 'first', 'birthday']	2
+31441	['watching', 'ny', 'phil', 'webcast', '', 'something', 'missing', '', 'reminds', 'blithe', 'journeys', 'end', 'saw', 'bway', '', 'might', 'just', 'gershwin']	0
+31442	['night', 'sparkling', 'let', 'gonim', 'wonder', 'strucknblushing', 'way', 'home']	3
+31443	['please', 'stop', 'merriment', 'annoying']	0
+31444	['love', 'singing', 'time', 'weekly', 'choir', 'come', '#kwoir', 'theartworksuk', 'tomorrow', '#choir', '', '#musiclondon']	1
+31445	['love', 'singing', 'time', 'weekly', 'choir', 'come', '#kwoir', 'theartworksuk', 'tomorrow', '#choir', '#glee', '#musiclondon']	1
+31446	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '']	2
+31447	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '']	2
+31448	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '#optimism']	1
+31449	['crossfit', 'houstonla', 'homefolks', 'spry', 'proprieties', 'regimes', 'ajafue']	0
+31450	['understand', 'nowif', 'pleasing', 'earthen', 'aint', 'want', 'tired']	0
+31451	['lovely', 'story', 'actually', 'see', 'ruth', 'hubby', 'won', 'cashcow', 'sunriseon7it', 'funny', 'left', 'phone', '#happy', '']	3
+31452	['inglorious', 'distinguished', 'try', 'auction', 'joviality', 'touching', 'back', 'side', 'auction', 'otherwise', 'advance', 'order', 'vawyzad']	1
+31453	['know', 'beauty', 'smile', 'best', 'curve']	3
+31454	['boys', 'fall', 'makes', 'miss', 'cheering', 'friday', 'nights', 'much', 'sooooo', 'bad', '#bulldogslways']	0
+31455	['babylonian', 'convinced', 'mom', 'watch', 'killgrave', 'gave', 'literal', 'nightmares', 'watched', 'last', 'episode', 'four', 'times', '#smile']	0
+31456	['babylonian', 'convinced', 'mom', 'watch', 'killgrave', 'gave', 'literal', 'nightmares', 'watched', 'last', 'episode', 'four', 'times', '']	0
+31457	['bratzhead', 'happy', 'birthday', 'beautiful', 'cheerful', 'sister', 'ever', 'llnp', '']	3
+31458	['jaredwyand', 'trump', 'laughing', 'anyway', 'expression', 'never', 'changed', 'smiling', 'moment', 'levity', 'nothing', 'racist']	0
+31459	['soboleskih', 'okay', 'hilarious']	2
+31460	['homoaesthetics', 'yesyesyes', 'like', 'jd', 'closest', 'cahracter', 'similar', 'blaine', 'optimism', 'ability', 'crack', 'tough', 'characters']	3
+31461	['\uf525\uf481\uf3fc', 'lit', 'class', 'great', 'person', 'good', 'cheer']	3
+31462	['dayveesutton', 'big', 'thank', 'liking', 'little', 'pumpkin', '', '', '', 'smallest', '4', 'playful', 'amp', 'wakes', 'mornings']	2
+31463	['end', 'day', 'gotta', '#happy']	2
+31464	['enrique', 'sub', 'busquet', '#hilarious']	2
+31465	['enrique', 'sub', 'busquet', '']	0
+31466	['vincent', 'looking', 'super', 'lively', 'boy', 'hattrick', 'perhaps', 'lol']	2
+31467	['nickofferman', 'amp', 'meganomullally', 's', '#summerof69', 'show', 'raw', 'sexuality', 'pure', '#mirth', '', 'thanks', 'belly', 'laughs', 'butt', 'sex', 'japes']	3
+31468	['marcorubio', 'mentions', 'high', 'schoolaged', 'daughters', 'joyous', 'occasion', 'go', 'college', 'bring', 'fear', 'trepidation']	0
+31469	['ukulele', 'bag', 'fallen', 'apart', '', 'welll', 'least', 'life', 'yet', '']	0
+31470	['ukulele', 'bag', 'fallen', 'apart', '', 'welll', 'least', 'life', 'yet', '#optimism']	0
+31471	['everyday', 'wake', 'different', 'spursofficial', 'player', 'signs', 'contract', 'extension', 'love', '#future', '#is', '', '#coys']	3
+31472	['everyday', 'wake', 'different', 'spursofficial', 'player', 'signs', 'contract', 'extension', 'love', '#future', '#is', '#bright', '#coys']	3
+31473	['swear', 'people', 'wanna', 'see', 'happy', 'like', 'will', 'try', 'anything', 'fuck', 'got', 'going']	0
+31474	['#meogysdailyvocabenhancment', 'elation', 'quality', 'state', 'elated', 'feeling', 'state', 'great', 'joy', 'pride']	0
+31475	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', 'george', 's', 'patton', '#quote', '#yeg']	1
+31476	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', 'george', 's', 'pattonn#quote', '#motivation', '#entrepreneur']	0
+31477	['crazace76', 'looks', 'cool', 'animated', 'pixel', 'art', '']	1
+31478	['tomorrow', 'first', 'day', 'falland', 'elated']	3
+31479	['#appreciate', 'amp', 'enjoy', 'life', 'nuse', '#smile', '', 'help', 'others', 'use', '️']	2
+31480	['shawnstockman', 'hilarious', 'frighteningly', 'point', 'gone', 'bad', 'apples', 'national', 'disgrace']	0
+31481	['feel', 'like', 'one', 'friends', 'brought', 'freshmen', 'class', 'pre', 'game', 'earlier', 'year', 'bc', 'keeps', 'smiling']	1
+31482	['jmrescue', 'brilliant', 'lol', 'hoping', 'seeing', 'horse', 'tomorrow', 'will', 'cheer', '', '#equestrianhour']	0
+31483	['happy', 'birthday', 'shorty', 'stay', 'fine', 'stay', 'breezy', 'stay', 'wavy', 'daviistuart', '']	2
+31484	['philrosenthal', 'perhaps', 'missed', 'another', 'season', 'ihwphnyou', 'joyous', 'gleeful', 'prospect', 'eating']	3
+31485	['blast', 'playing', 'games', 'hearing', 'testimonies', 'pastor', 'jeremys', 'house', '#fellowship', '#food', '', '#praise', '#gospel', '#coffey1617']	3
+31486	['blast', 'playing', 'games', 'hearing', 'testimonies', 'pastor', 'jeremys', 'house', '#fellowship', '#food', '#laughter', '#praise', '#gospel', '#coffey1617']	3
+31487	['got', 'dick', 'recently', 'right', 'happy', 'sick', 'smiling', 'life', 'good', '']	1
+31488	['i\x92ve', 'learnt', '#smile', 'good', '#morning', 'goes', 'long', 'way', 'saying', '#thankyou', 'goes', 'even', '', '#quote', '#retweet', '#inspire']	2
+31489	['better', 'mood', 'today', 'bring', '#teasing', '#flirting', '#xdressers', '#laughter', '#roleplayers', 'also', '#confessions', '#secrets', 'underdeskloser']	3
+31490	['beingbrilliant', 'johnmurrays', 'welcome', 'genuinely', 'made', 'give', 'head', 'wobble', 'realise', 'important', 'life', '']	1
+31491	['mywrldsbl', 'can', 'wolf', 'want', 'hihi', '']	0
+31492	['mywrldsbl', 'can', 'wolf', 'want', 'hihi', '#breezy']	0
+31493	['#peoplelikemebecause', 'razor', 'wit', 'amp', 'sparkling', 'personality']	1
+31494	['take', 'little', 'make', 'childs', 'life', 'joyful', 'work', 'hard', 'make', 'lives', 'middleeasteye', 'peace']	0
+31495	['soul', 'searching', 'like', 'announce', 'chosen', 'chrissyteigen', 'amp', 'nicolerichie', 'adopted', 'sisters', 'due', 'hilarity']	2
+31496	['animated', 'little', 'thing', 'might', 'post', 'tomorrow', 'since', 'itll', 'good', 'thursday', 'nice']	2
+31497	['killerinasuit', '', 'now', 'getting', 'banned', 'will', 'still', 'lurk', 'corners', 'underneath', 'bed', 'sofa', 'much', 'eyepatchs', 'delight', '']	0
+31498	['erinandrews', '️you', 'dwts', 'make', 'night', 'every', 'show', '', '#hilarious']	3
+31499	['erinandrews', '️you', 'dwts', 'make', 'night', 'every', 'show', '', '']	3
+31500	['latest', 'new', 'optimism', 'keeping', '#raiders', '#oakland', 'live', 'right', 'now', 'kcbsnews', 'nfl', 'meets', 'wlott', 'amp', 'schaaf', 'talk', 'new', 'stadium']	1
+31501	['epicurus', 'man', 'least', 'dependent', 'upon', 'morrow', 'goes', 'meet', 'morrow', 'cheerfully']	1
+31502	['everyone', 'hates', 'twice', 'kinda', 'got', 'bops', 'bumping', 'rn', 'cheer']	0
+31503	['bits', 'cooked', 'actual', 'tasted', '', 'ok', 'cooked', 'raw', 'bits', 'tasted', 'awful', '55', 'hilarity', '15', 'taste', '05', 'safe', 'ingest']	0
+31504	['gothictana', 'delight']	2
+31505	['get', 'deviant', 'differently', 'enigmatic', 'bellboy', 'passage', 'correct', 'thy', 'ring', 'jaunty', 'iwldpe']	0
+31506	['nadyaginsburg', 'thankyou', 'unfailingly', 'bringing', 'much', 'joy', 'life', 'incredibly', 'talented', 'maker', 'mirth']	3
+31507	['try', 'find', 'good', 'negative', 'negative', 'can', 'turn', 'goodn#anxietyrelief', '#optimism', '#openminded']	1
+31508	['pregame', 'nerves', 'settled', '', 'il', '#cheering', 'home', 'guys', '️', '#aflcatsswans', '#proudlysydney', '#goswans', 'sydneyswans', 'swanssupport']	0
+31509	['big', 'thanks', 'brad', 'pitt', 'trashy', 'ways', 'brought', 'modicum', 'levity', 'otherwise', 'lame', 'week', 'political', '']	0
+31510	['winlose', 'draw', 'vs', 'lfc', 'football', 'fans', 'will', 'rejoice', 'west', 'ham', 'amp', 'chelsea', 'fans', 'beat', 'shit', 'council', 'house', '#coys']	2
+31511	['envy', 'ice', 'least', 'give', 'warmth', 'melts', '#taylorlautner', '#twilight', '', '#quote']	0
+31512	['envy', 'ice', 'least', 'give', 'warmth', 'melts', '#taylorlautner', '#twilight', '#hilarious', '#quote']	0
+31513	['literally', 'dying', 'amp', 'living', 'time', 'catch', 'adrianver', 's', 'twitter', 'following', 'life', 'basic', '#hilarity']	3
+31514	['literally', 'dying', 'amp', 'living', 'time', 'catch', 'adrianver', 's', 'twitter', 'following', 'life', 'basic', '']	0
+31515	['charm', 'liveliness', 'also', 'weakness']	0
+31516	['want', 'darren', 'open', 'video', 'can', 'appreciate', 'hilarity']	1
+31517	['okay', '#deepbreathes', '️', 'can', 'sydneyswans', '️', '#cheer', '#cheer', 'amp', 'see', 'side', 'peeps', '️', '#aflcatsswans', '#proudlysydney']	3
+31518	['come', 'bullskitcomedy', 'fundraiser', 'fri', '8pm', 'thescottblock', '#pie', '', '#face', '', '#hilarity']	2
+31519	['come', 'bullskitcomedy', 'fundraiser', 'fri', '8pm', 'thescottblock', '#pie', '', '#face', '', '']	1
+31520	['faultlessfacade', 'ltshe', 'really', 'said', 'response', 'perceived', 'forced', 'jovial', 'tone', 'slid', 'jeep', 'ontogt']	0
+31521	['thus', 'begins', '2', 'week', 'holiday', 'n#holiday', '#cheering', '#ghastinoir', '#rest']	3
+31522	['thus', 'begins', '2', 'week', 'holiday', 'n', '#holiday', '', '#ghastinoir', '#rest']	3
+31523	['#brigetjonesbabys', '#brigetjonesbaby', 'best', 'film', '#hilarious', '', 'good', '', 'funny', '']	3
+31524	['tnewhouse13', 'granny', 'say', 'know', 'chirp']	1
+31525	['mon', 'celtic', 'give', 'us', 'something', 'cheer', '', 'place', 'empty', 'soaked', 'amp', 'wee', 'nephews', 'birthday', 'ffs', 'started', 'now', 'dropped']	0
+31526	['girlandlurchers', 'yep', 'peeps', 'always', 'cheer', 'others', 'fine', 'drooling', 'gbbo', 'x']	2
+31527	['enews', '#breezy', 'deserve']	1
+31528	['simmyhanley', 'schrise', 'also', '#delight']	2
+31529	['simmyhanley', 'schrise', 'also', '']	0
+31530	['nearly', 'aesthetically', 'pleasing', 'enough', 'lol', 'need', 'ps', 'phone']	1
+31531	['someonesanidiot', 'sean10lynagh', '', 'due', 'hearty', 'lawsuit', 'nascar', 'will', 'raise', 'beer', 'prices', '007', 'accommodate', 'losses']	0
+31532	['veryeloise', 'gunna', 'make', 'cry', 'need', 'glee', 'day']	0
+31533	['bad', 'kurt', 'literally', '#glee']	0
+31534	['bad', 'kurt', 'literally', '']	0
+31535	['whatever', 'decide', 'make', 'sure', 'makes', '#happy']	2
+31536	['whatever', 'decide', 'make', 'sure', 'makes', '']	1
+31537	['lea', 'mini', 'set', 'tour', 'glee', 'heart', 'just', 'cried', 'tears', 'happiness', 'sadness']	1
+31538	['light', 'shining', 'thru', 'clear', 'sparkling', 'stream', 'piss', 'sight', 'women', 'will', 'never', 'know', 'ofalso', 'tells', 'tht', 'system', 'ure', 'system', 'healthy']	1
+31539	['treat', 'joy', 'laughter', 'form', 'worship', 'spiritual', 'warfare', '', '#live', '#victory', '#worship']	3
+31540	['treat', 'joy', 'laughter', 'form', 'worship', 'spiritual', 'warfare', '#laughter', '#live', '#victory', '#worship']	2
+31541	['embitteredicon', 'sam', 'grins', 'steves', 'lips', 'murmuring', 'words', 'playful', 'tone', 'want', 'shirt', 'sure', 'accommodate']	1
+31542	['#peoplelikemebecause', '', '', '', 'people', 'using', 'hashtag', 'brag', '', 'interested', 'pleasing', 'others', 'pleasing', 'god']	0
+31543	['boys', 'rejoice', 'badger', 'corner', 'reclaimed', 'first', 'social', 'year', '#cluboftheyear']	2
+31544	['ari', 'looks', 'hilarious', 'oh', 'g', 'd', 'much']	3
+31545	['people', 'call', 'pov', 'kx4', 'make', 'night', '#hilarious']	3
+31546	['people', 'call', 'pov', 'kx4', 'make', 'night', '']	1
+31547	['hilarity', 'ensues']	2
+31548	['5', 'person', 'renown', 'cheerful', 'expectation', 'solutionspleasure', 'principle', 'back', 'hsnhzmjsc']	1
+31549	['beings', 'physical', 'reality', 'reflection', 'always', 'joyful', 'extends', 'lives']	1
+31550	['xgames', 'looks', 'exhilarating', 'looking', 'forward', 'seeing', '']	3
+31551	['like', 'said', '', 'plenty', 'cheddar', 'cheese', 'go', 'around', 'everyone', '', '']	3
+31552	['like', 'said', '', 'plenty', 'cheddar', 'cheese', 'go', 'around', 'everyone', '', '#smile']	2
+31553	['howling', 'laughter', '“well', 'done', 'bezza”', '#bakeoff', '#gbbo']	3
+31554	['yapyip', 'uncertainty', 'halsey', 'teases', 'lips', 'curving', 'jovial', 'smirk']	1
+31555	['scottlocker220', 'thank', 'notification', 'came', 'nick', 'time', 'cheer', '', 'retweet']	3
+31556	['715d1ni', 'bought', 'steam', 'port', 'vice', 'city', 'delight', 'billie', 'jean', 'soundtrack']	3
+31557	['never', '#make', 'decision', '', '#angry', 'gtlt', '', 'never', 'make', '#promis', '#happy', '', '']	0
+31558	['glacierqxeen', 'nnwhoo', 'welcome', 'greeted', 'cheerfully']	3
+31559	['thenthapple', 'haha', 'like', 'optimism', 'cause', 'make', 'situation', 'less', 'mind', 'boggling']	1
+31560	['mrstarax', 'plategotate', 'yes', 'rejoicing']	3
+31561	['sometimes', 'get', 'sit', 'back', 'proud', 'pleasing']	0
+31562	['djmusicologist', '#disneys', '1994', '#animated', '#musical', '#film', '#thelionking', 'influenced', '#williamshakespeares', '#hamlet', 'songs', '#eltonjohn']	1
+31563	['jackhoward', 'christmas', 'episode', 'genuinely', 'tears', 'laughter']	3
+31564	['made', 'squirrel', 'friend', 'today', 'gave', 'core', 'plum', 'eating', 'seemed', 'happy']	3
+31565	['julwhite', 'chirp', 'chirp', '']	1
+31566	['kaijinboyfriend', 'animated', 'much', 'recently', 'technologywise', 'makes', 'nice', 'combinationlook']	0
+31567	['indermethil', 'true', 'rejoicing', 'fact', 'signed', 'quality', 'young', 'cb', 'need', 'one', 'least', 'marcbartra', '', 'mebbe', 'p']	0
+31568	['prinybaby', 'happppy', 'happppyyyyyy', 'happppppyyyyy', 'haaapppyyyy', 'birthday', 'best', 'friend', 'love', 'lots', '', '#chapter22', '#bdaygirl', '', '#love']	3
+31569	['prinybaby', 'happppy', 'happppyyyyyy', 'happppppyyyyy', 'haaapppyyyy', 'birthday', 'best', 'friend', 'love', 'lots', '', '#chapter22', '#bdaygirl', '#happy', '#love']	3
+31570	['carras16', 'still', 'bright', '']	1
+31571	['accept', 'challenges', 'can', 'feel', 'exhilaration', 'victory', 'nn#mbmclisse']	1
+31572	['sanatana', 'lopez', 'definitely', '', '#glee']	2
+31573	['sanatana', 'lopez', 'definitely', '', '']	2
+31574	['maybe', 'entire', 'russian', 'team', 'will', 'test', 'positive', 'meldonium', 'north', 'americans', 'will', 'get', 'replace', '#optimism']	0
+31575	['maybe', 'entire', 'russian', 'team', 'will', 'test', 'positive', 'meldonium', 'north', 'americans', 'will', 'get', 'replace', '']	0
+31576	['cool', 'see', 'smart', '#cowboystwitter', 'folks', 'chirp', 'stuff', 'review', '', 'joined']	1
+31577	['try', 'find', 'good', 'negative', 'negative', 'can', 'turn', 'goodn', '#anxietyrelief', '', '#openminded']	0
+31578	['andiymouse', 'jordanabrown', 'f1ghtcamp', 'sure', 'just', 'fine', 'can', 'always', 'change', '#beer', '#cheer', 'squad']	2
+31579	['adults', 'remain', 'jovial', 'amidst', 'bad', 'news']	0
+31580	['find', 'smiling', 'even', 'laughing', 'jokes', 'even', 'think', 'particularly', 'funny', 'know', 'love']	2
+31581	['just', 'caught', 'richardegrants', 'wonderful', 'new', 'series', '#ealingcomedies', 'infectious', 'delight', 'every', 'interview', 'film', 'clip']	2
+31582	['survived', 'spintrying', 'get', 'stairs', 'hilarious', 'tho', '#jellylegs', '']	3
+31583	['will', 'lively', 'evening', 'ot', 'one']	0
+31584	['bridesmaid', 'dresses', 'carnal', 'delight', 'addition', 'separates', 'rfpbax']	1
+31585	['wuffinarts', 'c', 'heartfelt', 'condolences', 'glad', 'passed', 'levity', 'love', 'heart']	0
+31586	['root', 'canal', 'therapy', 'bad', 'reputation', 'past', 'new', 'technology', 'allowed', 'comfortable', 'procedures', '', '#dental']	1
+31587	['root', 'canal', 'therapy', 'bad', 'reputation', 'past', 'new', 'technology', 'allowed', 'comfortable', 'procedures', '#smile', '#dental']	0
+31588	['draw', 'lively', '#eflcup']	1
+31589	['laughter', 'powerful', 'thing', 'everybody', 'deserves', 'laugh', 'u', 'like', 'shitty', 'romcoms', 'get', 'giggle', 'outta', 'planet', 'uranus', 'power', 'u']	2
+31590	['got', 'much', 'fans', 'yall', 'vixx', 'keep', 'smiling', '']	3
+31591	['#lethalweapon', 'suicidal', 'vet', 'ptsd', 'fucking', 'funny', 'let', 'hilarity', 'begin']	2
+31592	['xmaseveevil1', '#msm', 'rejoicing', 'fooled', 'us', 'body', 'doubles', 'long', 'amp', 'now', 'death', 'secret', 'just', 'like', 'hawkings']	0
+31593	['fuck', 'people', 'smile', 'back', 'corridors']	0
+31594	['lakeline', 'still', 'find', 'pleasing']	1
+31595	['wished', '25', '#hilarious', '#autocorrect', 'fails']	0
+31596	['dehydrated', 'exhausted', 'stressed', 'still', 'blessed', '']	0
+31597	['dehydrated', 'exhausted', 'stressed', 'still', 'blessed', '#optimism']	0
+31598	['will', 'whu', 'old', 'bill', 'free', 'time', 'game', 'chelsea', 'comes', 'around', '', '', 'nthat', 'will', 'lively', 'say', 'leastn#afc']	3
+31599	['u', 'learned', 'swim', '', 'keep', 'working', 'denser', 'less', 'buoyant', '', 'swimming', 'scary', '', 'also', 'u', 'swim', '']	0
+31600	['semores', 'get', '#mirth', '#saw', '#keepthetradition', '']	2
+31601	['senpaivanilla', 'height', 'hilarity', 'fact', 'adult', 'swan', 'highly', 'likely', 'attack']	0
+31602	['nhlstorenyc', 'teamnawch', '#nhlnycsweepstakes', 'fun', 'watching', 'team', 'north', 'america', 'cheering', 'team', 'canada']	2
+31603	['#sports', 'top', 'seed', 'johnson', 'chases', 'double', 'delight', 'tour', 'championship']	1
+31604	['meth', 'documentary', 'exhilarating']	0
+31605	['head', 'north', 'arrive', 'breezy', 'cave', 'smells', 'sweet', 'glance', 'watch', 'running', '15', 'minutes', 'late']	0
+31606	['elevenseggos', 'el', 'turned', 'around', 'smiling', 'hugging', 'gently']	2
+31607	['selbsie', 'yapyap', 'upon', 'time', 'avid', 'fanfiction', 'patron', 'kpop', 'heyday']	2
+31608	['tell', 'truth', 'make', 'someone', 'cry', 'better', 'tell', 'lie', 'make', 'someone', 'smile', '#truth', '#lie', '#cry', '', '#offalonehugots']	0
+31609	['tell', 'truth', 'make', 'someone', 'cry', 'better', 'tell', 'lie', 'make', 'someone', 'smile', '#truth', '#lie', '#cry', '#smile', '#offalonehugots']	0
+31610	['#happy', 'means', 'letting', 'go', 'clinging', 'attachment', 'things', 'life', '#wednesdaywisdom', '#life']	1
+31611	['tired', 'body', 'mind', 'sparkling', 'teeth', 'say', 'followers', 'good', 'night', 'apocalypse', 'good', 'luck', '#aspie']	1
+31612	['refuse', 'chirp', 'chirp', 'girl']	0
+31613	['hard', 'stifle', 'laughter', 'overheard', 'comment', 'really', 'amazing', 'worst', 'ways']	2
+31614	['walking', 'little', 'boy', 'red', 'shirt56', 'years', 'age', 'shouting', 'distance', '3', 'meters', 'jovial', 'manner', 'saying']	2
+31615	['asked', 'one', 'thing', 'guys', 'tonight', 'got', '#happy', '#proud', '#disappointed', '', 'football', '#timetoclimbthetable']	2
+2018-en-joy-dev-1	['baek0ff', 'byunglows', 'philippines', '']	1
+2018-en-joy-dev-2	['new', 'favourite', '#film', 'shadow', 'doubt', '#okja', '#beautifull', '#funny', '#sad', '#emotional', '#real', '#netflix', '#mustwatch', '#now']	2
+2018-en-joy-dev-3	['enter', 'code', '10', 'free', 'lyfts', 'parx', '#isnt', 'great', 'save', 'money', 'shop', '#blissful', '#freecab']	1
+2018-en-joy-dev-4	['let', 'longer', 'languish', '#pain', 'look', 'forward', '#joy', 'gifted', 'achieve', 'life', '', '#eleesha', 'ღ', '#quote']	1
+2018-en-joy-dev-5	['cubewatermelon', 'jonkimbel', 'hilarious', 'legit', 'milkshake', 'duck', 'apologizers', 'yes', 'just', 'hypothetic', 'milkshake', 'duck']	1
+2018-en-joy-dev-6	['datphan', 'much', 'fun', 'interviewed', 'supremely', 'talented', 'funny', '#datphan', '#comedy', '#laughter', '#soup']	2
+2018-en-joy-dev-7	['god', 'favors', 'men', 'women', 'delight', 'made', 'worthy', 'happiness', 'happiness']	1
+2018-en-joy-dev-8	['hit', 'blessed', '']	1
+2018-en-joy-dev-9	['#smile', 'always', 'make', 'easy', 'possible', 'get', 'best', 'orthodontic', 'care', 'matter', 'need']	1
+2018-en-joy-dev-10	['also', '45', 'billion', 'opiod', 'crisis', 'pennies', 'complete', 'joke', 'almost', 'hilarious', '65', 'billion', 'high', 'risk', 'pools', 'itll', '#dryupquick']	0
+2018-en-joy-dev-11	['sheenkl', 'assume', 'manga', '#good']	0
+2018-en-joy-dev-12	['caseydellacqua', 'ashbar96', 'will', 'cheering', 'go', 'caseydellacqua', 'ashbar96']	1
+2018-en-joy-dev-13	['kevinhearne', 'oh', 'actually', 'first', 'guess', 'thought', 'dark', 'irish', 'man', 'bce', 'thanks', 'clearing', 'd']	1
+2018-en-joy-dev-14	['coming', 'shortly', '#wetindeyhappen', '#satire', '#laughs', '#local', '#pidgin', 'cc', 'mctalkindrum', 'funnyudeme', '#staytuned', '#premiumtalkstation']	1
+2018-en-joy-dev-15	['just', 'watched', 'joenbc', 'colbertlateshow', '', 'amp', 'say', 'awe', 'hair', 'products', 'using', 'greggutfeld', '', '#beautiful', '#jealous']	1
+2018-en-joy-dev-16	['thought', 'bad', 'driver', 'went', 'college', '#relieved']	1
+2018-en-joy-dev-17	['ubiqsmart', '', 'looking', 'like', 'good', 'buy', 'price', 'great', 'platform', 'dev', 'team', 'future', 'looks', '#bright']	2
+2018-en-joy-dev-18	['cut', 'hair', 'can', 'fucc', 'hoes', 'durag', '#glee', '#sg']	1
+2018-en-joy-dev-19	['success', 'just', 'accomplish', 'life', 'inspire', 'others', '#inspiration', '', '#inspire']	1
+2018-en-joy-dev-20	['khaojimmy', 'okay', 'awak', '']	1
+2018-en-joy-dev-21	['movies', 'towatch', 'list', 'spiderman', 'homecoming', 'war', 'planet', 'apes', '', '#excited', '#movies']	3
+2018-en-joy-dev-22	['smile', '#happy', '#smile']	3
+2018-en-joy-dev-23	['finally', 'finished', 'terms', 'class', 'book', 'sky', 'hawk', 'gilllewis', 'kids', 'tears', 'actually', 'cheering', 'end', '#good', 'read']	2
+2018-en-joy-dev-24	['smiling', 'like', 'mf']	3
+2018-en-joy-dev-25	['#teacher', 'attempting', 'teach', 'without', '#inspiring', '#pupil', '#desire', 'learn', 'hammering', 'cold', 'iron', '#horacemann']	0
+2018-en-joy-dev-26	['taking', 'time', 'busy', 'catch', '#great', '#american', '#eclipse', 'really', 'incredible', 'see', 'even', 'partial', 'view', 'view']	1
+2018-en-joy-dev-27	['finally', 'left', 'dark', 'room', 'crying', 'amp', 'instead', 'getting', 'sun', 'translucent', 'skin', 'got', '6000', 'mosquito', 'bites', '#blessed']	0
+2018-en-joy-dev-28	['halfway', '#madeforlove', 'alissanutting', 'utterly', '#brilliant', '#reading', 'laughing', 'loud']	3
+2018-en-joy-dev-29	['add', 'snap', 'whoajay', '', '#snap', '#streaks', '#snapchat', '#story', '#friends', '#add', '#follow', '#love', '#traveling', '#photography', '#funny']	2
+2018-en-joy-dev-30	['feed', 'die', 'starvation', 'said', 'slightly', 'smiling', 'frowned', 'panira', 'kainis']	0
+2018-en-joy-dev-31	['happy', 'birthday', 'zanele', 'ni', 'hope', 'wonderful', 'day', 'xanradebe', 'n']	2
+2018-en-joy-dev-32	['thinking', 'fergies', 'music', 'milf', 'seriously', 'mother', 'someday', 'milf', '', '#lmao', '#empowerment', '#adorable']	2
+2018-en-joy-dev-33	['last', 'sunday', 'youtube', 'glitch', 'making', 'lose', '20', 'subs', 'heartbreaking', 'channel', 'size', 'nearly', '1k', 'though', '#1ksubs', '#youtube', 'soon', '']	0
+2018-en-joy-dev-34	['already', '3', 'nico', 'urs', 'really', 'need', 'smile', 'ur', '', 'confused']	0
+2018-en-joy-dev-35	['whenever', 'turn', 'radio', 'hear', 'bob', 'dylans', 'knocking', 'heavens', 'door', 'played', 'assume', 'died', '#relieved', '#notyet', '#someday']	0
+2018-en-joy-dev-36	['mayusteapot', 'ok', 'better', '']	1
+2018-en-joy-dev-37	['tootaehyung', 'omggg', 'bloated', '', 'wonderful', 'idea', 'start', 'tomorrow']	1
+2018-en-joy-dev-38	['nisalocally', 'cocacolagb', 'thanks', 'love', 'share', 'coke', 'holiday', 'family', '', '#smile', 'chance', '#win', '']	2
+2018-en-joy-dev-39	['boys', 'awful', 'also', 'amazing', 'right']	1
+2018-en-joy-dev-40	['mabisson', 'aroundtherings', 'la2024', 'felt', 'soul', 'hilarious']	2
+2018-en-joy-dev-41	['jesskardashian', 'trevschan2', 'awesome', '', 'people', 'missing', 'watching', 'fear']	1
+2018-en-joy-dev-42	['nancypelosi', 'mean', 'bushno', 'trumpno', 'bush', '#giggles', '#hipocrite', '#liar', '#troublemaker', '#antifasupporter']	0
+2018-en-joy-dev-43	['eclipse', '', 'angelic', '', '#blessing']	2
+2018-en-joy-dev-44	['jonlovett', 'said', 'hilarious', 'smart', 'lovett', 'leave', 'brilliant', 'please', 'come', 'live', 'show', 'florida']	2
+2018-en-joy-dev-45	['kind', 'fucked', 'brother', 'join', 'police', 'academyand', 'happy', 'one']	0
+2018-en-joy-dev-46	['#redvelvet', '#wendy', '#seulgi', '#irene', '#yeri', '#joy', 'n1', 'member', 'can', 'drink', 'sparkling', 'water', '']	0
+2018-en-joy-dev-47	['conflicting', 'scents', 'house', 'cinnamon', 'sponge', 'cooling', 'tamarillo', 'chutney', 'cooking', '#sweet', '#spicy', '#homemade', '#delicious']	1
+2018-en-joy-dev-48	['learn', 'live', 'life', 'regardless', 'circumstances', 'amp', 'let', 'life', 'leave', 'n#purpose', '#growth', '', '#process', '#confident', '#happy', '#joy']	1
+2018-en-joy-dev-49	['finding', 'store', 'closing', 'sad', '#awesome', '50', 'everything', 'get', 'now', 'bag', 'nothing', '#redbull', 'amp', 'aloe', 'water']	1
+2018-en-joy-dev-50	['peplamb', 'stevenfurtick', '#comfort', '#mourn', 'console', '#mourn', '#zion', 'give', '#beauty', '#ashes', '#oil', '#joy', 'for…']	0
+2018-en-joy-dev-51	['just', 'got', 'gift', 'via', 'cool', 'virtual', 'assistant', 'tryevabot', 'wanna', 'experience', 'let', 'know', 'can', 'send', 'gift', '', '#magical', '#delightful', '']	2
+2018-en-joy-dev-52	['loss', 'aint', 'loss', 'lesson', '#smile']	0
+2018-en-joy-dev-53	['beautinasuit', 'need', 'thank', 'just', 'telling', 'like', '', 'hope', 'great', 'day', '']	2
+2018-en-joy-dev-54	['itejasmehta', 'qtalker', 'pleasure', '']	2
+2018-en-joy-dev-55	['greatest', 'happiness', 'seeing', 'someone', 'like', 'stay', 'happy', '', 'daidouji', 'tomoyo', 'cardcaptor', 'sakura', '']	3
+2018-en-joy-dev-56	['waking', '#scent', '#coffee', '#pleasure', 'nn#morning', '#carliforniadreaming', '#writers']	3
+2018-en-joy-dev-57	['ruthharvey', 'happy', 'bday', 'ruth', 'hope', 'amazing', 'day', 'x']	3
+2018-en-joy-dev-58	['domconlon', 'it’s', 'amazing', 'isn’t', 'i’m', 'big', 'fan', 'bampw', 'life', 'restorations', 'give', 'photographs', 'awe', 'inspiring']	2
+2018-en-joy-dev-59	['shoe0nhead', 'obscuredleg', 'hi', 'just', 'wanted', 'wish', 'two', 'happy', 'tuesday']	2
+2018-en-joy-dev-60	['oxandcartuk', 'jamieoliver', 'made', '', '#quickandeasyfood']	1
+2018-en-joy-dev-61	['actornithiin', 'happy', 'birthday', 'manisharma', 'sirr', 'great', 'year', 'head']	1
+2018-en-joy-dev-62	['lose', 'ever', 'lost', 'best', 'friend', 'soul', 'mate', 'smile', 'laugh', 'everything']	0
+2018-en-joy-dev-63	['#badday', 'went', '#youtube', 'watched', 'domoandcrissy', 'reaction', 'old', 'pics', '#thanks', '#ladies', '#laughs']	2
+2018-en-joy-dev-64	['', 'locked', 'loop', 'daily', 'treasure', 'hunt', '', '#optimism']	0
+2018-en-joy-dev-65	['elegantlywasted', 'chelseaclinton', 'new', 'kennedys', 'american', 'politics', 'sadly', 'mom', 'daughter', 'charming', 'toe', 'nail']	0
+2018-en-joy-dev-66	['cookie', '', 'nutella', 'topping', 'kinder', 'buenowhiten#cookie', '#muffin', '#nutella', '#food', '#delicious', '#foodporn', '#happy', '#dessert', '#chocolate', '#cake', '#junkfood']	2
+2018-en-joy-dev-67	['hey', 'buddy', 'just', 'came', 'feed', 'venus', 'flytrap', '—sue', 's1e13', '#glee']	1
+2018-en-joy-dev-68	['candycmarketing', 'happens', 'want', 'watch', 'content', 'vote', '']	1
+2018-en-joy-dev-69	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '#optimism']	1
+2018-en-joy-dev-70	['#sad', '#missed', '#gdragon', '#tonight', '#seattlemight', 'awhile', 'back', 'hope', 'everyone', 'attended', '#concert', '#great', '#time']	0
+2018-en-joy-dev-71	['happy', 'birthday', 'd']	2
+2018-en-joy-dev-72	['bloggerlinds', 'wishing', 'joy', 'day', '#joy', '#happiness', '#empowerri']	3
+2018-en-joy-dev-73	['need', 'study', 'celebrities', 'birthdays', 'bc', 'heart', 'almost', 'stopped', 'saw', 'harrison', 'ford', 'trending', '', '#relieved']	0
+2018-en-joy-dev-74	['will', 'ever', 'tired', 'second', 'kid', 'put', 'top', '', '#workmom', '#grateful']	1
+2018-en-joy-dev-75	['airishcloudly', 'aaww', 'iam', 'sending', 'virtual', 'hug', 'eonnie', 'cares', 'cheer', 'study']	2
+2018-en-joy-dev-76	['neobrainless', 'lots', 'pretty', 'coloured', 'blobs', 'sugar', 'mean', 'willing', 'try', 'just', 'sure', 'understand', 'point', '']	1
+2018-en-joy-dev-77	['ash', 'weirdest', 'laughter']	1
+2018-en-joy-dev-78	['thanks', 'following', 'twitter', 'like', 'see', '#funny', '#happy', 'thefactably']	2
+2018-en-joy-dev-79	['0530', 'timebrew', 'toast', 'tv', 'anyone', 'else', 'gets', '', '#earlydoors', '#mumlife', '#lifewithtoddlers']	2
+2018-en-joy-dev-80	['meet', 'interview', 'recognise', 'streets', '', 'even', 'know', 'name', '']	1
+2018-en-joy-dev-81	['ldnoverground', 'train', 'announcing', 'absolutely', 'everything', 'overground', 'station', 'network', '#giggle']	1
+2018-en-joy-dev-82	['dynamicgaby', 'vincescastro', 'get', 'free', 'planner', 'think', '', '', '#csuf', '#mofuckintitans']	0
+2018-en-joy-dev-83	['doranadal', 'janeforrafffa', '#bigsmile', '#great', 'post', '#greatrafa', '#loverafa']	2
+2018-en-joy-dev-84	['sometimes', 'just', 'need', 'eat', 'delicious', 'piece', 'chocolate', 'remind', 'need', 'bitter', 'sweetness', 'redeems']	2
+2018-en-joy-dev-85	['smiling', 'like', 'thatndominos', 'sent', 'coupon', '']	1
+2018-en-joy-dev-86	['sleepy', 'lotion', 'lushcosmetics', 'smells', 'like', 'bouquet', 'lavender', 'bunch', 'toasted', 'marshmallows', 'love', 'child', '#delicious']	2
+2018-en-joy-dev-87	['shibexd', 'happy', 'birthday', 'one', 'favorite', 'content', 'creator', 'hope', 'wonderful', 'birthday']	3
+2018-en-joy-dev-88	['#great', 'start', '#beginners', 'jump', 'auto', '#trading', 'profitable', 'fx', 'ea', 'will', 'give', 'full', 'support', 'manuals', 'amp', 'team', 'viewer', 'support']	1
+2018-en-joy-dev-89	['mywifestyles', 'thank', 'following', 'please', 'read', 'astonishing', 'ebook', '#flightofalifetime', 'you’ll', 'glad', '#happy', '#smiles']	2
+2018-en-joy-dev-90	['#glad', 'four', '#top', 'picks', 'got', '#agt']	2
+2018-en-joy-dev-91	['exciting', 'day', 'aheadlunch', 'panoramic34', 'girls', '#foodie', '#yummy', '#myday', '#friends']	3
+2018-en-joy-dev-92	['sleeping', 'past', 'noon', 'look', 'window', 'see', 'hotel', 'hot', 'tub', '#bliss']	3
+2018-en-joy-dev-93	['mood', '', 'happy', '', '#blessing']	3
+2018-en-joy-dev-94	['raymondpryce1', 'yes', 'happening', 'u', 'welding', 'shield', 'u', 'can', 'get', 'first', 'hand', 'view', '']	1
+2018-en-joy-dev-95	['badhombrenps', 'secretaryperry', 'make', 'angry', 'laughing', 'tweet']	0
+2018-en-joy-dev-96	['hatzepueh', 'call', 'creepy', 'handsome', 'adorable', 'nicest', 'shark', 'ever', '', 'ok', 'zora', 'buuuuuut', 'looks', 'like', 'shark']	1
+2018-en-joy-dev-97	['rickhoffman', 'grateful', 'perseverance', 'happy', 'anniversary', 'twin']	3
+2018-en-joy-dev-98	['lizyank', 'comparison', 'makes', 'happy', '#flattered', '#engl678mu']	3
+2018-en-joy-dev-99	['kyliespearsxo', 'happy', 'birthday', '#beautiful', 'kylie', '']	3
+2018-en-joy-dev-100	['swish41', 'offense', 'mavs', '2nd', 'favorite', 'part', 'dallas', '1#', 'barbecue', '#delicious']	1
+2018-en-joy-dev-101	['rksallycat82', 'planning', 'september', '']	1
+2018-en-joy-dev-102	['step', '#brilliance', '#womeninbiz', '#womeninbusiness', '#successs', '#femaleleaders', '#femaleentrepeneurs']	2
+2018-en-joy-dev-103	['us', 'varied', '#talents', '#gifts', 'amp', '#abilities', '#all', '#work', '#together', '#we', 'can', '#help', '#make', '#world', '#better', 'amp', '#brighter', '#place']	2
+2018-en-joy-dev-104	['delight']	1
+2018-en-joy-dev-105	['charming', 'smile', 'can', 'really', 'make', 'smile', 'believe']	2
+2018-en-joy-dev-106	['jamessssss', '', 'good', 'bye', 'dear', 'pleasure']	0
+2018-en-joy-dev-107	['best', 'thing', 'cooking', 'eggs', 'even', 'original', 'idea', 'work', 'still', 'got', 'scrambled', 'eggs', '#optimism']	1
+2018-en-joy-dev-108	['bonless', 'sirlion', 'tipsmixed', 'veggies', 'browngravy', 'amp', 'homemade', 'mashed', 'potatoes', '#inthekitchen', '', '#latenightmunchies', '#yummy', '#getuagirlthatcancook']	1
+2018-en-joy-dev-109	['long', 'connor9mcintyre', '', '#phelan', '#brilliance']	0
+2018-en-joy-dev-110	['wow', 'brocklesnar', '#awesome', 'man', '#fatalsway', '#summerslam', '#wwe', '#wrestling', '#champ']	2
+2018-en-joy-dev-111	['bathe', 'pool', '#stars', '#sun', '', 'wash', 'away', 'assumptions', 'rejoin', '#joyful', 'noise', 'bliss', '#love', '', '#loveoverhate', '#resistinbeauty']	3
+2018-en-joy-dev-112	['rickysnecklace', 'proud', 'mils', 'keep', 'smiling', '️']	3
+2018-en-joy-dev-113	['dirtyducko', 'funder', 'wish', 'like', 'twice', '#hilarious']	2
+2018-en-joy-dev-114	['point', 'living', 'optimist', 'foolish', 'enough', 'believe', 'best', 'yet', 'come', '', 'peter', 'ustinov', '#optimism', '#quote']	0
+2018-en-joy-dev-115	['walk', 'door', 'cuppa', '', '#bliss']	3
+2018-en-joy-dev-116	['golden', 'temple', 'beautiful', '']	3
+2018-en-joy-dev-117	['edit', 'photos', '#spnfamily', '#samwinchester', '#jaredpadalecki', '', '#lips', '#tease']	0
+2018-en-joy-dev-118	['guys', 'want', 'super', 'inhealthy', 'delicious', 'snack', 'cheezit', 'dipped', 'cream', 'cheese', 'way', 'go', '', '#delicious', '#preggocravings']	2
+2018-en-joy-dev-119	['unchallenged', 'present', 'creates', 'complacent', 'future', '#tuesdaythought', '#selfimprovement', '#success', '#excitement']	1
+2018-en-joy-dev-120	['duarteamanda', 'theseantcollins', 'lmao', 'lack', 'self', 'awareness', 'last', 'tweet', 'genuinely', 'awe', 'inspiring']	1
+2018-en-joy-dev-121	['imkbrshanthnu', 'happy', 'birthday', 'buddy', 'wishing', 'u', 'lots', '#smiles', 'amp', '#success', '', '#ameen', 'bday', '#3days', '', 'yaayyaaa']	3
+2018-en-joy-dev-122	['see', '#campaignmasterclass', 'friday', 'haystravel', 'excited', 'hope', '', '#emailmarketing']	2
+2018-en-joy-dev-123	['#lol', '#funny', '#comedy', '#sarcasm', 'care', 'nnme', 'one', 'second', 'later', 'starts', 'crying']	1
+2018-en-joy-dev-124	['keranderson', 'maybe', 'evening', 'can', '']	1
+2018-en-joy-dev-125	['addictedspurs', 'cos', 'ok', '#great']	1
+2018-en-joy-dev-126	['ginoceno', 'great', 'prediction', 'bro', 'nice', 'optimism', '#fakefan']	1
+2018-en-joy-dev-127	['nothing', 'makes', 'happier', 'managing', 'depression']	2
+2018-en-joy-dev-128	['#ripbiwott', 'think', 'robert', 'oukos', 'soul', 'can', 'now', 'rejoice', 'rest', 'peace', 'call', 'evil', 'man', 'evil', 'good', 'man', 'good', 'man', 'evil', 'man']	0
+2018-en-joy-dev-129	['jadeodette', 'one', 'wrong', '', 'just', 'want', 'believe', 'hampm', 'haha', '']	1
+2018-en-joy-dev-130	['really', 'flattered', 'happy', 'hear', 'complements', 'blog', 'guys', 'motivates', 'write', 'blog', 'thank', 'sml', '']	3
+2018-en-joy-dev-131	['#intl', 'hey', 'bae', 'ssyhoe', 'happy', '7th', 'month', 'anniversary', '', 'ily']	3
+2018-en-joy-dev-132	['“#woe', 'unto', '#you', '#full', 'ye', 'shall', '#hunger', '#woe', 'unto', '#laugh', 'now', 'ye', 'shall', '#mourn', '#weep”nluke', '625']	0
+2018-en-joy-dev-133	['reason', 'someone', 'smiles', 'today', '#smile', '#happiness']	2
+2018-en-joy-dev-134	['good', 'tuesday', 'morning', 'person', 'makes', 'someone', 'smile', 'just', 'thought', 'younnbe', 'blessed', 'blessing', '', '#bbabab']	2
+2018-en-joy-dev-135	['just', 'received', 'fantastic', 'news', 'next', '9', 'bed', 'sui', 'generis', 'hmo', 'full', 'planning', 'permission', 'build', 'start', '01', 'september', '#excited']	3
+2018-en-joy-dev-136	['stuael', 'ano', 'man', 'stunned', 'one', 'point', 'heads', 'gone', 'scoring', 'will', '#relieved']	1
+2018-en-joy-dev-137	['want', 'diamonds', 'bright', 'future']	2
+2018-en-joy-dev-138	['fuck', 'nigga', 'feelings', 'till', 'find', 'nigga', 'feeling', '']	0
+2018-en-joy-dev-139	['yashah07', 'hahaha', 'got', 'forward', '', 'want', 'find', 'source', 'teach', '']	1
+2018-en-joy-dev-140	['#look', '#those', '#honest', '#good', '#wonderful', '#future', '#awaits', '#love', '#peace']	3
+2018-en-joy-dev-141	['got', 'free', 'drpepper', 'vending', 'machine', '#awesome']	2
+2018-en-joy-dev-142	['love', 'hate', 'cause', '', '#smile']	0
+2018-en-joy-dev-143	['perfectly', '#recall', '#amazing', '#surreal', '#totalsolareclipse', '#fortunate', '#experience', '#europe', '#manyyearsago', '#live', 'n#happy', '4', '#youguys', '#usa', '']	2
+2018-en-joy-dev-144	['morninggloria', 'came', 'damn', 'boy', 'jokes', 'stayed', 'great', 'actual', 'job', '']	1
+2018-en-joy-dev-145	['monikagoswamirk', 'just', 'see', '2', 'episodes', '#dillagi', 'still', 'curious', 'falling', 'hero', '', 'watching', 'soon', '']	1
+2018-en-joy-dev-146	['bruhhhwhy', 'armon', 'cute', 'therealaandt', '', 'just', 'chill', 'ughhhhh', '#attractive', '#whyamisingle', '#houston']	2
+2018-en-joy-dev-147	['jdmhatchg', 'a34bart', 'iointeractive', 'ravenclaww04', 'hitman', 'attitude', 'makes', 'beam', 'delight', 'every', 'time', 'encounter']	2
+2018-en-joy-dev-148	['person', 'excited', 'go', 'yeah', 'excited', 'afraidadapting', 'studying', 'want']	0
+2018-en-joy-dev-149	['wonderful', 'thing', 'able', 'start', 'day', 'laughter']	3
+2018-en-joy-dev-150	['today', 'first', 'time', 'playing', 'ffxii', 'happy', '#zodiacage']	3
+2018-en-joy-dev-151	['talking', 'catfish', 'tinder', '', 'glad', 'use', 'seriously', '']	2
+2018-en-joy-dev-152	['must', 'take', '#excitement', '#solareclipse', '#inspire', '#children', '#love', '#science']	2
+2018-en-joy-dev-153	['sometimes', 'smile', 'pretend', 'everything', 'okay', 'just', 'walk', 'away']	0
+2018-en-joy-dev-154	['kermodemovie', 'shall', 'mooning', 'cheerfully', 'arrives', 'although', 'probably', 'president']	1
+2018-en-joy-dev-155	['time', 'bed', 'real', 'bed', 'four', 'nights', 'camping', '#bliss']	1
+2018-en-joy-dev-156	['happy', 'share', 'new', 'video', 'preview', 'local', 'favsn#compose', '#excitement', 'cbcmusic', 'musicyyc', '', 'cjsw', 'breakoutwest', 'hificlub']	3
+2018-en-joy-dev-157	['hi', 'evmarketus', 'thanku', '#follow', 'nus', '#hairdressers', 'love', 'sharing', '#smiles', 'nits', 'universal', 'languagenhave', 'fab', 'day', '']	2
+2018-en-joy-dev-158	['amber02150', 'good', 'morning', 'happy', 'winter', 'day', '']	2
+2018-en-joy-dev-159	['idk', 'help', 'someone', '', 'smile', 'comes', 'lipsnn#thatisall', '#ieverwant', '#noneeds', '#justyou', '#love', '#peace', '#smiling', '#faces', '#kindness']	3
+2018-en-joy-dev-160	['dying', 'hair', 'extreme', 'color', 'first', 'time', '#excited', '#nervous', '#change', '#notfastenough']	2
+2018-en-joy-dev-161	['soon', 'trailer', 'will', 'likes', 'views', '']	1
+2018-en-joy-dev-162	['roryplays', '', 'busy', 'yesterday', 'forgot', 'wish', 'u', 'happy', 'birthday', 'got', 'happy', 'belated', 'birthday', 'hope', 'u', 'wonderful', 'day']	2
+2018-en-joy-dev-163	['much', 'see', 'world', 'full', 'glee']	2
+2018-en-joy-dev-164	['best', 'girlfriend', 'world', '', '#blessed']	3
+2018-en-joy-dev-165	['don’t', 'let', 'fear', 'losing', 'greater', 'excitement', 'winning', 'robert', 'kiyosakinnalloutdenimfor', 'kissmarc']	1
+2018-en-joy-dev-166	['gracious', 'o', 'godfor', 'soul', 'takes', '#refuge', 'shadow', 'wings', 'will', 'take', '#refuge', 'psalm', '571', '#hope', '#jesus', '#joy']	1
+2018-en-joy-dev-167	['dropped', 'birth', 'control', 'floor', 'find', 'cause', 'blends', 'carpet', '', '#joy']	1
+2018-en-joy-dev-168	['#contentwiththelordsportioneven', 'times', 'scarcity”yet', 'will', '#rejoice', '#lord', 'will', '#joy', 'god', '#salvation”', '#hab', '318']	1
+2018-en-joy-dev-169	['three', 'retweets', 'dumb', 'fox', 'shit', 'one', 'original', 'tweet', 'blatant', 'lie', 'scrotus', 'morningnada', 'wretched', 'offspring', '']	0
+2018-en-joy-dev-170	['suddenly', 'dreams', 'mine', 'coming', 'true', '#happy']	3
+2018-en-joy-dev-171	['bedtime', 'full', 'listen', 'lou', 'reeds', 'album', 'transformer', 'full', 'albums', 'underrated', 'days', '#back2back', '#enjoyment', '', '', 'x']	2
+2018-en-joy-dev-172	['day', 'started', 'great', '', 'mocha', 'machine', 'working', '', 'mcdonalds']	0
+2018-en-joy-dev-173	['joysparklebs', 'able', 'sit', 'much', 'solid', 'info', 'others', 'came', 'ready', 'kill', 'true', 'sign', 'strength', '#inspiring']	1
+2018-en-joy-dev-174	['fierzaarbx', 'hi', 'fierzaa', 'hope', 'friend', 'roblox', 'btw', 'love', 'kat', 'usernameusatylerx', '']	2
+2018-en-joy-dev-175	['jjph', 'admin', 'search', 'will', 'start', 'friday', 'excited']	2
+2018-en-joy-dev-176	['just', 'finished', '#thekeeperoflostthings', '', 'incredible', '#charming', '#book', '', 'loved', 'ruthmariehogan', '', 'weave', 'story', 'telling', 'magic', '', 'love']	3
+2018-en-joy-dev-177	['h0lliejburrows', 'congrats', 'beautiful', '']	2
+2018-en-joy-dev-178	['moon', 'tonight', '', '#beautiful']	2
+2018-en-joy-dev-179	['michealarroyo2', 'nope', 'thanks', 'though', 'took', 'yrs', 'find', 'hubby', 'great', '', 'makes', 'life', 'great', '#', 'really', '#awesomeness']	3
+2018-en-joy-dev-180	['pepesgrandma', 'freebeacon', 'thanks', 'early', 'morning', 'laughter', '']	3
+2018-en-joy-dev-181	['yesterday', 'gone', 'old', 'song', 'new', 'song', 'live', '4', 'today', 'get', '#pizza', '#live', '#love', '#laugh', '#wednesdaywisdom', '#follow', 'thelyricalb', '']	1
+2018-en-joy-dev-182	['vesciodiana', 'forgot', '#laughter', '️️️']	1
+2018-en-joy-dev-183	['aksongstress', 'one', 'gh', 'finest', 'energetic', '#dancehall', 'act', '#blessing', 'disguise', '', 'prolific', '']	2
+2018-en-joy-dev-184	['thanks', 'recent', 'follow', 'discoverdelicio', 'johnmilley58', 'orbeaucustomer', 'happy', 'connect', '', 'great', 'tuesday']	2
+2018-en-joy-dev-185	['pale', 'longer', 'wanna', 'laugh', 'smile', 'wanna', 'just', 'fucking', 'cry']	0
+2018-en-joy-dev-186	['different', 'approach', 'today', 'london', 'town', 'amp', 'sharonsatkinson', 'chatted', 'good', 'ol', 'fashioned', 'natter', '#cannotbeatachat', '#talking', '#laughing']	1
+2018-en-joy-dev-187	['never', 'excited', 'start', 'semester']	3
+2018-en-joy-dev-188	['today', '71117', '']	1
+2018-en-joy-dev-189	['#wtf', '#wonderful', 'idea', 'nyouve', 'bought', 'tweets', 'likes', 'pretty', 'pointless', '#bye', '#bye', '#twat']	0
+2018-en-joy-dev-190	['friends', 'sad', 'basically', 'becomes', 'psychiatristnmy', 'friends', 'sad', 'ok', '#funny', '#lol']	0
+2018-en-joy-dev-191	['chasejarvis', 'honestly', 'hearing', 'againits', 'kinda', 'imprinted', 'mind', 'now', 'thanks', '️️', '', '#strategy']	3
+2018-en-joy-dev-192	['uncommon', '#people', 'spend', 'whole', 'life', 'waiting', 'start', 'living', '', 'eckhart', 'tolle', '#happiness', '#live']	1
+2018-en-joy-dev-193	['grinbins', 'force', 'give', 'money', '']	0
+2018-en-joy-dev-194	['olark', 'mashable', 'thanks', 'olark', '#awesome', 'someone', 'suffers', '#anxiety', 'migraines', 'always', 'fear', 'stigma', 'give', 'hope']	1
+2018-en-joy-dev-195	['deeply', 'loved', 'someone', 'gives', 'strength', 'loving', 'someone', 'deeply', 'gives', 'courage', 'lao', 'tzu', '#wedding', '#happy', '#love']	3
+2018-en-joy-dev-196	['popstufs3', 'coffee', 'good', 'view', 'even', 'better', '']	3
+2018-en-joy-dev-197	['really', 'afraid', 'find', 'rather', '#annoying', 'amp', '#amusing', '']	0
+2018-en-joy-dev-198	['seriouslooking', 'folks', 'suffer', 'unused', 'smile', 'muscles', 'nn', '#behappy', '', '#hatersgonnahate']	0
+2018-en-joy-dev-199	['delete', 'facebook', 'much', '']	0
+2018-en-joy-dev-200	['devbostick', 'danielhenshall', 'o', 'beautiful']	2
